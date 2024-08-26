@@ -166,8 +166,8 @@ For a complete list, click the following sortable link below:
 | **[Delta System & Software, Inc.](http://deltassi.com)** | **[SAP FI with P2P Consultant](https://jobright-internal.com/jobs/info/66c81b6ea6753155ad9eb1e5?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Aug 22 |
 | **[Victra](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c80d7e0cb26a7859d4d125?utm_campaign=Consultant&utm_source=1103)** | Sharon Hill, PA | On Site | Aug 22 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c80d7e0cb26a7859d4d128?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 22 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef892dc?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Aug 22 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef892e5?utm_campaign=Consultant&utm_source=1103)** | Sharon Hill, PA | On Site | Aug 22 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef892ee?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Aug 22 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c7f93a2d865d7fc50afffa?utm_campaign=Consultant&utm_source=1103)** | Warren, MI | On Site | Aug 22 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright-internal.com/jobs/info/66c7f93a2d865d7fc50afff5?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 22 |
 | **[CIBT Global](http://cibtvisas.com/)** | **[Despatch Consultant](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c3e1?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Aug 22 |
