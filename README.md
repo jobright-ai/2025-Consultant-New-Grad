@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/676cac13796f72e82b6c3b6d?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Dec 25 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676c965b30bcd791ca692468?utm_campaign=Consultant&utm_source=1103)** | Pharr, TX | On Site | Dec 25 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676c936dfe24e45f4fa5d32b?utm_campaign=Consultant&utm_source=1103)** | Pharr, TX | On Site | Dec 25 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676bbb01eef390309d18eddf?utm_campaign=Consultant&utm_source=1103)** | Universal City, TX | On Site | Dec 24 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676ba73dc9a0569131f93aeb?utm_campaign=Consultant&utm_source=1103)** | Universal City, TX | On Site | Dec 24 |
 | **[PwC](http://pwc.com)** | **[EPM Oracle Finance Consultant, Senior Associate](https://jobright.ai/jobs/info/676b98f985f5b56ed7fb6e3a?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Dec 24 |
 | **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Application Consultant](https://jobright.ai/jobs/info/676b6cf3676d76b28784205e?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 24 |
 | **[PwC](http://pwc.com)** | **[Financial Services - AWM Transformation Consulting - Experienced Associate](https://jobright.ai/jobs/info/676b4d119da5412d5ea417ab?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Dec 24 |
@@ -74,9 +77,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Solar Consultant](https://jobright.ai/jobs/info/676a1ca975c73be8bf6521b7?utm_campaign=Consultant&utm_source=1103)** | Naples, FL | On Site | Dec 23 |
 | ↳ | **[Solar Consultant](https://jobright.ai/jobs/info/676a1ca975c73be8bf6521b1?utm_campaign=Consultant&utm_source=1103)** | Cape Coral, FL | On Site | Dec 23 |
 | **[Verint](https://www.verint.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/674e034072268c4d51b2c685?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 23 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676a0911353cd9e9415f0820?utm_campaign=Consultant&utm_source=1103)** | Port Richey, FL | On Site | Dec 23 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676a0911353cd9e9415f0827?utm_campaign=Consultant&utm_source=1103)** | Sugar Hill, GA | On Site | Dec 23 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676a0911353cd9e9415f0827?utm_campaign=Consultant&utm_source=1103)** | Sugar Hill, GA | On Site | Dec 23 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676a0911353cd9e9415f0821?utm_campaign=Consultant&utm_source=1103)** | Sugar Hill, GA | On Site | Dec 23 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/676a1ca975c73be8bf6525bb?utm_campaign=Consultant&utm_source=1103)** | Port Richey, FL | On Site | Dec 23 |
 | **[PwC](http://pwc.com)** | **[Finance Transformation Consultant - Finance Strategy, Experienced Associate](https://jobright.ai/jobs/info/676a2684a0fab6c0e8589be2?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[Finance Transformation Consultant - Finance Strategy, Experienced Associate](https://jobright.ai/jobs/info/6769fb9c552744f98528f188?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Dec 23 |
 | ↳ | **[Finance Transformation Consultant - Finance Strategy, Experienced Associate](https://jobright.ai/jobs/info/6769fb9c552744f98528f18f?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
@@ -142,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/675132059e8f723692cccd02?utm_campaign=Consultant&utm_source=1103)** | Tomball, TX | On Site | Dec 20 |
 | **[PwC](http://pwc.com)** | **[Workday Advanced Compensation Implementation Consultant, Senior Associate](https://jobright.ai/jobs/info/67650124b98a10834628cca5?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Dec 19 |
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Associate Workday Financials Consultant](https://jobright.ai/jobs/info/6764f1366947a2863db0537e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 19 |
-| **[Guidehouse](https://guidehouse.com)** | **[Public Heath, Strategy, Consultant](https://jobright.ai/jobs/info/6764e053ce621706f183edb2?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Dec 19 |
+| **[Guidehouse](https://guidehouse.com)** | **[Financial Services / Consultant](https://jobright.ai/jobs/info/6764db88bf71e992a640d830?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 19 |
+| ↳ | **[Public Heath, Strategy, Consultant](https://jobright.ai/jobs/info/6764e053ce621706f183edb2?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Dec 19 |
 | **[Donor Network West](https://www.donornetworkwest.org/)** | **[Donation Program Consultant](https://jobright.ai/jobs/info/6764d9519fb77033c6858a34?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Dec 19 |
 | ↳ | **[Donation Program Consultant (Santa Cruz & Monterey Counties)](https://jobright.ai/jobs/info/6764d9519fb77033c6858a29?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Dec 19 |
-| **[Guidehouse](https://guidehouse.com)** | **[Financial Services / Consultant](https://jobright.ai/jobs/info/6764e29aff423977d52635a9?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 19 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Albany, NY](https://jobright.ai/jobs/info/6764c6b4d18324dfc2372c02?utm_campaign=Consultant&utm_source=1103)** | Albany, NY | Hybrid | Dec 19 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Group Account Assistant](https://jobright.ai/jobs/info/6764bba662795f5ff50cc456?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Dec 19 |
 | **[PwC](http://pwc.com)** | **[Finance Transformation Consultant - Finance Strategy, Experienced Associate](https://jobright.ai/jobs/info/6764bba662795f5ff50cc485?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Dec 19 |
@@ -174,8 +177,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/6764462f6ff0cdc5241275a5?utm_campaign=Consultant&utm_source=1103)** | Fort Wayne, IN | On Site | Dec 19 |
 | **[Blackbaud](https://www.blackbaud.com/)** | **[Sales Solutions Consultant, Financial Edge NXT](https://jobright.ai/jobs/info/67290bfd0d766b70391f193d?utm_campaign=Consultant&utm_source=1103)** | Ohio, United States | On Site | Dec 19 |
 | ↳ | **[Sales Solutions Consultant, Financial Edge NXT](https://jobright.ai/jobs/info/67290bfd0d766b70391f1942?utm_campaign=Consultant&utm_source=1103)** | North Dakota, United States | On Site | Dec 19 |
-| ↳ | **[Sales Solutions Consultant, Financial Edge NXT](https://jobright.ai/jobs/info/67290bfd0d766b70391f1947?utm_campaign=Consultant&utm_source=1103)** | Indiana, United States | On Site | Dec 19 |
-| **[PwC](http://pwc.com)** | **[EPM Oracle Finance Consultant, Senior Associate](https://jobright.ai/jobs/info/6763fab5b1e1e2af4543f6fe?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Dec 19 |
-| **[Blackbaud](https://www.blackbaud.com/)** | **[Sales Solutions Consultant, Financial Edge NXT](https://jobright.ai/jobs/info/67290bfd0d766b70391f1934?utm_campaign=Consultant&utm_source=1103)** | Kentucky, United States | On Site | Dec 19 |
-| ↳ | **[Sales Solutions Consultant, Financial Edge NXT](https://jobright.ai/jobs/info/67290bfd0d766b70391f192e?utm_campaign=Consultant&utm_source=1103)** | New Mexico, United States | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
