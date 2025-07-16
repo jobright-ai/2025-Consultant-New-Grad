@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (January 2026 Start)](https://jobright.ai/jobs/info/6877e4b95cebcd1dd51d5ebc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 16 |
+| **[Siemens](https://www.siemens.com/)** | **[Implementation Consultant - Genesis Trainee](https://jobright.ai/jobs/info/6877d8ca866a435525ab4a0e?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Jul 16 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Risk & Policy Support Consultant](https://jobright.ai/jobs/info/6877c8e3ae2f413e4a5bd1ff?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 16 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6877b2815cebcd1dd51d465d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 16 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Financial Institution Consulting Associate - Remote Eligible](https://jobright.ai/jobs/info/685b43debc23eac2e2129e0b?utm_campaign=Consultant&utm_source=1103)** | Boise, ID | Remote | Jul 16 |
 | **[Oracle](https://www.oracle.com/)** | **[Consultant](https://jobright.ai/jobs/info/686ff29106ad7073463b9e74?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Jul 16 |
+| ↳ | **[Oracle Health Consultant - Patient Accounting (RevCycle)](https://jobright.ai/jobs/info/683fad5d76ce326df6d33751?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate](https://jobright.ai/jobs/info/6877670dae2f413e4a5bacf8?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | On Site | Jul 16 |
 | **[Allstate](http://www.allstate.com)** | **[Outside Adjuster Consultant I - Rome, GA](https://jobright.ai/jobs/info/687763fe299cbc74b8767097?utm_campaign=Consultant&utm_source=1103)** | Rome, GA | Remote | Jul 16 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68775dc35cebcd1dd51d2c29?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 16 |
@@ -125,8 +129,7 @@ For a complete list, click the following sortable link below:
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96805?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jul 14 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6839e3b0dae0bd06a8bdc4bf?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 14 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Experienced Consultant - Americas](https://jobright.ai/jobs/info/681e3fbda28a137cdfd2c972?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Jul 14 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/68749a525cebcd1dd51bb42b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 13 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/68749a385cebcd1dd51bb41f?utm_campaign=Consultant&utm_source=1103)** | Newark, NJ | Remote | Jul 13 |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/68749a385cebcd1dd51bb41f?utm_campaign=Consultant&utm_source=1103)** | Newark, NJ | Remote | Jul 13 |
 | **[Closers.io](http://closers.io)** | **[Sales Consultant (Business Consulting $95k-$125k/year+)](https://jobright.ai/jobs/info/6874818dae2f413e4a59d184?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | On Site | Jul 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/68746bb7ae2f413e4a59c3fa?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Jul 13 |
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (General Surgery/Plastics/Ortho/ENT) - Full Time - Remote](https://jobright.ai/jobs/info/6847076b16b89a104a2e1354?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Jul 13 |
@@ -183,16 +186,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870367006ad7073463bc0fe?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Remote | Jul 10 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68703674a5ae807a59cf6b74?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Jul 10 |
 | **[Sentry](https://www.sentry.com/)** | **[Risk Control Consultant](https://jobright.ai/jobs/info/6870261e06ad7073463bb7a5?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Jul 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d27002?utm_campaign=Consultant&utm_source=1103)** | 107 N MAIN ST,PORT CHESTER,NY,10573-04210-07485-S | On Site | Jul 10 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27766?utm_campaign=Consultant&utm_source=1103)** | 107 N MAIN ST,PORT CHESTER,NY,10573 | On Site | Jul 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27766?utm_campaign=Consultant&utm_source=1103)** | 107 N MAIN ST,PORT CHESTER,NY,10573 | On Site | Jul 10 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d27002?utm_campaign=Consultant&utm_source=1103)** | 107 N MAIN ST,PORT CHESTER,NY,10573-04210-07485-S | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d26e06?utm_campaign=Consultant&utm_source=1103)** | 7707 SE 27TH ST,MERCER ISLAND,WA,98040-02844-03733-S | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27767?utm_campaign=Consultant&utm_source=1103)** | 7707 SE 27TH ST,MERCER ISLAND,WA,98040 | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d26e34?utm_campaign=Consultant&utm_source=1103)** | 5115 98TH ST,LUBBOCK,TX,79424 | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27768?utm_campaign=Consultant&utm_source=1103)** | 5115 98TH ST,LUBBOCK,TX,79424-07530-07853-S | On Site | Jul 10 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27769?utm_campaign=Consultant&utm_source=1103)** | 2102 NEZ PERCE DR,LEWISTON,ID,83501 | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d26eb0?utm_campaign=Consultant&utm_source=1103)** | 2102 NEZ PERCE DR,LEWISTON,ID,83501-04116-02679-S | On Site | Jul 10 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d26df2?utm_campaign=Consultant&utm_source=1103)** | 7101 W HEFNER RD,OKLAHOMA CITY,OK,73162-04503-03668-S | On Site | Jul 10 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d27769?utm_campaign=Consultant&utm_source=1103)** | 2102 NEZ PERCE DR,LEWISTON,ID,83501 | On Site | Jul 10 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e26b07d800a7e4d2776a?utm_campaign=Consultant&utm_source=1103)** | 7101 W HEFNER RD,OKLAHOMA CITY,OK,73162 | On Site | Jul 10 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/6870e22f07d800a7e4d26df2?utm_campaign=Consultant&utm_source=1103)** | 7101 W HEFNER RD,OKLAHOMA CITY,OK,73162-04503-03668-S | On Site | Jul 10 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Morristown, NJ](https://jobright.ai/jobs/info/68702b1b06ad7073463bbae4?utm_campaign=Consultant&utm_source=1103)** | Morristown, NJ | Hybrid | Jul 10 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687371d44001e95011b15304?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Jul 10 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Supply Chain Management](https://jobright.ai/jobs/info/686ffa9a01cc0956e7e7e4b9?utm_campaign=Consultant&utm_source=1103)** | New York | On Site | Jul 10 |
@@ -205,8 +208,8 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Broker Consultant](https://jobright.ai/jobs/info/6836402b978894974f895918?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Jul 10 |
 | ↳ | **[Broker Consultant](https://jobright.ai/jobs/info/6836894827f5e8ef42351604?utm_campaign=Consultant&utm_source=1103)** | Elmwood Park, NJ | On Site | Jul 10 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Associate Cloud Consultant, AWS Professional Services](https://jobright.ai/jobs/info/686ff6d701cc0956e7e7e316?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Jul 10 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870067c01cc0956e7e7ea35?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Jul 10 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68700ea101cc0956e7e7ee4e?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Jul 10 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68700ea101cc0956e7e7ee4e?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Jul 10 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870067c01cc0956e7e7ea35?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Jul 10 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/686ffe8701cc0956e7e7e68a?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Jul 10 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870065206ad7073463ba734?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 10 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870070706ad7073463ba79e?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Jul 10 |
@@ -237,5 +240,4 @@ For a complete list, click the following sortable link below:
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68737dfb4001e95011b1625c?utm_campaign=Consultant&utm_source=1103)** | Decatur, GA | On Site | Jul 09 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Consultant I-Limited Term (2 vacancies)](https://jobright.ai/jobs/info/686f26d790d7b66951c272e3?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/685213ffb601b8126382fd6b?utm_campaign=Consultant&utm_source=1103)** | Stuart, FL | On Site | Jul 09 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant - Tempe, AZ](https://jobright.ai/jobs/info/686f0ee4a0650aba0fba0adb?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
