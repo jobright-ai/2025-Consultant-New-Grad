@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50322 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875acc5299cbc74b8756ead?utm_campaign=Consultant&utm_source=1103)** | The Woodlands, TX | On Site | Jul 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Staff Consultant - Oracle Health - INA](https://jobright.ai/jobs/info/6875cb77299cbc74b8757abd?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Jul 14 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50616 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875d7a7299cbc74b8757f7b?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Jul 14 |
-| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
-| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
+| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
+| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
 | ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875b9345cebcd1dd51c2ffb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1 (Float)](https://jobright.ai/jobs/info/6875c84fae2f413e4a5a9b76?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 14 |
 | ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6875ba91299cbc74b8757365?utm_campaign=Consultant&utm_source=1103)** | Rio Rancho, NM | On Site | Jul 14 |
@@ -198,13 +198,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/67516f3a6a99bb601df04a86?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Jul 10 |
 | **[Pomeroy](http://www.pomeroy.com)** | **[Business Development Executive - Machine Learning Solutions Consulting Sales](https://jobright.ai/jobs/info/684b55252cad77b22d9b6a5d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 10 |
 | **[GoodLeap](https://www.goodleap.com)** | **[Inbound Solar Energy Consultant](https://jobright.ai/jobs/info/6870467d01cc0956e7e80d62?utm_campaign=Consultant&utm_source=1103)** | Remote, US | Remote | Jul 10 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870203606ad7073463bb43c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 10 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687013aa06ad7073463bad3a?utm_campaign=Consultant&utm_source=1103)** | New Port Richey, FL | On Site | Jul 10 |
-| **[Significance](https://significanceinc.com/)** | **[FIAR Consultant](https://jobright.ai/jobs/info/687011f6a5ae807a59cf56be?utm_campaign=Consultant&utm_source=1103)** | Andrews Air Force Base, Maryland | Hybrid | Jul 10 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870326f06ad7073463bbe84?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Remote | Jul 10 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68703e8e01cc0956e7e80858?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Jul 10 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870382ca5ae807a59cf6c8d?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | Remote | Jul 10 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6870367006ad7073463bc0fe?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Remote | Jul 10 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68703674a5ae807a59cf6b74?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Jul 10 |
-| **[Sentry](https://www.sentry.com/)** | **[Risk Control Consultant](https://jobright.ai/jobs/info/6870261e06ad7073463bb7a5?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
