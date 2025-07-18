@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ketchum](https://www.ketchum.com/)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/68798e4fed63844c9449c7e4?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
+| **[Allstate](http://www.allstate.com)** | **[Outside Adjuster Consultant I - Gainesville, GA](https://jobright.ai/jobs/info/6879ab27ed63844c9449d461?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | Remote | Jul 17 |
+| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Forensics and Valuation Services Fall 2026 / Multiple Locations](https://jobright.ai/jobs/info/6879aa79a7fc8904e39646f7?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Jul 17 |
+| ↳ | **[Consultant Forensics and Valuation Services Winter 2026 / New York City](https://jobright.ai/jobs/info/6879a95da7fc8904e396467b?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
+| **[Ketchum](https://www.ketchum.com/)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/687995732097a271a897886c?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 17 |
+| ↳ | **[Consultant, Analytics](https://jobright.ai/jobs/info/68798e4fed63844c9449c7e4?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
+| **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1](https://jobright.ai/jobs/info/6879aa0a2097a271a89792d9?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 17 |
 | **[Allstate](http://www.allstate.com)** | **[Outside Adjuster Consultant I - Gainesville, GA](https://jobright.ai/jobs/info/687966cced63844c9449b579?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | Remote | Jul 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/687957cfa7fc8904e3961fb7?utm_campaign=Consultant&utm_source=1103)** | Longview, TX | On Site | Jul 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Consultant, Strategic Projects](https://jobright.ai/jobs/info/687956172097a271a8976b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
@@ -92,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Analyst, Supplier Delivery](https://jobright.ai/jobs/info/6877f5cb5cebcd1dd51d66ad?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 16 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Banking](https://jobright.ai/jobs/info/6877f202ae2f413e4a5be45d?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 16 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877ef215cebcd1dd51d6246?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Jul 16 |
-| **[Armanino](http://www.armaninollp.com/)** | **[Technology Consultant I](https://jobright.ai/jobs/info/6877eeec5cebcd1dd51d6231?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Jul 16 |
-| **[Jacobs](http://www.jacobs.com)** | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/68780b75866a435525ab640b?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 16 |
+| ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/68780b75866a435525ab640b?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 16 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Academic Instructional Technology Consultant I, Temporary](https://jobright.ai/jobs/info/6877ecde866a435525ab517c?utm_campaign=Consultant&utm_source=1103)** | University, MS | On Site | Jul 16 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50311 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/68780a705cebcd1dd51d73a9?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Jul 16 |
 | ↳ | **[50103 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/6877eb4dae2f413e4a5be1cd?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Jul 16 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Personal Finance Consultant (Licensing and Mentorship Available)](https://jobright.ai/jobs/info/6876b83aae2f413e4a5b2d2c?utm_campaign=Consultant&utm_source=1103)** | Lilburn, GA | On Site | Jul 15 |
 | ↳ | **[Financial Consultant (Comprehensive Training & Licensing Included)](https://jobright.ai/jobs/info/68783598ae2f413e4a5c09d9?utm_campaign=Consultant&utm_source=1103)** | Norcross, GA | On Site | Jul 15 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68768bf55cebcd1dd51c9ea3?utm_campaign=Consultant&utm_source=1103)** | Emeryville, CA, 94608 | On Site | Jul 15 |
-| ↳ | **[Leasing Consultant (Lease-Up) - Midtown](https://jobright.ai/jobs/info/68767f5fae2f413e4a5b03d3?utm_campaign=Consultant&utm_source=1103)** | ATLANTA, GA, 30312 | On Site | Jul 15 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/68768f38ae2f413e4a5b0d90?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX (Downtown) | On Site | Jul 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Wealth Management Consultant](https://jobright.ai/jobs/info/6876929eae2f413e4a5b103c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/6877259b5cebcd1dd51d0066?utm_campaign=Consultant&utm_source=1103)** | Saint Cloud, MN | On Site | Jul 15 |
@@ -148,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50322 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875acc5299cbc74b8756ead?utm_campaign=Consultant&utm_source=1103)** | The Woodlands, TX | On Site | Jul 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Staff Consultant - Oracle Health - INA](https://jobright.ai/jobs/info/6875cb77299cbc74b8757abd?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Jul 14 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50616 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875d7a7299cbc74b8757f7b?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Jul 14 |
-| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
-| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
+| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
+| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
 | ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875b9345cebcd1dd51c2ffb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1 (Float)](https://jobright.ai/jobs/info/6875c84fae2f413e4a5a9b76?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 14 |
 | ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6875ba91299cbc74b8757365?utm_campaign=Consultant&utm_source=1103)** | Rio Rancho, NM | On Site | Jul 14 |
