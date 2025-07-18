@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vestwell](http://vestwell.com)** | **[Senior Associate, Employer Consulting Services](https://jobright.ai/jobs/info/687a7f5c2097a271a897f4e0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | King of Prussia, PA | Austin, TX | Hybrid | Jul 18 |
+| **[Travelers](https://www.travelers.com)** | **[Service Desk Consultant, BI Agency Help Desk](https://jobright.ai/jobs/info/687a77fc764c3d7411c2d56a?utm_campaign=Consultant&utm_source=1103)** | WA - Spokane Valley | Hybrid | Jul 18 |
+| ↳ | **[Service Desk Consultant, BI Agency Help Desk](https://jobright.ai/jobs/info/687a76d32097a271a897f0a6?utm_campaign=Consultant&utm_source=1103)** | TX - Richardson | Hybrid | Jul 18 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/687a6423764c3d7411c2cda5?utm_campaign=Consultant&utm_source=1103)** | Washington, DC, 20002 | On Site | Jul 18 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/687a6031764c3d7411c2cc64?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 18 |
 | **[Rydell ](https://www.rydellcars.com)** | **[Parts Service Consultant](https://jobright.ai/jobs/info/687a5b0b2097a271a897e78f?utm_campaign=Consultant&utm_source=1103)** | Grand Forks, ND | On Site | Jul 18 |
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (January 2026 Start)](https://jobright.ai/jobs/info/687a50172097a271a897e3bf?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 18 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Policy Support Consultant – Client Services](https://jobright.ai/jobs/info/687a4b7ded63844c944a24c3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 18 |
+| ↳ | **[Work from Home Financial Client Consultant](https://jobright.ai/jobs/info/687a7076764c3d7411c2d1be?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 18 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/687a45df2097a271a897e119?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 18 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Consultant Conversion - Workpl Ops & Supp II - Associate](https://jobright.ai/jobs/info/687a22322097a271a897d6a8?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 18 |
 | **[EPAM Systems](https://www.epam.com)** | **[Analyst - Business Consulting, Media & Entertainment - Remote](https://jobright.ai/jobs/info/6879c26eed63844c9449dfe9?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Remote | Jul 18 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Ketchum](https://www.ketchum.com/)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/687995732097a271a897886c?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 17 |
 | ↳ | **[Consultant, Analytics](https://jobright.ai/jobs/info/68798e4fed63844c9449c7e4?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6879be5ba7fc8904e396512e?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
-| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6879ac83a7fc8904e39647f6?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 17 |
-| ↳ | **[Financial Service Consultant 1](https://jobright.ai/jobs/info/6879aa0a2097a271a89792d9?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 17 |
+| **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1](https://jobright.ai/jobs/info/6879aa0a2097a271a89792d9?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 17 |
+| ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6879ac83a7fc8904e39647f6?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 17 |
 | **[Allstate](http://www.allstate.com)** | **[Outside Adjuster Consultant I - Gainesville, GA](https://jobright.ai/jobs/info/687966cced63844c9449b579?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | Remote | Jul 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/687957cfa7fc8904e3961fb7?utm_campaign=Consultant&utm_source=1103)** | Longview, TX | On Site | Jul 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Consultant, Strategic Projects](https://jobright.ai/jobs/info/687956172097a271a8976b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
@@ -161,8 +165,8 @@ For a complete list, click the following sortable link below:
 | **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875b2125cebcd1dd51c2d4b?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 14 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50322 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875acc5299cbc74b8756ead?utm_campaign=Consultant&utm_source=1103)** | The Woodlands, TX | On Site | Jul 14 |
 | ↳ | **[50616 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875d7a7299cbc74b8757f7b?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Jul 14 |
-| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
-| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
+| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
+| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
 | ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875b9345cebcd1dd51c2ffb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1 (Float)](https://jobright.ai/jobs/info/6875c84fae2f413e4a5a9b76?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 14 |
 | ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6875ba91299cbc74b8757365?utm_campaign=Consultant&utm_source=1103)** | Rio Rancho, NM | On Site | Jul 14 |
@@ -192,6 +196,4 @@ For a complete list, click the following sortable link below:
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Jr. Loan Consultant](https://jobright.ai/jobs/info/686d00c2640193b714d87172?utm_campaign=Consultant&utm_source=1103)** | Syosset, NY | On Site | Jul 12 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/681bac15dd031e1cb325f64f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/682a95bc90010b00956ddf4d?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Jul 11 |
-| **[TriSMART Solar](https://www.trismartsolar.com/)** | **[Backup Power Consultants](https://jobright.ai/jobs/info/6871c233a5ae807a59d0185c?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 11 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/67c7bb315bd5a67b8b4c14c7?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
