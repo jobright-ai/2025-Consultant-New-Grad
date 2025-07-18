@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Consultant, Analytics & Automation](https://jobright.ai/jobs/info/6879feb9a7fc8904e3968090?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Jul 18 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Mental Health Consultant](https://jobright.ai/jobs/info/6879d7fa2097a271a897adec?utm_campaign=Consultant&utm_source=1103)** | Lanham, MD | On Site | Jul 17 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6879c5b3ed63844c9449e232?utm_campaign=Consultant&utm_source=1103)** | PHILADELPHIA, PA, 19146 | On Site | Jul 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant Forensics and Valuation Services Fall 2026 / Multiple Locations](https://jobright.ai/jobs/info/6879b508ed63844c9449d89c?utm_campaign=Consultant&utm_source=1103)** | Charleston, SC | Hybrid | Jul 17 |
@@ -86,10 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Retirement Consultant - Philadelphia](https://jobright.ai/jobs/info/68790c7d2097a271a8974212?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 17 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Risk & Policy Support Consultant](https://jobright.ai/jobs/info/68790476ed63844c94497e86?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 17 |
-| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a61c9?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 17 |
+| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a626d?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 17 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a624b?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Jul 17 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/687910eb2097a271a89743a5?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I-PT](https://jobright.ai/jobs/info/685c8ccdf6dc724097690980?utm_campaign=Consultant&utm_source=1103)** | Huntington Station, NY | On Site | Jul 17 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/683950a4991bc0974fbd9196?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Jul 16 |
 | **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Real Estate Branch Loan Consultant](https://jobright.ai/jobs/info/68084d4e2ef97d52e5bed269?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | On Site | Jul 16 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Banking](https://jobright.ai/jobs/info/68783a3a866a435525ab78ee?utm_campaign=Consultant&utm_source=1103)** | Syracuse-Auburn Area | On Site | Jul 16 |
 | **[Dove Technologies](https://www.dovetechnow.com/)** | **[Technology Consultant](https://jobright.ai/jobs/info/68783091866a435525ab7650?utm_campaign=Consultant&utm_source=1103)** | Columbia, South Carolina Metropolitan Area | Remote | Jul 16 |
