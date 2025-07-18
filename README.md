@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ketchum](https://www.ketchum.com/)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/68798e4fed63844c9449c7e4?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
 | **[Allstate](http://www.allstate.com)** | **[Outside Adjuster Consultant I - Gainesville, GA](https://jobright.ai/jobs/info/687966cced63844c9449b579?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | Remote | Jul 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/687957cfa7fc8904e3961fb7?utm_campaign=Consultant&utm_source=1103)** | Longview, TX | On Site | Jul 17 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Consultant, Strategic Projects](https://jobright.ai/jobs/info/687956172097a271a8976b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Consulting Analyst - Retirement Plans](https://jobright.ai/jobs/info/67dc51222d4cfbcbecad37e9?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Personal Finance Consultant (Licensing and Mentorship Available)](https://jobright.ai/jobs/info/6876b83aae2f413e4a5b2d2c?utm_campaign=Consultant&utm_source=1103)** | Lilburn, GA | On Site | Jul 15 |
 | ↳ | **[Financial Consultant (Comprehensive Training & Licensing Included)](https://jobright.ai/jobs/info/68783598ae2f413e4a5c09d9?utm_campaign=Consultant&utm_source=1103)** | Norcross, GA | On Site | Jul 15 |
-| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant (Lease-Up) - Midtown](https://jobright.ai/jobs/info/68767f5fae2f413e4a5b03d3?utm_campaign=Consultant&utm_source=1103)** | ATLANTA, GA, 30312 | On Site | Jul 15 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/68768bf55cebcd1dd51c9ea3?utm_campaign=Consultant&utm_source=1103)** | Emeryville, CA, 94608 | On Site | Jul 15 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68768bf55cebcd1dd51c9ea3?utm_campaign=Consultant&utm_source=1103)** | Emeryville, CA, 94608 | On Site | Jul 15 |
+| ↳ | **[Leasing Consultant (Lease-Up) - Midtown](https://jobright.ai/jobs/info/68767f5fae2f413e4a5b03d3?utm_campaign=Consultant&utm_source=1103)** | ATLANTA, GA, 30312 | On Site | Jul 15 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/68768f38ae2f413e4a5b0d90?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX (Downtown) | On Site | Jul 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Wealth Management Consultant](https://jobright.ai/jobs/info/6876929eae2f413e4a5b103c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/6877259b5cebcd1dd51d0066?utm_campaign=Consultant&utm_source=1103)** | Saint Cloud, MN | On Site | Jul 15 |
@@ -147,16 +148,16 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50322 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875acc5299cbc74b8756ead?utm_campaign=Consultant&utm_source=1103)** | The Woodlands, TX | On Site | Jul 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Staff Consultant - Oracle Health - INA](https://jobright.ai/jobs/info/6875cb77299cbc74b8757abd?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Jul 14 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50616 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/6875d7a7299cbc74b8757f7b?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Jul 14 |
-| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
-| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
+| **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/6875ccaf299cbc74b8757b6a?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jul 14 |
+| ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875d262299cbc74b8757dbb?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Jul 14 |
 | ↳ | **[Solutions Consultant](https://jobright.ai/jobs/info/6875b9345cebcd1dd51c2ffb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Sunward](https://gosunward.org)** | **[Financial Service Consultant 1 (Float)](https://jobright.ai/jobs/info/6875c84fae2f413e4a5a9b76?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Jul 14 |
 | ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6875ba91299cbc74b8757365?utm_campaign=Consultant&utm_source=1103)** | Rio Rancho, NM | On Site | Jul 14 |
 | **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/68756ffb299cbc74b8754e5e?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Jul 14 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Implementation Consultant, ERP, National](https://jobright.ai/jobs/info/68756fccae2f413e4a5a6e48?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Jul 14 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary CALS Post Award Consultant](https://jobright.ai/jobs/info/68756c4d5cebcd1dd51c06c6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Jul 14 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a626d?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 14 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68755a6f5cebcd1dd51bfde1?utm_campaign=Consultant&utm_source=1103)** | McKinney, TX | On Site | Jul 14 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a61c9?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 14 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68757b10ae2f413e4a5a77ed?utm_campaign=Consultant&utm_source=1103)** | Green Bay, WI | On Site | Jul 14 |
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - New York (2025 Start Dates)](https://jobright.ai/jobs/info/687552c7299cbc74b8753c30?utm_campaign=Consultant&utm_source=1103)** | 1411 Broadway, New York, NY 10018, USA | On Site | Jul 14 |
 | ↳ | **[Associate, Consulting Clients - New York (2025 Start Dates)](https://jobright.ai/jobs/info/68754d5a299cbc74b875383a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 14 |
@@ -197,5 +198,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BCG Platinion / Consultant, Cybersecurity](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b120?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 11 |
 | ↳ | **[BCG Platinion / Consultant, Cybersecurity](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b02d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 11 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology](https://jobright.ai/jobs/info/675ca27232a1de3261192f47?utm_campaign=Consultant&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Jul 11 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50752 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/6870bd9606ad7073463c09e4?utm_campaign=Consultant&utm_source=1103)** | Garden City, NY | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
