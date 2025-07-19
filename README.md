@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a626d?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 17 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a624b?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Jul 17 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I-PT](https://jobright.ai/jobs/info/685c8ccdf6dc724097690980?utm_campaign=Consultant&utm_source=1103)** | Huntington Station, NY | On Site | Jul 17 |
+| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/683e3f85f3c2c0ca55287ed2?utm_campaign=Consultant&utm_source=1103)** | Queens, NY | On Site | Jul 17 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/683950a4991bc0974fbd9196?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Jul 16 |
 | **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Real Estate Branch Loan Consultant](https://jobright.ai/jobs/info/68084d4e2ef97d52e5bed269?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | On Site | Jul 16 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Banking](https://jobright.ai/jobs/info/68783a3a866a435525ab78ee?utm_campaign=Consultant&utm_source=1103)** | Syracuse-Auburn Area | On Site | Jul 16 |
@@ -203,5 +204,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experienced Consultant - Americas](https://jobright.ai/jobs/info/681e42b44a7b2a0016b5331e?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 13 |
 | ↳ | **[Experienced Consultant - Americas](https://jobright.ai/jobs/info/681e551ad4b37b3a8f2105ac?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 13 |
 | ↳ | **[Experienced Consultant - Americas](https://jobright.ai/jobs/info/681e3fbda28a137cdfd2c978?utm_campaign=Consultant&utm_source=1103)** | San Carlos, CA | Hybrid | Jul 13 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/67c7517d395f1ec499a02b8b?utm_campaign=Consultant&utm_source=1103)** | Oxnard, CA | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
