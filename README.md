@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants - West Coast](https://jobright.ai/jobs/info/687f7a602097a271a899d001?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Jul 22 |
+| **[DWS Group](https://www.dws.com)** | **[Internal Wholesale Consultant](https://jobright.ai/jobs/info/687f6e2e764c3d7411c4b4d9?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 22 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TDEC CULTURAL RESOURCES CONSULTANT 2 - 07222025-69668](https://jobright.ai/jobs/info/687f5474764c3d7411c4b075?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | On Site | Jul 22 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/687f41932097a271a899c265?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | On Site | Jul 21 |
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/687f04a12097a271a8999ac1?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 21 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1911764c3d7411c41680?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1b04db19f31cf0d683be?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Jul 20 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aecdb19f31cf0d683b1?utm_campaign=Consultant&utm_source=1103)** | Live Oak, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687e18f5db19f31cf0d682a8?utm_campaign=Consultant&utm_source=1103)** | Stuart, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d40e3ed63844c944b23bc?utm_campaign=Consultant&utm_source=1103)** | Mesquite, TX | On Site | Jul 20 |
@@ -126,7 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0cb0?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jul 19 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/68634e63a95141c2a0f50639?utm_campaign=Consultant&utm_source=1103)** | Montpelier, VT | Hybrid | Jul 19 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0ec0?utm_campaign=Consultant&utm_source=1103)** | Dover, DE | Hybrid | Jul 19 |
-| ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0eb5?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jul 19 |
+| **[Oracle](https://www.oracle.com/)** | **[Oracle Health Associate Consultant - Patient Accounting (RevCycle)](https://jobright.ai/jobs/info/6840f778d087bdc43f4e3cd7?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Jul 19 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0eb5?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jul 19 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0ebf?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 19 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[ETF Internal Sales Consultant I/II/III / Hybrid](https://jobright.ai/jobs/info/683fa837bf17938588ecbaff?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Jul 18 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/687b49b1764c3d7411c31ce7?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 18 |
