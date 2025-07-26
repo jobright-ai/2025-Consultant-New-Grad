@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum Solar](http://momentumsolar.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/6884cbee4174df41e0f953ec?utm_campaign=Consultant&utm_source=1103)** | Marlborough, MA | On Site | Jul 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Email Deliverability Consultant](https://jobright.ai/jobs/info/684c061512d51016e37a9867?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Jul 26 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Customer Service Strategy](https://jobright.ai/jobs/info/684b1ffaf2de8740c0cc3263?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 26 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/6884b5dcb651c92cb78aa210?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 26 |
-| **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[PROJECT CONSULTANT (TEMPORARY) – WAYNE COUNTY](https://jobright.ai/jobs/info/6884456fb651c92cb78a5cdb?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | On Site | Jul 25 |
 | **[Kitsap Credit Union](https://www.kitsapcu.org/)** | **[Business Consultant II](https://jobright.ai/jobs/info/68843c604174df41e0f904a6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51601 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/68842237b54cac0f1e73c27e?utm_campaign=Consultant&utm_source=1103)** | Rockville, MD | On Site | Jul 25 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/688421c0b54cac0f1e73c258?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 25 |
@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Apex Leaders](https://www.apexleaders.com/)** | **[Research Associate, Client Services](https://jobright.ai/jobs/info/6883faea835a903aa07f984f?utm_campaign=Consultant&utm_source=1103)** | Boise Metropolitan Area | Remote | Jul 25 |
 | **[Colonial Life](https://www.coloniallife.com)** | **[Business Relationship Consultant](https://jobright.ai/jobs/info/6883fd846fcd973d15ae50c0?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Jul 25 |
 | **[Significance](https://significanceinc.com/)** | **[Financial Systems Consultant](https://jobright.ai/jobs/info/6883edd1b54cac0f1e73b03c?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Remote | Jul 25 |
-| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Metro New York Area)](https://jobright.ai/jobs/info/688485124174df41e0f949cb?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 25 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant ($1,500 Sign on Bonus)](https://jobright.ai/jobs/info/6883dab46fcd973d15ae3db7?utm_campaign=Consultant&utm_source=1103)** | BOCA RATON, FL, 33487 | On Site | Jul 25 |
 | **[Wolf River Electric](http://wolfriverelectric.com)** | **[Remote - Solar Consultant](https://jobright.ai/jobs/info/6883d7386fcd973d15ae3be3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 25 |
 | **[Tessera](https://tessera.org)** | **[Pre-Employment Transition Services Consultant I - Full Time](https://jobright.ai/jobs/info/6883c72b835a903aa07f78a3?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
@@ -206,7 +205,6 @@ For a complete list, click the following sortable link below:
 | **[Eocene Environmental Group](eocene.com)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68810ace16ea5743a37354fe?utm_campaign=Consultant&utm_source=1103)** | Colville, WA | On Site | Jul 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/68803992764c3d7411c503dd?utm_campaign=Consultant&utm_source=1103)** | 1470 W NORTHERN LIGHTS BLVD,ANCHORAGE,AK,99503-03615-15092-S | On Site | Jul 21 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/687f41932097a271a899c265?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | On Site | Jul 21 |
-| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Travel: Northern NJ)](https://jobright.ai/jobs/info/68845aea4174df41e0f92059?utm_campaign=Consultant&utm_source=1103)** | New Brunswick, NJ | On Site | Jul 21 |
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/687f04a12097a271a8999ac1?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 21 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Consultant - Americas](https://jobright.ai/jobs/info/6880c40b16ea5743a3732bbf?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 21 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Program Consultant](https://jobright.ai/jobs/info/687ef932db19f31cf0d6e7d2?utm_campaign=Consultant&utm_source=1103)** | Shawnee County, KS | On Site | Jul 21 |
@@ -257,7 +255,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3ecd764c3d7411c3c908?utm_campaign=Consultant&utm_source=1103)** | Tomball, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3e852097a271a898e28a?utm_campaign=Consultant&utm_source=1103)** | Sarasota, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687d3e312097a271a898e247?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA | On Site | Jul 20 |
-| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe33764c3d7411c3e4e2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
+| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe2f2097a271a898ff40?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
 | ↳ | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe29764c3d7411c3e4ca?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/68622c008b6823ea017ce75c?utm_campaign=Consultant&utm_source=1103)** | Washington, United States | Hybrid | Jul 20 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/686389ff5017de06f85905f8?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jul 20 |
@@ -273,6 +271,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0ec1?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Jul 19 |
 | **[The Semler Agency SFG](https://thesemleragency.com/working-with-symmetry)** | **[Licensed Life Insurance Consultant - Work from Home & Make an Impact](https://jobright.ai/jobs/info/687c3727764c3d7411c36645?utm_campaign=Consultant&utm_source=1103)** | Kansas City, KS | Remote | Jul 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/688030a5764c3d7411c500ec?utm_campaign=Consultant&utm_source=1103)** | 342 E ILLINOIS ST,CHICAGO,IL,60611-04304-02340-S | On Site | Jul 19 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/687ed1a8db19f31cf0d6d507?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | On Site | Jul 19 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0eb7?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
