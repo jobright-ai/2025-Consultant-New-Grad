@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[PROJECT CONSULTANT (TEMPORARY) – WAYNE COUNTY](https://jobright.ai/jobs/info/6884456fb651c92cb78a5cdb?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | On Site | Jul 25 |
 | **[Kitsap Credit Union](https://www.kitsapcu.org/)** | **[Business Consultant II](https://jobright.ai/jobs/info/68843c604174df41e0f904a6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
-| **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[PROJECT CONSULTANT (TEMPORARY) – WAYNE COUNTY](https://jobright.ai/jobs/info/68844a664174df41e0f90f6c?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | On Site | Jul 25 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51601 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/68842237b54cac0f1e73c27e?utm_campaign=Consultant&utm_source=1103)** | Rockville, MD | On Site | Jul 25 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/688421c0b54cac0f1e73c258?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 25 |
 | ↳ | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/688421aeb54cac0f1e73c252?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 25 |
@@ -72,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Apex Leaders](https://www.apexleaders.com/)** | **[Research Associate, Client Services](https://jobright.ai/jobs/info/6883faea835a903aa07f984f?utm_campaign=Consultant&utm_source=1103)** | Boise Metropolitan Area | Remote | Jul 25 |
 | **[Colonial Life](https://www.coloniallife.com)** | **[Business Relationship Consultant](https://jobright.ai/jobs/info/6883fd846fcd973d15ae50c0?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Jul 25 |
 | **[Significance](https://significanceinc.com/)** | **[Financial Systems Consultant](https://jobright.ai/jobs/info/6883edd1b54cac0f1e73b03c?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Remote | Jul 25 |
-| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Metro New York Area)](https://jobright.ai/jobs/info/68845b394174df41e0f920ea?utm_campaign=Consultant&utm_source=1103)** | Manhattan, NY | On Site | Jul 25 |
+| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Metro New York Area)](https://jobright.ai/jobs/info/688485124174df41e0f949cb?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 25 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant ($1,500 Sign on Bonus)](https://jobright.ai/jobs/info/6883dab46fcd973d15ae3db7?utm_campaign=Consultant&utm_source=1103)** | BOCA RATON, FL, 33487 | On Site | Jul 25 |
 | **[Wolf River Electric](http://wolfriverelectric.com)** | **[Remote - Solar Consultant](https://jobright.ai/jobs/info/6883d7386fcd973d15ae3be3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 25 |
 | **[Tessera](https://tessera.org)** | **[Pre-Employment Transition Services Consultant I - Full Time](https://jobright.ai/jobs/info/6883c72b835a903aa07f78a3?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
@@ -93,11 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68837ef1835a903aa07f6027?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 25 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6883caf36fcd973d15ae3244?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | On Site | Jul 25 |
 | **[Contech Engineered Solutions](http://www.conteches.com/)** | **[Stormwater Consultant](https://jobright.ai/jobs/info/68672e096d1aecc202c2c6b6?utm_campaign=Consultant&utm_source=1103)** | Temecula, CA | On Site | Jul 25 |
+| **[Travelers](https://www.travelers.com)** | **[Service Desk Consultant, BI Agency Help Desk](https://jobright.ai/jobs/info/687b93ee2097a271a89859ee?utm_campaign=Consultant&utm_source=1103)** | Spokane Valley, WA | Hybrid | Jul 25 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
-| **[Storable](https://www.storable.com/)** | **[Implementation Consultant](https://jobright.ai/jobs/info/688470bafbbf032d000692eb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
-| **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/68846082b651c92cb78a7864?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Jul 24 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ec796fcd973d15add2dd?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/68846708b651c92cb78a7fb5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb4fb54cac0f1e7338e3?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea59b54cac0f1e73387d?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 24 |
@@ -108,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882d6a8835a903aa07f11bf?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 24 |
 | ↳ | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882dd5bb54cac0f1e733442?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c4116fcd973d15adc383?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fb?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Jul 24 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f16fcd973d15adc34b?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3eb6fcd973d15adc346?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3d1835a903aa07f09c7?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
@@ -243,8 +241,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1911764c3d7411c41680?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1b04db19f31cf0d683be?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Jul 20 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aecdb19f31cf0d683b1?utm_campaign=Consultant&utm_source=1103)** | Live Oak, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687e18f5db19f31cf0d682a8?utm_campaign=Consultant&utm_source=1103)** | Stuart, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d40e3ed63844c944b23bc?utm_campaign=Consultant&utm_source=1103)** | Mesquite, TX | On Site | Jul 20 |
@@ -255,7 +253,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3ecd764c3d7411c3c908?utm_campaign=Consultant&utm_source=1103)** | Tomball, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3e852097a271a898e28a?utm_campaign=Consultant&utm_source=1103)** | Sarasota, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687d3e312097a271a898e247?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA | On Site | Jul 20 |
-| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe292097a271a898ff38?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
+| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe2d764c3d7411c3e4d6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
 | ↳ | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe29764c3d7411c3e4ca?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/68622c008b6823ea017ce75c?utm_campaign=Consultant&utm_source=1103)** | Washington, United States | Hybrid | Jul 20 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/686389ff5017de06f85905f8?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jul 20 |
@@ -274,5 +272,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/687ed1a8db19f31cf0d6d507?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | On Site | Jul 19 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/685ef60369775480953a0eb7?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jul 19 |
 | ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/686389ff5017de06f8590565?utm_campaign=Consultant&utm_source=1103)** | Pierre, SD | Hybrid | Jul 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Worklife Resource Consultant - Medicare](https://jobright.ai/jobs/info/685e596c26622fd7bd335df1?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
