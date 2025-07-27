@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Customer Service Strategy](https://jobright.ai/jobs/info/684b1ffaf2de8740c0cc3263?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 26 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/6884b5dcb651c92cb78aa210?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 26 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Jul 26 |
+| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Metro New York Area)](https://jobright.ai/jobs/info/6885a5da4174df41e0f97c78?utm_campaign=Consultant&utm_source=1103)** | Manhattan, NY | On Site | Jul 25 |
 | **[Kitsap Credit Union](https://www.kitsapcu.org/)** | **[Business Consultant II](https://jobright.ai/jobs/info/68843c604174df41e0f904a6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51601 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/68842237b54cac0f1e73c27e?utm_campaign=Consultant&utm_source=1103)** | Rockville, MD | On Site | Jul 25 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/688421c0b54cac0f1e73c258?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 25 |
@@ -106,7 +107,8 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/68846708b651c92cb78a7fb5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
+| **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb4fb54cac0f1e7338e3?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea59b54cac0f1e73387d?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea12835a903aa07f1759?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 24 |
@@ -186,7 +188,6 @@ For a complete list, click the following sortable link below:
 | **[Ademero](http://www.ademero.com)** | **[Junior Solutions Consultant](https://jobright.ai/jobs/info/68809f2e16ea5743a3731853?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Watson & Yates](watsonyates.com)** | **[Consultant](https://jobright.ai/jobs/info/6880f59529ad6b2744add919?utm_campaign=Consultant&utm_source=1103)** | Detroit Metro | Hybrid | Jul 22 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/688021ef9f728042457079c4?utm_campaign=Consultant&utm_source=1103)** | MIAMI, FL, 33127 | On Site | Jul 22 |
-| **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 22 |
 | **[GHX](http://www.ghx.com)** | **[Data Analyst III - Consulting](https://jobright.ai/jobs/info/687fde2f9f72804245705b4e?utm_campaign=Consultant&utm_source=1103)** | Office Location or Remote - USA | Remote | Jul 22 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/6873f7ab01889204ff8f5d5b?utm_campaign=Consultant&utm_source=1103)** | Bethesda, MD, 20814 | On Site | Jul 22 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/68805bb49f72804245709e49?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Remote | Jul 22 |
@@ -212,6 +213,7 @@ For a complete list, click the following sortable link below:
 | **[Eocene Environmental Group](eocene.com)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68810ace16ea5743a37354fe?utm_campaign=Consultant&utm_source=1103)** | Colville, WA | On Site | Jul 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/68803992764c3d7411c503dd?utm_campaign=Consultant&utm_source=1103)** | 1470 W NORTHERN LIGHTS BLVD,ANCHORAGE,AK,99503-03615-15092-S | On Site | Jul 21 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/687f41932097a271a899c265?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | On Site | Jul 21 |
+| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Travel: Northern NJ)](https://jobright.ai/jobs/info/6885a4794174df41e0f9794c?utm_campaign=Consultant&utm_source=1103)** | New Brunswick, NJ | On Site | Jul 21 |
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/687f04a12097a271a8999ac1?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 21 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Consultant - Americas](https://jobright.ai/jobs/info/6880c40b16ea5743a3732bbf?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 21 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Program Consultant](https://jobright.ai/jobs/info/687ef932db19f31cf0d6e7d2?utm_campaign=Consultant&utm_source=1103)** | Shawnee County, KS | On Site | Jul 21 |
@@ -251,8 +253,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1911764c3d7411c41680?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1b04db19f31cf0d683be?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Jul 20 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aecdb19f31cf0d683b1?utm_campaign=Consultant&utm_source=1103)** | Live Oak, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687e18f5db19f31cf0d682a8?utm_campaign=Consultant&utm_source=1103)** | Stuart, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d40e3ed63844c944b23bc?utm_campaign=Consultant&utm_source=1103)** | Mesquite, TX | On Site | Jul 20 |
@@ -263,6 +265,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3ecd764c3d7411c3c908?utm_campaign=Consultant&utm_source=1103)** | Tomball, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3e852097a271a898e28a?utm_campaign=Consultant&utm_source=1103)** | Sarasota, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687d3e312097a271a898e247?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA | On Site | Jul 20 |
-| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe2f2097a271a898ff40?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
-| ↳ | **[Telesales Consultant](https://jobright.ai/jobs/info/687dbe29764c3d7411c3e4ca?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
