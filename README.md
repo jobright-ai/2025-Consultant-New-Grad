@@ -250,8 +250,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1911764c3d7411c41680?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1b04db19f31cf0d683be?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Jul 20 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aa52097a271a8993233?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Jul 20 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e19e8764c3d7411c416e4?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1aecdb19f31cf0d683b1?utm_campaign=Consultant&utm_source=1103)** | Live Oak, TX | On Site | Jul 20 |
 | ↳ | **[Design Consultant - Entry Level](https://jobright.ai/jobs/info/687e18f5db19f31cf0d682a8?utm_campaign=Consultant&utm_source=1103)** | Stuart, FL | On Site | Jul 20 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d40e3ed63844c944b23bc?utm_campaign=Consultant&utm_source=1103)** | Mesquite, TX | On Site | Jul 20 |
