@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - San Diego County](https://jobright.ai/jobs/info/6886838fb651c92cb78af603?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Jul 27 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Sales Consultant – Financial Services](https://jobright.ai/jobs/info/688384636fcd973d15ae19cc?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68845b63b651c92cb78a7353?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[Protocall Communications Inc.](https://protocall.net)** | **[Business Development Consultant](https://jobright.ai/jobs/info/68857a48b651c92cb78abd13?utm_campaign=Consultant&utm_source=1103)** | Bridgeport, CT | On Site | Jul 26 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882d6a8835a903aa07f11bf?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 24 |
 | ↳ | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882dd5bb54cac0f1e733442?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c4116fcd973d15adc383?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fb?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States of America | On Site | Jul 24 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fb?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f16fcd973d15adc34b?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3eb6fcd973d15adc346?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3d1835a903aa07f09c7?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
