@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Contour Spa](https://www.contourspa.com)** | **[Client Consultant](https://jobright.ai/jobs/info/688761b34174df41e0f9df00?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[Exitou, Inc.](https://www.exitou.com)** | **[AiLearning Consultant](https://jobright.ai/jobs/info/6886f284fbbf032d0007168a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - San Diego County](https://jobright.ai/jobs/info/6886838fb651c92cb78af603?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Jul 27 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Sales Consultant – Financial Services](https://jobright.ai/jobs/info/688384636fcd973d15ae19cc?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Momentum Solar](http://momentumsolar.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/6884cbee4174df41e0f953ec?utm_campaign=Consultant&utm_source=1103)** | Marlborough, MA | On Site | Jul 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Email Deliverability Consultant](https://jobright.ai/jobs/info/684c061512d51016e37a9867?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Jul 26 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Customer Service Strategy](https://jobright.ai/jobs/info/684b1ffaf2de8740c0cc3263?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 26 |
+| **[Philips](https://www.usa.philips.com)** | **[Technical Consultant - Patient Monitoring (Metro New York Area)](https://jobright.ai/jobs/info/688760ff4174df41e0f9debb?utm_campaign=Consultant&utm_source=1103)** | Manhattan, NY | On Site | Jul 26 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/6884b5dcb651c92cb78aa210?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 26 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Jul 26 |
 | **[Kitsap Credit Union](https://www.kitsapcu.org/)** | **[Business Consultant II](https://jobright.ai/jobs/info/68843c604174df41e0f904a6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Jul 25 |
@@ -207,7 +209,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Roving Leasing Consultant (Northern Virginia)](https://jobright.ai/jobs/info/687fae329f72804245704720?utm_campaign=Consultant&utm_source=1103)** | Reston, VA, 20190 | On Site | Jul 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Physical Climate & Natural Catastrophe Risk Consultant](https://jobright.ai/jobs/info/684796c3aa28474d23e3a8f5?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 22 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a624b?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Jul 22 |
-| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a61c9?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 22 |
+| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a626d?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Jul 22 |
 | **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/688075e0764c3d7411c532cf?utm_campaign=Consultant&utm_source=1103)** | 3965 Dallas Parkway  Frisco, TX 75034 | Hybrid | Jul 22 |
 | ↳ | **[Financial Services Consultant - Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/6880604c9f7280424570a384?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Jul 22 |
 | **[Körber Supply Chain](https://www.koerber-supplychain.com/)** | **[WCS Solution Technical Consultant L1](https://jobright.ai/jobs/info/684735a077aaacabe63194c4?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jul 22 |
@@ -233,12 +235,4 @@ For a complete list, click the following sortable link below:
 | **[Meridian Partners](http://www.mp.team)** | **[Workday Time Tracking/Absence/Scheduling Jr. Consultant](https://jobright.ai/jobs/info/687eba45db19f31cf0d6ca32?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Jul 21 |
 | **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/687eb2282097a271a899719d?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Jul 21 |
 | **[Georgia Power Company](https://www.georgiapower.com)** | **[Service Consultant I, II](https://jobright.ai/jobs/info/687ea7482097a271a8996c4d?utm_campaign=Consultant&utm_source=1103)** | McDonough, GA | On Site | Jul 21 |
-| **[Davey Resource Group, Inc.](http://www.daveyresourcegroup.com)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6880bd93f4f06100f3a20504?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 21 |
-| **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687e983e2097a271a8996518?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | On Site | Jul 21 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Organization, People & Change](https://jobright.ai/jobs/info/687e9595764c3d7411c4498e?utm_campaign=Consultant&utm_source=1103)** | New York | On Site | Jul 21 |
-| **[Beghou Consulting](http://beghouconsulting.com)** | **[Associate Consultant, Commercial Operations & Analytics](https://jobright.ai/jobs/info/687e94572097a271a8996307?utm_campaign=Consultant&utm_source=1103)** | All US Locations | Hybrid | Jul 21 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Organization, People & Change](https://jobright.ai/jobs/info/687e91902097a271a8996101?utm_campaign=Consultant&utm_source=1103)** | Dallas | On Site | Jul 21 |
-| **[Georgia Power Company](https://www.georgiapower.com)** | **[Consultant I, Bi-Lingual Service](https://jobright.ai/jobs/info/687eaede2097a271a8996fcb?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 21 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 21 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Organization, People & Change](https://jobright.ai/jobs/info/687e89992097a271a8995c58?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
