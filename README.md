@@ -108,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Service Desk Consultant, BI Agency Help Desk](https://jobright.ai/jobs/info/687b93ee2097a271a89859ee?utm_campaign=Consultant&utm_source=1103)** | Spokane Valley, WA | Hybrid | Jul 25 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/68846708b651c92cb78a7fb5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 24 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ec796fcd973d15add2dd?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb4fb54cac0f1e7338e3?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea59b54cac0f1e73387d?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea12835a903aa07f1759?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 24 |
@@ -246,5 +246,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant - Americas](https://jobright.ai/jobs/info/687eb370db19f31cf0d6c69f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jul 21 |
 | **[Armed Forces Benefits Network (AFBN)](https://careers.afbn.us/)** | **[Licensed Life Insurance Agent/Financial Consultant serving JBLM](https://jobright.ai/jobs/info/687e8abbdb19f31cf0d6af4d?utm_campaign=Consultant&utm_source=1103)** | Tacoma, WA | On Site | Jul 21 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/687e51ad2097a271a89944e1?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC (South - Steele Creek area) | On Site | Jul 21 |
-| **[Guidehouse](https://guidehouse.com)** | **[Financial Management Consultant](https://jobright.ai/jobs/info/67ef0948b351fb114fa66eca?utm_campaign=Consultant&utm_source=1103)** | Annapolis Junction, MD | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
