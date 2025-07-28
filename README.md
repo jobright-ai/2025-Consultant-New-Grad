@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exitou, Inc.](https://www.exitou.com)** | **[AiLearning Consultant](https://jobright.ai/jobs/info/6886f284fbbf032d0007168a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - San Diego County](https://jobright.ai/jobs/info/6886838fb651c92cb78af603?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Jul 27 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Sales Consultant – Financial Services](https://jobright.ai/jobs/info/688384636fcd973d15ae19cc?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68845b63b651c92cb78a7353?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 27 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Service Desk Consultant, BI Agency Help Desk](https://jobright.ai/jobs/info/687b93ee2097a271a89859ee?utm_campaign=Consultant&utm_source=1103)** | Spokane Valley, WA | Hybrid | Jul 25 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
+| **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/6886f7d3b651c92cb78b0abd?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Jul 24 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ec796fcd973d15add2dd?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882d6a8835a903aa07f11bf?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 24 |
 | ↳ | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882dd5bb54cac0f1e733442?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c4116fcd973d15adc383?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fb?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States of America | On Site | Jul 24 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f3835a903aa07f09fb?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3f16fcd973d15adc34b?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3eb6fcd973d15adc346?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States of America | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882c3d1835a903aa07f09c7?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 24 |
@@ -221,7 +223,7 @@ For a complete list, click the following sortable link below:
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Program Consultant](https://jobright.ai/jobs/info/687ef932db19f31cf0d6e7d2?utm_campaign=Consultant&utm_source=1103)** | Shawnee County, KS | On Site | Jul 21 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Learning Consultant (FB + WhatsApp)](https://jobright.ai/jobs/info/687f0797764c3d7411c484a6?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Jul 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Organization, People & Change](https://jobright.ai/jobs/info/687ee2032097a271a89987e1?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jul 21 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687edd88764c3d7411c46cb9?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 21 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687ee003db19f31cf0d6daec?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Organization, People & Change](https://jobright.ai/jobs/info/687edbdadb19f31cf0d6d904?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 21 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/687efdbc2097a271a89996ed?utm_campaign=Consultant&utm_source=1103)** | Omaha, NE | On Site | Jul 21 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/687ed4b4db19f31cf0d6d67e?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 21 |
