@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](https://www.bbrown.com/us/)** | **[Personal Lines Consultant](https://jobright.ai/jobs/info/6888e4369f961617fe2101e9?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Jul 29 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/6888decf9f961617fe20ff94?utm_campaign=Consultant&utm_source=1103)** | WILTON, CT, 06897 | On Site | Jul 29 |
+| **[The Data School New York](http://www.thedataschool.com)** | **[Data Analyst Consultant](https://jobright.ai/jobs/info/6888d95b9f961617fe20fe51?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 29 |
 | **[Sentry](https://www.sentry.com/)** | **[Risk Control Consultant - Tennessee](https://jobright.ai/jobs/info/6888d1edaab47a17f66fd0df?utm_campaign=Consultant&utm_source=1103)** | Tennessee, United States | Remote | Jul 29 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6888cb7409808a6103e42e59?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 29 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/6862b5c7cd4af44fcd63df45?utm_campaign=Consultant&utm_source=1103)** | Connecticut, United States | On Site | Jul 29 |
@@ -82,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant - Chandler / Gilbert, AZ](https://jobright.ai/jobs/info/6887db464174df41e0fa1155?utm_campaign=Consultant&utm_source=1103)** | Chandler, AZ | On Site | Jul 28 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants - East Coast](https://jobright.ai/jobs/info/6835888cfa8a32692d93e738?utm_campaign=Consultant&utm_source=1103)** | Boston, New York | On Site | Jul 28 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Associate Consultant - NY Area](https://jobright.ai/jobs/info/6887c730fbbf032d00076539?utm_campaign=Consultant&utm_source=1103)** | New York City Area | On Site | Jul 28 |
-| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/6888958f09808a6103e4246e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
+| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/68889519aab47a17f66fc4ec?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/6887b6694174df41e0f9ff3e?utm_campaign=Consultant&utm_source=1103)** | Milwaukee | On Site | Jul 28 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Bilingual Loan Consultant](https://jobright.ai/jobs/info/6887b0964174df41e0f9fc86?utm_campaign=Consultant&utm_source=1103)** | Willmar, MN | On Site | Jul 28 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Consultant](https://jobright.ai/jobs/info/6887af4273e3e13cbd93f407?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 28 |
@@ -147,9 +150,9 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
 | **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/6886f7d3b651c92cb78b0abd?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/68846708b651c92cb78a7fb5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 24 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ec796fcd973d15add2dd?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb6a835a903aa07f17fa?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882eb4fb54cac0f1e7338e3?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea59b54cac0f1e73387d?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Jul 24 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea12835a903aa07f1759?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 24 |
@@ -217,8 +220,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6863b342733bd76e6ee05066?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Jul 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6880c985f4f06100f3a2105f?utm_campaign=Consultant&utm_source=1103)** | Oxnard, CA | On Site | Jul 22 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50911 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/6880cf5729ad6b2744adc4c9?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Jul 22 |
-| **[Periscope](https://www.periscope365.com/)** | **[Physical / Occupational Therapist Consultant](https://jobright.ai/jobs/info/688071fb2097a271a89a4cd6?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Jul 22 |
-| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/688044a62097a271a89a2412?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Jul 22 |
-| **[Odoo](http://www.odoo.com)** | **[Software Implementation Consultant](https://jobright.ai/jobs/info/6880405b2097a271a89a215d?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 22 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/688071c4764c3d7411c530b8?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
