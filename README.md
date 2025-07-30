@@ -57,8 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a76f89f961617fe21bd8b?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a76e49f961617fe21bd71?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a76dbaab47a17f6709010?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a76b8aab47a17f6708fd0?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a76aa09808a6103e4ef78?utm_campaign=Consultant&utm_source=1103)** | Hartford, Connecticut | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a760f09808a6103e4ee80?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Jul 30 |
+| ↳ | **[Integrated Absence & Disability Consultant](https://jobright.ai/jobs/info/688a75aa09808a6103e4edcd?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Jul 30 |
+| **[PosiGen](http://www.posigen.com)** | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6dba9f961617fe21b851?utm_campaign=Consultant&utm_source=1103)** | Southington, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6db79f961617fe21b846?utm_campaign=Consultant&utm_source=1103)** | North Haven, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6daf9f961617fe21b83c?utm_campaign=Consultant&utm_source=1103)** | New London, CT | On Site | Jul 30 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6d2c09808a6103e4e97c?utm_campaign=Consultant&utm_source=1103)** | Philadelphia | Hybrid | Jul 30 |
+| ↳ | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6d1a9f961617fe21b79e?utm_campaign=Consultant&utm_source=1103)** | Tampa | Hybrid | Jul 30 |
+| ↳ | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6cd99f961617fe21b765?utm_campaign=Consultant&utm_source=1103)** | Chicago | Hybrid | Jul 30 |
+| ↳ | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6cb2aab47a17f6708a0d?utm_campaign=Consultant&utm_source=1103)** | St. Louis | Hybrid | Jul 30 |
+| ↳ | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6b6e09808a6103e4e715?utm_campaign=Consultant&utm_source=1103)** | Atlanta Metro Area | Hybrid | Jul 30 |
+| ↳ | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688a6b449f961617fe21b57b?utm_campaign=Consultant&utm_source=1103)** | Kansas City | Hybrid | Jul 30 |
+| **[PosiGen](http://www.posigen.com)** | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6aaaaab47a17f670878b?utm_campaign=Consultant&utm_source=1103)** | Middletown, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6a93aab47a17f6708762?utm_campaign=Consultant&utm_source=1103)** | Weston, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6a7caab47a17f6708745?utm_campaign=Consultant&utm_source=1103)** | Milford, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6a69aab47a17f6708738?utm_campaign=Consultant&utm_source=1103)** | Shelton, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6a49aab47a17f6708731?utm_campaign=Consultant&utm_source=1103)** | Manchester, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a6a41aab47a17f670872e?utm_campaign=Consultant&utm_source=1103)** | Fairfield, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a685109808a6103e4e53a?utm_campaign=Consultant&utm_source=1103)** | Trumbull, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a684509808a6103e4e535?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Jul 30 |
+| ↳ | **[Solar Sales Consultant](https://jobright.ai/jobs/info/688a684509808a6103e4e536?utm_campaign=Consultant&utm_source=1103)** | New Britain, CT | On Site | Jul 30 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Entry Level Consultants](https://jobright.ai/jobs/info/688a62729f961617fe21b255?utm_campaign=Consultant&utm_source=1103)** | Texas, United States | Remote | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Consultant - Balance Sheet Analytics & Modeling](https://jobright.ai/jobs/info/688a5a21aab47a17f67081e3?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Associate Consultant](https://jobright.ai/jobs/info/688a578a09808a6103e4de2d?utm_campaign=Consultant&utm_source=1103)** | Texas, United States | Remote | Jul 30 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[*Coordinator I - Associate Eligibility Consultant](https://jobright.ai/jobs/info/688a544baab47a17f6707ee6?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Associate - Summer 2025](https://jobright.ai/jobs/info/688a4fe29f961617fe21aa3b?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Jul 30 |
 | ↳ | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/688a4e4a9f961617fe21a9e0?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Jul 30 |
@@ -71,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/688a3c9b09808a6103e4d458?utm_campaign=Consultant&utm_source=1103)** | Irvine | On Site | Jul 30 |
 | **[Skylimit Creations Inc.](https://www.skylimitcreations.com)** | **[Solar Consultant Closer](https://jobright.ai/jobs/info/688a603609808a6103e4e287?utm_campaign=Consultant&utm_source=1103)** | Greenville, SC | On Site | Jul 30 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Microsoft Finance & Supply Chain Consultant - Fall 2026](https://jobright.ai/jobs/info/688a3bd1aab47a17f6707424?utm_campaign=Consultant&utm_source=1103)** | Irvine | Hybrid | Jul 30 |
-| ↳ | **[Microsoft Finance & Supply Chain Consultant - Fall 2026](https://jobright.ai/jobs/info/688a3b7c09808a6103e4d2d0?utm_campaign=Consultant&utm_source=1103)** | San Francisco | Hybrid | Jul 30 |
 | **[Insperity](http://www.insperity.com)** | **[Outside Sales Consultant / Business Performance Advisor](https://jobright.ai/jobs/info/68510ad425ee29d6691de360?utm_campaign=Consultant&utm_source=1103)** | Glendale, CA | On Site | Jul 30 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/688a22d5aab47a17f6706c54?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 30 |
 | **[Angi](https://www.angi.com/)** | **[Project Consultant](https://jobright.ai/jobs/info/688a4474aab47a17f6707876?utm_campaign=Consultant&utm_source=1103)** | Miami-FTL Area | On Site | Jul 30 |
@@ -79,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/688a07af09808a6103e4c5e9?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | Jul 30 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Remote Consultant (Financial Software Integrations)](https://jobright.ai/jobs/info/686da99a847857cfc7633100?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 30 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6889f755aab47a17f67063bc?utm_campaign=Consultant&utm_source=1103)** | Duncanville, TX | On Site | Jul 30 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68807e0f2097a271a89a575e?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Jul 30 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6889f64409808a6103e4c2c6?utm_campaign=Consultant&utm_source=1103)** | Warren, MI | On Site | Jul 30 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687c7ad0764c3d7411c3809c?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Jul 30 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6846e1ec57dfa1e1615dc0ac?utm_campaign=Consultant&utm_source=1103)** | Peoria, AZ | On Site | Jul 30 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/686cb42135584b65422b2fdc?utm_campaign=Consultant&utm_source=1103)** | Lincoln Park, MI | On Site | Jul 30 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6889ed44aab47a17f67062c3?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Jul 30 |
@@ -110,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - Dallas (2025 Start Dates)](https://jobright.ai/jobs/info/6889535309808a6103e46cae?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 29 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/6889527f9f961617fe213966?utm_campaign=Consultant&utm_source=1103)** | Des Moines, IA | On Site | Jul 29 |
 | ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68894f4e09808a6103e46b0d?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 29 |
+| ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68894b82aab47a17f67009cf?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Jul 29 |
 | ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/6889bcc009808a6103e4b3ef?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 29 |
-| ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688940a09f961617fe2131ed?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Jul 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Associate Delivery Consultant](https://jobright.ai/jobs/info/68893bbb9f961617fe212ebd?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/6889229f09808a6103e45522?utm_campaign=Consultant&utm_source=1103)** | Denver Downtown | On Site | Jul 29 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688922b609808a6103e45548?utm_campaign=Consultant&utm_source=1103)** | Denver Downtown | On Site | Jul 29 |
 | ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/6889227009808a6103e454da?utm_campaign=Consultant&utm_source=1103)** | Minneapolis | On Site | Jul 29 |
 | ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/688921bf9f961617fe212190?utm_campaign=Consultant&utm_source=1103)** | Minneapolis | On Site | Jul 29 |
 | ↳ | **[Application Development Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/6889218e09808a6103e45376?utm_campaign=Consultant&utm_source=1103)** | Des Moines | On Site | Jul 29 |
@@ -146,7 +170,7 @@ For a complete list, click the following sortable link below:
 | **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant - Chandler / Gilbert, AZ](https://jobright.ai/jobs/info/6887db464174df41e0fa1155?utm_campaign=Consultant&utm_source=1103)** | Chandler, AZ | On Site | Jul 28 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants - East Coast](https://jobright.ai/jobs/info/6835888cfa8a32692d93e738?utm_campaign=Consultant&utm_source=1103)** | Boston, New York | On Site | Jul 28 |
 | **[Mars & Co.](http://www.marsandco.com/)** | **[Associate Consultant - NY Area](https://jobright.ai/jobs/info/6887c730fbbf032d00076539?utm_campaign=Consultant&utm_source=1103)** | New York City Area | On Site | Jul 28 |
-| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/688895539f961617fe20f143?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
+| **[Stratford Davis Staffing](www.stratforddavis.com)** | **[Telesales Consultant](https://jobright.ai/jobs/info/688895689f961617fe20f157?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/6887b6694174df41e0f9ff3e?utm_campaign=Consultant&utm_source=1103)** | Milwaukee | On Site | Jul 28 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Consultant](https://jobright.ai/jobs/info/6887af4273e3e13cbd93f407?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jul 28 |
 | **[Truest Solar](https://truest-solar.com/)** | **[Solar Consultant](https://jobright.ai/jobs/info/6887ab614174df41e0f9fa32?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -158,7 +182,7 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/68885de5fbbf032d0007b2ad?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Jul 28 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/68876d9dfbbf032d0007410e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Jul 28 |
 | **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Consultant](https://jobright.ai/jobs/info/6792359e0dfa1a8b95935f1f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
-| **[Konrad](https://www.konrad.com)** | **[Associate Consultant, Strategy & Technology](https://jobright.ai/jobs/info/68887770c2947d673c176262?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 27 |
+| **[Konrad](https://www.konrad.com)** | **[Associate Consultant, Strategy & Technology](https://jobright.ai/jobs/info/6887b782fbbf032d00075eeb?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jul 27 |
 | ↳ | **[Associate Consultant, Strategy & Technology](https://jobright.ai/jobs/info/6887b5f6fbbf032d00075d2b?utm_campaign=Consultant&utm_source=1103)** | New York | Hybrid | Jul 27 |
 | **[State of Florida](http://www.myflorida.com)** | **[GOVERNMENT OPERATIONS CONSULTANT I - 64006459 Working Title Personnel Liaison](https://jobright.ai/jobs/info/6887b8f173e3e13cbd93f941?utm_campaign=Consultant&utm_source=1103)** | Naples, FL | On Site | Jul 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - San Diego County](https://jobright.ai/jobs/info/6886838fb651c92cb78af603?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Jul 27 |
@@ -207,9 +231,9 @@ For a complete list, click the following sortable link below:
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/688322796fcd973d15adfae4?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jul 24 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Jul 24 |
 | **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/6886f7d3b651c92cb78b0abd?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/68846708b651c92cb78a7fb5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Omnichannel Consultant](https://jobright.ai/jobs/info/6881d43041fbda106ee6d885?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jul 24 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ec796fcd973d15add2dd?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Jul 24 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea12835a903aa07f1759?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 24 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882ea12835a903aa07f1759?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Jul 24 |
 | **[State of Florida](http://www.myflorida.com)** | **[SOCIAL WORK SERVICES PROGRAM CONSULTANT - 64067712](https://jobright.ai/jobs/info/68844405fbbf032d0006680a?utm_campaign=Consultant&utm_source=1103)** | West Palm Beach, FL | On Site | Jul 24 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/6882e9836fcd973d15add1ca?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Jul 24 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/6882d6a8835a903aa07f11bf?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Jul 24 |
@@ -245,5 +269,4 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant, Microsoft Dynamics 365](https://jobright.ai/jobs/info/68658af4dacc710e97af25e5?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Confluence](http://www.confluence.com)** | **[Associate Client Consultant](https://jobright.ai/jobs/info/687f21352097a271a899afa8?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/686627502f49bf26a3cbc1aa?utm_campaign=Consultant&utm_source=1103)** | Hesperia, CA | On Site | Jul 24 |
-| **[Insperity](http://www.insperity.com)** | **[Outside Sales Consultant / Business Performance Advisor](https://jobright.ai/jobs/info/68883fc973e3e13cbd94338f?utm_campaign=Consultant&utm_source=1103)** | Bloomington, MN | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
