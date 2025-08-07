@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant](https://jobright.ai/jobs/info/689510f04ed2ea559ca532d3?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Aug 07 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester / Point Pleasant, WV](https://jobright.ai/jobs/info/68950d9f4ed2ea559ca53033?utm_campaign=Consultant&utm_source=1103)** | Point Pleasant, WV | On Site | Aug 07 |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/689508d173b3a600fe884862?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Aug 07 |
 | **[Momentum Solar](http://momentumsolar.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/689501f28c6d6b4426776845?utm_campaign=Consultant&utm_source=1103)** | Warwick, RI | Hybrid | Aug 07 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Full-Time MBA, United States](https://jobright.ai/jobs/info/6894f51f8c6d6b4426775e72?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Aug 07 |
 | ↳ | **[Consultant, Full-Time MBA, United States](https://jobright.ai/jobs/info/6894f3ee8c6d6b4426775ddd?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Aug 07 |
@@ -87,19 +90,20 @@ For a complete list, click the following sortable link below:
 | **[Oregon State University](https://oregonstate.edu)** | **[Information Technology Consultant: Video Post-Producer](https://jobright.ai/jobs/info/688c1b381808534a89cb861b?utm_campaign=Consultant&utm_source=1103)** | Corvallis, OR | Hybrid | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Corporate Travel Consultant](https://jobright.ai/jobs/info/6894c0cc4ed2ea559ca50246?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 07 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6894bf6d4ed2ea559ca501c8?utm_campaign=Consultant&utm_source=1103)** | New Haven, CT, 06511 | On Site | Aug 07 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Consultant Impact and Innovation Team](https://jobright.ai/jobs/info/6894e1458c6d6b442677535a?utm_campaign=Consultant&utm_source=1103)** | Texas, United States | Remote | Aug 07 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6894beba73b3a600fe881c83?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Aug 07 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Virtual Client Protection Consultant](https://jobright.ai/jobs/info/6894b9c08c6d6b4426773c2d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877f607866a435525ab56c9?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877ef215cebcd1dd51d6246?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/687801425cebcd1dd51d6eea?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877f7e65cebcd1dd51d68fb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/687806475cebcd1dd51d7165?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Aug 07 |
+| **[Deutsche Bank](https://www.db.com)** | **[ServiceNow SRE Support Consultant - Associate](https://jobright.ai/jobs/info/6893040af47efe2113962103?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | Hybrid | Aug 07 |
+| **[Jacobs](http://www.jacobs.com)** | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/687806475cebcd1dd51d7165?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877f7a7866a435525ab58a7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/68780b75866a435525ab640b?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 07 |
 | ↳ | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877f6fc866a435525ab57df?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Aug 07 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/6894a19a73b3a600fe880c2c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 07 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6894be444ed2ea559ca50154?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 07 |
+| **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/6837c5d0988d6ce38a991d4f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Aug 07 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Management Consulting Associate (Full Time Campus Recruiting), Consumer and Retail Group](https://jobright.ai/jobs/info/689450dba9199876488e4c14?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Aug 07 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Management Consulting Associate (Full Time Campus Recruiting), Consumer and Retail Group](https://jobright.ai/jobs/info/68944e09a9199876488e49ec?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 06 |
 | ↳ | **[Management Consulting Associate (Full Time Campus Recruiting), Consumer and Retail Group](https://jobright.ai/jobs/info/68944db64c7e851b90ae4ee9?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Aug 06 |
@@ -177,11 +181,10 @@ For a complete list, click the following sortable link below:
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68924d634c7e851b90ad47a8?utm_campaign=Consultant&utm_source=1103)** | Seguin, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68924d4ef5ee707a15dc4743?utm_campaign=Consultant&utm_source=1103)** | Garland, TX | On Site | Aug 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/68924c23f47efe211395b252?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | On Site | Aug 05 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68924b10f5ee707a15dc4659?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Aug 05 |
 | **[Penske Automotive Group](http://www.penskeautomotive.com/)** | **[Financial Services Consultant](https://jobright.ai/jobs/info/6892492ff5ee707a15dc4596?utm_campaign=Consultant&utm_source=1103)** | Santa Clara, CA | On Site | Aug 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/6892489df5ee707a15dc455a?utm_campaign=Consultant&utm_source=1103)** | Greater Houston | On Site | Aug 05 |
 | ↳ | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/689248454c7e851b90ad459a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Aug 05 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68933de4f47efe21139634fd?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Aug 05 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68933eb34c7e851b90adcb33?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Aug 05 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/689243c04c7e851b90ad4499?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA, 22102 | On Site | Aug 05 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/6892423ef47efe211395ae0b?utm_campaign=Consultant&utm_source=1103)** | USA CA Los Angeles 11150 Santa Monica Blvd | On Site | Aug 05 |
 | ↳ | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/6892420ff5ee707a15dc42a1?utm_campaign=Consultant&utm_source=1103)** | USA NY New York | On Site | Aug 05 |
@@ -205,14 +208,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ee8a4c7e851b90ad28b6?utm_campaign=Consultant&utm_source=1103)** | North Richland Hills, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ee56f47efe2113959365?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edecf5ee707a15dc283c?utm_campaign=Consultant&utm_source=1103)** | Duncanville, TX | On Site | Aug 05 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edcbf47efe2113959334?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edc1f47efe2113959331?utm_campaign=Consultant&utm_source=1103)** | Peoria, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891eda2f47efe2113959328?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed8ff47efe2113959320?utm_campaign=Consultant&utm_source=1103)** | Avondale, AZ | On Site | Aug 05 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed814c7e851b90ad2868?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed60f5ee707a15dc2812?utm_campaign=Consultant&utm_source=1103)** | Missouri City, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed0d4c7e851b90ad284e?utm_campaign=Consultant&utm_source=1103)** | Mission, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6892147af47efe2113959bdc?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6892157ff5ee707a15dc3129?utm_campaign=Consultant&utm_source=1103)** | Grand Prairie, TX | On Site | Aug 05 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6892112df5ee707a15dc2fef?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Aug 05 |
 | **[EY](http://www.ey.com)** | **[EY-Parthenon - Strategy and Execution - Deal Technology - Experienced Associate, Multiple Locations](https://jobright.ai/jobs/info/6891fe644c7e851b90ad2b8c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 05 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Retirement Consultant (Location GA, MN or MO)](https://jobright.ai/jobs/info/6891b3abf5ee707a15dc192b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 05 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Retirement Consultant - Philadelphia](https://jobright.ai/jobs/info/68930809f47efe211396271d?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 04 |
@@ -299,8 +303,6 @@ For a complete list, click the following sortable link below:
 | **[iMatrix](https://imatrix.com/)** | **[Senior Internet Consultant](https://jobright.ai/jobs/info/688d1fa13a30793eb9648bc0?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Aug 01 |
 | **[Renaissance Strategic Advisors](http://www.rsadvisors.com)** | **[Strategy Consulting Analyst](https://jobright.ai/jobs/info/688d1c8e3a30793eb9648abe?utm_campaign=Consultant&utm_source=1103)** | Arlington, Virginia, United States | On Site | Aug 01 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Internal Audit and Financial Advisory Consultant - 2026](https://jobright.ai/jobs/info/688d1c501808534a89cc109b?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Aug 01 |
-| ↳ | **[Phoenix Internal Audit and Financial Advisory Consultant - 2026](https://jobright.ai/jobs/info/688d1aac1808534a89cc0f2a?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 01 |
-| ↳ | **[Cincinnati Internal Audit and Financial Advisory Consultant - 2026](https://jobright.ai/jobs/info/688d1a5c1808534a89cc0f01?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Aug 01 |
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/688d66463a30793eb964ab41?utm_campaign=Consultant&utm_source=1103)** | Frankfort, IL | Hybrid | Aug 01 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/688d694b1808534a89cc3248?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Aug 01 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/688d645527f9022553c0b25b?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Aug 01 |
@@ -334,5 +336,4 @@ For a complete list, click the following sortable link below:
 | **[Salsify](http://salsify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/688c30e0906ac06e1d1d1939?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Aug 01 |
 | **[Graebel Companies, Inc.](http://www.graebel.com)** | **[Global Relocation Consultant](https://jobright.ai/jobs/info/688c80763a30793eb9643ed9?utm_campaign=Consultant&utm_source=1103)** | USA | Remote | Aug 01 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Senior Associate, Ocean Modeler](https://jobright.ai/jobs/info/688c61a4906ac06e1d1d3c4d?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA | Hybrid | Jul 31 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[BCG Platinion / Consultant, Cybersecurity](https://jobright.ai/jobs/info/681ae2ca7fa9db0bd1092c8c?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
