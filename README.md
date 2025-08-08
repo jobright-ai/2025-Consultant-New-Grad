@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProcessUnity](http://www.processunity.com)** | **[Associate Implementation Consultant](https://jobright.ai/jobs/info/6895b7b08c6d6b442677d0ae?utm_campaign=Consultant&utm_source=1103)** | Concord, MA | On Site | Aug 07 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Consultant Impact and Innovation Team](https://jobright.ai/jobs/info/68956ba74ed2ea559ca559da?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | Remote | Aug 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6895542b4ed2ea559ca55040?utm_campaign=Consultant&utm_source=1103)** | Tolleson, AZ | On Site | Aug 07 |
 | **[NERA](http://www.nera.com)** | **[NERA Consultant (New PhD) (Multiple Locations)](https://jobright.ai/jobs/info/6895407a4ed2ea559ca54630?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Aug 07 |
@@ -199,6 +200,7 @@ For a complete list, click the following sortable link below:
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68924f664c7e851b90ad4866?utm_campaign=Consultant&utm_source=1103)** | Casa Grande, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68924d634c7e851b90ad47a8?utm_campaign=Consultant&utm_source=1103)** | Seguin, TX | On Site | Aug 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/68924c23f47efe211395b252?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | On Site | Aug 05 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/689249c24c7e851b90ad4634?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | On Site | Aug 05 |
 | **[Penske Automotive Group](http://www.penskeautomotive.com/)** | **[Financial Services Consultant](https://jobright.ai/jobs/info/6892492ff5ee707a15dc4596?utm_campaign=Consultant&utm_source=1103)** | Santa Clara, CA | On Site | Aug 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/6892489df5ee707a15dc455a?utm_campaign=Consultant&utm_source=1103)** | Greater Houston | On Site | Aug 05 |
 | ↳ | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/689248454c7e851b90ad459a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Aug 05 |
@@ -216,24 +218,23 @@ For a complete list, click the following sortable link below:
 | **[Shade Doctor LLC](https://shadedocs.com)** | **[Design Consultant](https://jobright.ai/jobs/info/689300def47efe2113961fec?utm_campaign=Consultant&utm_source=1103)** | DFW Metroplex | On Site | Aug 05 |
 | **[Closet America](https://www.closetamerica.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/6859e6060b804256a07bcb23?utm_campaign=Consultant&utm_source=1103)** | Beaver County, PA | On Site | Aug 05 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 05 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891f36ef47efe2113959491?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Aug 05 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/6837c5d0988d6ce38a991f43?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Aug 05 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891f090f47efe2113959408?utm_campaign=Consultant&utm_source=1103)** | Glendale, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891efe6f47efe21139593e4?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 05 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891efdb4c7e851b90ad2922?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891efc7f5ee707a15dc28b8?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ef91f47efe21139593c4?utm_campaign=Consultant&utm_source=1103)** | Pharr, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891eefc4c7e851b90ad28e5?utm_campaign=Consultant&utm_source=1103)** | Baytown, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ee8a4c7e851b90ad28b6?utm_campaign=Consultant&utm_source=1103)** | North Richland Hills, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ee56f47efe2113959365?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edecf5ee707a15dc283c?utm_campaign=Consultant&utm_source=1103)** | Duncanville, TX | On Site | Aug 05 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edcb4c7e851b90ad287c?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891edc1f47efe2113959331?utm_campaign=Consultant&utm_source=1103)** | Peoria, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891eda7f5ee707a15dc2828?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891eda2f47efe2113959328?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed8ff47efe2113959320?utm_campaign=Consultant&utm_source=1103)** | Avondale, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed60f5ee707a15dc2812?utm_campaign=Consultant&utm_source=1103)** | Missouri City, TX | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6891ed0d4c7e851b90ad284e?utm_campaign=Consultant&utm_source=1103)** | Mission, TX | On Site | Aug 05 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6892147af47efe2113959bdc?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | On Site | Aug 05 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/689212f1f5ee707a15dc3074?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Aug 05 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6892157ff5ee707a15dc3129?utm_campaign=Consultant&utm_source=1103)** | Grand Prairie, TX | On Site | Aug 05 |
 | **[EY](http://www.ey.com)** | **[EY-Parthenon - Strategy and Execution - Deal Technology - Experienced Associate, Multiple Locations](https://jobright.ai/jobs/info/6891fe644c7e851b90ad2b8c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 05 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Retirement Consultant (Location GA, MN or MO)](https://jobright.ai/jobs/info/6891b3abf5ee707a15dc192b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 05 |
@@ -322,14 +323,4 @@ For a complete list, click the following sortable link below:
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/688d66463a30793eb964ab41?utm_campaign=Consultant&utm_source=1103)** | Frankfort, IL | Hybrid | Aug 01 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/688d694b1808534a89cc3248?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Aug 01 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/688d645527f9022553c0b25b?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Aug 01 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68703674a5ae807a59cf6b74?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Aug 01 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory](https://jobright.ai/jobs/info/688d01a83a30793eb9647c9a?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 01 |
-| ↳ | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory](https://jobright.ai/jobs/info/688d010827f9022553c085b4?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Aug 01 |
-| ↳ | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory](https://jobright.ai/jobs/info/688cfe651808534a89cc02a0?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Aug 01 |
-| ↳ | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory](https://jobright.ai/jobs/info/688cfe491808534a89cc0299?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Aug 01 |
-| ↳ | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory](https://jobright.ai/jobs/info/688cfd2a1808534a89cc0239?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Aug 01 |
-| **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/688cf68b1808534a89cbfecb?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Aug 01 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory ](https://jobright.ai/jobs/info/688cf16527f9022553c07ffd?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Aug 01 |
-| **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/688cef2327f9022553c07ebd?utm_campaign=Consultant&utm_source=1103)** | 3965 Dallas Parkway  Frisco, TX 75034 | Hybrid | Aug 01 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Transformation Enablement & Outsourcing Advisory ](https://jobright.ai/jobs/info/688cef0327f9022553c07e85?utm_campaign=Consultant&utm_source=1103)** | San Francisco | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
