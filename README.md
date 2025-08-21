@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a6f0fa758f2e4ac3fe8a00?utm_campaign=Consultant&utm_source=1103)** | Southfield, MI | On Site | Aug 21 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a6ebed758f2e4ac3fe88cc?utm_campaign=Consultant&utm_source=1103)** | Center Line, MI | On Site | Aug 21 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Multi-Site Leasing Consultant](https://jobright.ai/jobs/info/68a486a1e9f1c744da12237c?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA, 22209 | On Site | Aug 20 |
 | **[Current Home](https://currenthome.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/68a69e92758f2e4ac3fe6151?utm_campaign=Consultant&utm_source=1103)** | Greater Tampa Bay Area | On Site | Aug 20 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/68a666f233dd7158bbc9fd00?utm_campaign=Consultant&utm_source=1103)** | Pueblo, CO | On Site | Aug 20 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Client Policy Solutions Consultant](https://jobright.ai/jobs/info/68a69bdeb6a3617d7fa78932?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687b9032ed63844c944a8e7b?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a4012c541cc347984098b7?utm_campaign=Consultant&utm_source=1103)** | Spring Lake, NC | On Site | Aug 20 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a5a640758f2e4ac3fe02ac?utm_campaign=Consultant&utm_source=1103)** | Waterford, MI | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a5a60b33dd7158bbc9b4fb?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Aug 20 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc3b4?utm_campaign=Consultant&utm_source=1103)** | Waterford, MI | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/683bf397e35e28cd0b191728?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a6c22233dd7158bbca292f?utm_campaign=Consultant&utm_source=1103)** | Westland, MI | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a6bbee758f2e4ac3fe7575?utm_campaign=Consultant&utm_source=1103)** | Edgewood, MD | On Site | Aug 20 |
@@ -166,8 +168,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348ba37d3cc6b0d5759b1?utm_campaign=Consultant&utm_source=1103)** | FL-Tampa | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348aa37d3cc6b0d575986?utm_campaign=Consultant&utm_source=1103)** | DC-Washington | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3488237d3cc6b0d5758e9?utm_campaign=Consultant&utm_source=1103)** | CA-San Francisco | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758bb?utm_campaign=Consultant&utm_source=1103)** | CO-Denver | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758b2?utm_campaign=Consultant&utm_source=1103)** | TX-Houston | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758bb?utm_campaign=Consultant&utm_source=1103)** | CO-Denver | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3486137d3cc6b0d57588a?utm_campaign=Consultant&utm_source=1103)** | NV-Las Vegas | On Site | Aug 18 |
 | **[Nuvision Federal Credit Union](http://www.nuvisionfederal.org)** | **[Mortgage Loan Consultant](https://jobright.ai/jobs/info/687ffc2c764c3d7411c4e05d?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Aug 18 |
 | **[Acquisition.com](https://www.acquisition.com)** | **[Strategy Associate, Advisory Practice](https://jobright.ai/jobs/info/689130cd4c7e851b90accc52?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Aug 18 |
@@ -227,9 +229,9 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage 300](https://jobright.ai/jobs/info/689f6b7dfaa4e875e8286a01?utm_campaign=Consultant&utm_source=1103)** | Greater Houston | On Site | Aug 15 |
 | ↳ | **[Consultant, Sage 300](https://jobright.ai/jobs/info/689f6b9efaa4e875e8286a56?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Aug 15 |
 | **[Diversity Travel](https://www.diversitytravel.com)** | **[Corporate Travel Consultant](https://jobright.ai/jobs/info/689f5a0afaa4e875e828607e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 15 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f51b883d13d1f5b6c5a33?utm_campaign=Consultant&utm_source=1103)** | USA TX Houston 11750 Katy Freeway | On Site | Aug 15 |
+| **[Baker Tilly](https://www.bakertilly.global/)** | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f517a79a9f96662555ed8?utm_campaign=Consultant&utm_source=1103)** | USA NY New York | On Site | Aug 15 |
+| ↳ | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f51b883d13d1f5b6c5a33?utm_campaign=Consultant&utm_source=1103)** | USA TX Houston 11750 Katy Freeway | On Site | Aug 15 |
 | ↳ | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f5157faa4e875e8285ca9?utm_campaign=Consultant&utm_source=1103)** | USA CA Los Angeles 11150 Santa Monica Blvd | On Site | Aug 15 |
-| ↳ | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f517a79a9f96662555ed8?utm_campaign=Consultant&utm_source=1103)** | USA NY New York | On Site | Aug 15 |
 | **[Contour Spa](https://www.contourspa.com)** | **[Client Consultant](https://jobright.ai/jobs/info/689fff4d83d13d1f5b6cc5d3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 15 |
 | **[CrossVue](https://www.crossvue.com)** | **[Workday Payroll Consultant](https://jobright.ai/jobs/info/689f2c3783d13d1f5b6c4776?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 15 |
 | **[Centerline](http://centerlinecommunications.com/)** | **[Site Acquisition Consultant (early career)](https://jobright.ai/jobs/info/684a80af678612c46878f607?utm_campaign=Consultant&utm_source=1103)** | San Francisco County, CA | On Site | Aug 15 |
@@ -262,11 +264,4 @@ For a complete list, click the following sortable link below:
 | **[Stoneside Blinds & Shades](http://www.stoneside.com)** | **[Design Consultant](https://jobright.ai/jobs/info/689e4bf279a9f9666254a3b9?utm_campaign=Consultant&utm_source=1103)** | LA Metro Area | On Site | Aug 14 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Implementation Consultant - Financials](https://jobright.ai/jobs/info/689e5218faa4e875e827ab1c?utm_campaign=Consultant&utm_source=1103)** | Lubbock, TX | Hybrid | Aug 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cyber IT Audit Consultant](https://jobright.ai/jobs/info/689e4203faa4e875e8278eca?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Aug 14 |
-| ↳ | **[Cyber IT Audit Consultant](https://jobright.ai/jobs/info/689e256683d13d1f5b6b7242?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Aug 14 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Consultant](https://jobright.ai/jobs/info/689e1cb479a9f96662547096?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | Hybrid | Aug 14 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant - Part Time](https://jobright.ai/jobs/info/689e1b56faa4e875e8276b6c?utm_campaign=Consultant&utm_source=1103)** | Tulsa, Oklahoma | On Site | Aug 14 |
-| **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Consulting Analyst - Retirement Plans](https://jobright.ai/jobs/info/67dc51222d4cfbcbecad37e9?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Aug 14 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Cyber IT Audit Consultant](https://jobright.ai/jobs/info/689e137283d13d1f5b6b68d4?utm_campaign=Consultant&utm_source=1103)** | Schaumburg | On Site | Aug 14 |
-| **[Lennox](http://www.lennox.com)** | **[HVAC Field Technical Consultant (West/Central NY)](https://jobright.ai/jobs/info/6881a75d16ea5743a373aded?utm_campaign=Consultant&utm_source=1103)** | Syracuse, NY | On Site | Aug 14 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Cyber IT Audit Consultant](https://jobright.ai/jobs/info/689e1176faa4e875e8276860?utm_campaign=Consultant&utm_source=1103)** | Chicago Riverside Plaza | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
