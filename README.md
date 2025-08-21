@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Current Home](https://currenthome.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/68a69e92758f2e4ac3fe6151?utm_campaign=Consultant&utm_source=1103)** | Greater Tampa Bay Area | On Site | Aug 20 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/68a666f233dd7158bbc9fd00?utm_campaign=Consultant&utm_source=1103)** | Pueblo, CO | On Site | Aug 20 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68a6625533dd7158bbc9fa9d?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Operational Transaction Advisory Consultant](https://jobright.ai/jobs/info/68a65acbb6a3617d7fa77054?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Aug 20 |
+| **[Crowe](https://www.crowe.com/)** | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a69b18b6a3617d7fa78871?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
+| ↳ | **[Operational Transaction Advisory Consultant](https://jobright.ai/jobs/info/68a65acbb6a3617d7fa77054?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Aug 20 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Virtual Banking Consultant I](https://jobright.ai/jobs/info/68a657e6758f2e4ac3fe45cc?utm_campaign=Consultant&utm_source=1103)** | Sartell, MN | Remote | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Technology Risk and Controls Consultant](https://jobright.ai/jobs/info/68a657dc758f2e4ac3fe45c5?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Aug 20 |
 | ↳ | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a657ba33dd7158bbc9f806?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Aug 20 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Oliver Wyman - Integrated Consulting Group 2026](https://jobright.ai/jobs/info/68a5db86b6a3617d7fa739df?utm_campaign=Consultant&utm_source=1103)** | Chicago - 155 Wacker | Hybrid | Aug 20 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68a5d819b6a3617d7fa73916?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Mace](http://www.macegroup.com)** | **[Assistant Cost Consultant](https://jobright.ai/jobs/info/6888d8b39f961617fe20fe2e?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Aug 20 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Client Policy Solutions Consultant](https://jobright.ai/jobs/info/68a69bdeb6a3617d7fa78932?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687b9032ed63844c944a8e7b?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a4012c541cc347984098b7?utm_campaign=Consultant&utm_source=1103)** | Spring Lake, NC | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a5a640758f2e4ac3fe02ac?utm_campaign=Consultant&utm_source=1103)** | Waterford, MI | On Site | Aug 20 |
@@ -152,7 +155,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/687a6031764c3d7411c2cc64?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 18 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68a36fc8403ad4363b1c0fba?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | On Site | Aug 18 |
 | **[Navan](https://navan.com)** | **[Mid-Market Solutions Consultant - Expense](https://jobright.ai/jobs/info/6864d211be4482d8971f4672?utm_campaign=Consultant&utm_source=1103)** | Palo Alto, CA or San Francisco, CA | On Site | Aug 18 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a626d?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 18 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a61c9?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 18 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a624b?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Aug 18 |
 | **[PwC](http://pwc.com)** | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348c837d3cc6b0d5759e3?utm_campaign=Consultant&utm_source=1103)** | LA-New Orleans | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348ba37d3cc6b0d5759b1?utm_campaign=Consultant&utm_source=1103)** | FL-Tampa | On Site | Aug 18 |
@@ -171,8 +174,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34792403ad4363b1bfc10?utm_campaign=Consultant&utm_source=1103)** | TN-Nashville | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfb9c?utm_campaign=Consultant&utm_source=1103)** | WA-Seattle | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfba0?utm_campaign=Consultant&utm_source=1103)** | NY-New York | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7c?utm_campaign=Consultant&utm_source=1103)** | MD-Baltimore | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7b?utm_campaign=Consultant&utm_source=1103)** | IL-Chicago | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7c?utm_campaign=Consultant&utm_source=1103)** | MD-Baltimore | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f7?utm_campaign=Consultant&utm_source=1103)** | CA-Los Angeles | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f5?utm_campaign=Consultant&utm_source=1103)** | GA-Atlanta | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3471d1ab5f8579e8a43de?utm_campaign=Consultant&utm_source=1103)** | PA-Philadelphia | On Site | Aug 18 |
@@ -224,7 +227,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Sage 300 CRE](https://jobright.ai/jobs/info/689f5157faa4e875e8285ca9?utm_campaign=Consultant&utm_source=1103)** | USA CA Los Angeles 11150 Santa Monica Blvd | On Site | Aug 15 |
 | **[Contour Spa](https://www.contourspa.com)** | **[Client Consultant](https://jobright.ai/jobs/info/689fff4d83d13d1f5b6cc5d3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 15 |
 | **[PwC](http://pwc.com)** | **[Operations Consulting - Sourcing & Procurement - Coupa - Experienced Associate](https://jobright.ai/jobs/info/689f446283d13d1f5b6c52db?utm_campaign=Consultant&utm_source=1103)** | MN-Minneapolis | On Site | Aug 15 |
-| ↳ | **[Operations Consulting - Sourcing & Procurement - Coupa - Experienced Associate](https://jobright.ai/jobs/info/689f43fcfaa4e875e828563c?utm_campaign=Consultant&utm_source=1103)** | NY-Albany | On Site | Aug 15 |
 | **[CrossVue](https://www.crossvue.com)** | **[Workday Payroll Consultant](https://jobright.ai/jobs/info/689f2c3783d13d1f5b6c4776?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 15 |
 | **[Centerline](http://centerlinecommunications.com/)** | **[Site Acquisition Consultant (early career)](https://jobright.ai/jobs/info/684a80af678612c46878f607?utm_campaign=Consultant&utm_source=1103)** | San Francisco County, CA | On Site | Aug 15 |
 | **[Teneo](https://www.teneo.com)** | **[Associate Consultant, Management Consulting](https://jobright.ai/jobs/info/689f199879a9f96662554797?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Aug 15 |
@@ -247,8 +249,8 @@ For a complete list, click the following sortable link below:
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I](https://jobright.ai/jobs/info/689e72f783d13d1f5b6bca45?utm_campaign=Consultant&utm_source=1103)** | Albany, MN | On Site | Aug 14 |
 | **[Bain & Company](https://www.bain.com)** | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6eca83d13d1f5b6bc5f8?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Aug 14 |
 | ↳ | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6e6bfaa4e875e827c5e7?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Aug 14 |
-| ↳ | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6e61faa4e875e827c5d2?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Aug 14 |
 | ↳ | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6e61faa4e875e827c5d3?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Aug 14 |
+| ↳ | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6e61faa4e875e827c5d2?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Aug 14 |
 | ↳ | **[Enterprise Technology Consultant (2026)](https://jobright.ai/jobs/info/689e6e2b83d13d1f5b6bc52f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 14 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/689e678c79a9f9666254c344?utm_campaign=Consultant&utm_source=1103)** | Camden, NJ, 80102 | On Site | Aug 14 |
 | **[Stoneside Blinds & Shades](http://www.stoneside.com)** | **[Design Consultant](https://jobright.ai/jobs/info/689e5325faa4e875e827ad95?utm_campaign=Consultant&utm_source=1103)** | Atlanta Metro | On Site | Aug 14 |
@@ -272,7 +274,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/689df5f983d13d1f5b6b5a14?utm_campaign=Consultant&utm_source=1103)** | SALEM, NH, 03079 | On Site | Aug 14 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/689df5cb83d13d1f5b6b598d?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA, 98101 | On Site | Aug 14 |
 | **[Twin Flame Group TX](https://www.twinflametx.com/)** | **[Appointment Setter – Growth & Consulting Division (1099 Commission)](https://jobright.ai/jobs/info/689ded4ffaa4e875e8275584?utm_campaign=Consultant&utm_source=1103)** | Argyle, TX | On Site | Aug 14 |
-| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/689dd717faa4e875e82748d6?utm_campaign=Consultant&utm_source=1103)** | North Royalton, OH | On Site | Aug 14 |
-| **[Closers.io](http://closers.io)** | **[Sales Consultant (Business Consulting $95k-$125k/year+)](https://jobright.ai/jobs/info/689f2330faa4e875e8284791?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 14 |
-| **[Confluence](http://www.confluence.com)** | **[Associate Client Consultant](https://jobright.ai/jobs/info/687f21352097a271a899afa8?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
