@@ -234,9 +234,9 @@ For a complete list, click the following sortable link below:
 | **[Blytheco](http://www.blytheco.com)** | **[Sage Intacct - Consultant](https://jobright.ai/jobs/info/6892501cf47efe211395b37a?utm_campaign=Consultant&utm_source=1103)** | Remote U.S.A. | Remote | Aug 19 |
 | **[Qvest US](http://www.qvest.com)** | **[Consulting Analyst 2026](https://jobright.ai/jobs/info/68a4e175758f2e4ac3fdaa51?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/689e849afaa4e875e827d604?utm_campaign=Consultant&utm_source=1103)** | Roanoke Rapids, NC | On Site | Aug 19 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d63abdd80e69391be52e?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
-| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d606bdd80e69391be487?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Aug 19 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d606bdd80e69391be487?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Aug 19 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d5e8541cc3479840e9d4?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Aug 19 |
+| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d584e9f1c744da124cfd?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
 | **[Trilogy](http://www.trilogyvc.com)** | **[Business Consultant, Alpha - $100,000/year USD](https://jobright.ai/jobs/info/68a4c87e2d2a252445cd90d0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 19 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68a4aadf541cc3479840cfcf?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA, 19355 | On Site | Aug 19 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51453 - DESIGN_CONSULTANT NE 8044 (CA)](https://jobright.ai/jobs/info/68909b264c7e851b90ac7f3e?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Aug 19 |
@@ -273,12 +273,13 @@ For a complete list, click the following sortable link below:
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68a377961ab5f8579e8a5dd5?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 18 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68a36fc8403ad4363b1c0fba?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | On Site | Aug 18 |
 | **[Navan](https://navan.com)** | **[Mid-Market Solutions Consultant - Expense](https://jobright.ai/jobs/info/6864d211be4482d8971f4672?utm_campaign=Consultant&utm_source=1103)** | Palo Alto, CA or San Francisco, CA | On Site | Aug 18 |
+| **[Oregon State University](https://oregonstate.edu)** | **[Info Technology Consultant](https://jobright.ai/jobs/info/689fbc6e83d13d1f5b6caafa?utm_campaign=Consultant&utm_source=1103)** | Corvallis, OR | Hybrid | Aug 18 |
 | **[PwC](http://pwc.com)** | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348c837d3cc6b0d5759e3?utm_campaign=Consultant&utm_source=1103)** | LA-New Orleans | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348ba37d3cc6b0d5759b1?utm_campaign=Consultant&utm_source=1103)** | FL-Tampa | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a348aa37d3cc6b0d575986?utm_campaign=Consultant&utm_source=1103)** | DC-Washington | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3488237d3cc6b0d5758e9?utm_campaign=Consultant&utm_source=1103)** | CA-San Francisco | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758b2?utm_campaign=Consultant&utm_source=1103)** | TX-Houston | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758bb?utm_campaign=Consultant&utm_source=1103)** | CO-Denver | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3487137d3cc6b0d5758b2?utm_campaign=Consultant&utm_source=1103)** | TX-Houston | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3486137d3cc6b0d57588a?utm_campaign=Consultant&utm_source=1103)** | NV-Las Vegas | On Site | Aug 18 |
 | **[Nuvision Federal Credit Union](http://www.nuvisionfederal.org)** | **[Mortgage Loan Consultant](https://jobright.ai/jobs/info/687ffc2c764c3d7411c4e05d?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Aug 18 |
 | **[Acquisition.com](https://www.acquisition.com)** | **[Strategy Associate, Advisory Practice](https://jobright.ai/jobs/info/689130cd4c7e851b90accc52?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Aug 18 |
@@ -288,12 +289,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347a61ab5f8579e8a44ca?utm_campaign=Consultant&utm_source=1103)** | MO-Kansas City | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347a61ab5f8579e8a44cb?utm_campaign=Consultant&utm_source=1103)** | TX-San Antonio | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34792403ad4363b1bfc10?utm_campaign=Consultant&utm_source=1103)** | TN-Nashville | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfba0?utm_campaign=Consultant&utm_source=1103)** | NY-New York | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfb9c?utm_campaign=Consultant&utm_source=1103)** | WA-Seattle | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfba0?utm_campaign=Consultant&utm_source=1103)** | NY-New York | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7b?utm_campaign=Consultant&utm_source=1103)** | IL-Chicago | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7c?utm_campaign=Consultant&utm_source=1103)** | MD-Baltimore | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f7?utm_campaign=Consultant&utm_source=1103)** | CA-Los Angeles | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f5?utm_campaign=Consultant&utm_source=1103)** | GA-Atlanta | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f7?utm_campaign=Consultant&utm_source=1103)** | CA-Los Angeles | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3471d1ab5f8579e8a43de?utm_campaign=Consultant&utm_source=1103)** | PA-Philadelphia | On Site | Aug 18 |
 | **[Allstate](http://www.allstate.com)** | **[Software Engineer Consultant II (ASP.NET/C#)](https://jobright.ai/jobs/info/68a33a5e1ab5f8579e8a3d84?utm_campaign=Consultant&utm_source=1103)** | USA - OH (Remote) | Remote | Aug 18 |
 | **[Dotdigital](https://dotdigital.com)** | **[Deliverability Consultant](https://jobright.ai/jobs/info/68a33841403ad4363b1bf38b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 18 |
