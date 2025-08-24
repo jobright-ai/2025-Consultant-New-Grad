@@ -149,9 +149,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/68a733aa33dd7158bbca5285?utm_campaign=Consultant&utm_source=1103)** | Saugus, MA, 01906 | On Site | Aug 21 |
 | **[Periscope](https://www.periscope365.com/)** | **[Physical / Occupational Therapist Consultant](https://jobright.ai/jobs/info/68a73352d627244576e2a597?utm_campaign=Consultant&utm_source=1103)** | Aiken, SC | On Site | Aug 21 |
 | **[The Vertex Companies LLC](http://vertexeng.com)** | **[Forensic Consultant](https://jobright.ai/jobs/info/68a746dfd627244576e2aed6?utm_campaign=Consultant&utm_source=1103)** | Braintree, MA | On Site | Aug 21 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68a7fff7758f2e4ac3fefc5b?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 21 |
-| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 21 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68a803fd33dd7158bbcab1a0?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 21 |
 | **[Sun Tan City](http://www.suntancity.com)** | **[Tanning Consultant](https://jobright.ai/jobs/info/68a747c633dd7158bbca5ccb?utm_campaign=Consultant&utm_source=1103)** | Farragut, TN | On Site | Aug 21 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/687a6031764c3d7411c2cc64?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/688aef9e9f961617fe21f76c?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Aug 21 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/689ab03883d13d1f5b69b19f?utm_campaign=Consultant&utm_source=1103)** | Hurst, TX | On Site | Aug 21 |
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (January 2026 Start)](https://jobright.ai/jobs/info/688b5d88906ac06e1d1cadcc?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Aug 21 |
@@ -284,13 +284,13 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347cf403ad4363b1bfc8c?utm_campaign=Consultant&utm_source=1103)** | CA-San Diego | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347cb1ab5f8579e8a4508?utm_campaign=Consultant&utm_source=1103)** | MA-Boston | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347af403ad4363b1bfc3e?utm_campaign=Consultant&utm_source=1103)** | TX-Dallas | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347a61ab5f8579e8a44cb?utm_campaign=Consultant&utm_source=1103)** | TX-San Antonio | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347a61ab5f8579e8a44ca?utm_campaign=Consultant&utm_source=1103)** | MO-Kansas City | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a347a61ab5f8579e8a44cb?utm_campaign=Consultant&utm_source=1103)** | TX-San Antonio | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34792403ad4363b1bfc10?utm_campaign=Consultant&utm_source=1103)** | TN-Nashville | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfb9c?utm_campaign=Consultant&utm_source=1103)** | WA-Seattle | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfba0?utm_campaign=Consultant&utm_source=1103)** | NY-New York | On Site | Aug 18 |
-| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7b?utm_campaign=Consultant&utm_source=1103)** | IL-Chicago | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3474f403ad4363b1bfb9c?utm_campaign=Consultant&utm_source=1103)** | WA-Seattle | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7c?utm_campaign=Consultant&utm_source=1103)** | MD-Baltimore | On Site | Aug 18 |
+| ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a34737403ad4363b1bfb7b?utm_campaign=Consultant&utm_source=1103)** | IL-Chicago | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f5?utm_campaign=Consultant&utm_source=1103)** | GA-Atlanta | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3472f1ab5f8579e8a43f7?utm_campaign=Consultant&utm_source=1103)** | CA-Los Angeles | On Site | Aug 18 |
 | ↳ | **[EPM OneStream Consultant, Sr. Associate](https://jobright.ai/jobs/info/68a3471d1ab5f8579e8a43de?utm_campaign=Consultant&utm_source=1103)** | PA-Philadelphia | On Site | Aug 18 |
