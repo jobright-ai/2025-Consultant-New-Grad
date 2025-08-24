@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc3a2?utm_campaign=Consultant&utm_source=1103)** | Madison Heights, MI | On Site | Aug 24 |
 | **[Navan](https://navan.com)** | **[Mid-Market Solutions Consultant - Expense](https://jobright.ai/jobs/info/6864685096b6a252e9790b9c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[Celonis](https://www.celonis.com)** | **[Associate Value Engineer (Management Consulting for AI Implementation) - Orbit Program](https://jobright.ai/jobs/info/68aa43afd627244576e3c95d?utm_campaign=Consultant&utm_source=1103)** | New York, US, New York | On Site | Aug 23 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Analyst - Management Consulting](https://jobright.ai/jobs/info/689ff11c83d13d1f5b6cc07b?utm_campaign=Consultant&utm_source=1103)** | Maryland Heights, MO | On Site | Aug 23 |
@@ -208,8 +209,8 @@ For a complete list, click the following sortable link below:
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/68a6c92e33dd7158bbca3289?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Aug 20 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/687b9032ed63844c944a8e7b?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a4012c541cc347984098b7?utm_campaign=Consultant&utm_source=1103)** | Spring Lake, NC | On Site | Aug 20 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a5a640758f2e4ac3fe02ac?utm_campaign=Consultant&utm_source=1103)** | Waterford, MI | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a5a60b33dd7158bbc9b4fb?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Aug 20 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc3b4?utm_campaign=Consultant&utm_source=1103)** | Waterford, MI | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/683bf397e35e28cd0b191728?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | On Site | Aug 20 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68a6c22233dd7158bbca292f?utm_campaign=Consultant&utm_source=1103)** | Westland, MI | On Site | Aug 20 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/689fc96fcc9ee94dc9119ca5?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 19 |
