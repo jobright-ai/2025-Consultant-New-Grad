@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68ac89b2d627244576e469d1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Prosecuting Attorneys Association of Michigan](https://michiganprosecutor.org/)** | **[PROJECT CONSULTANT (TEMPORARY) – WAYNE COUNTY](https://jobright.ai/jobs/info/68ac7c11daf1431824c9571e?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | On Site | Aug 25 |
 | ↳ | **[PROJECT CONSULTANT (TEMPORARY) – WAYNE COUNTY](https://jobright.ai/jobs/info/68ac7b26daf1431824c95679?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | On Site | Aug 25 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Investment Consultant - Wayne, NJ](https://jobright.ai/jobs/info/68ac766ddaf1431824c954af?utm_campaign=Consultant&utm_source=1103)** | Wayne, NJ | Hybrid | Aug 25 |
@@ -259,9 +260,9 @@ For a complete list, click the following sortable link below:
 | **[Blytheco](http://www.blytheco.com)** | **[Sage Intacct - Consultant](https://jobright.ai/jobs/info/6892501cf47efe211395b37a?utm_campaign=Consultant&utm_source=1103)** | Remote U.S.A. | Remote | Aug 19 |
 | **[Qvest US](http://www.qvest.com)** | **[Consulting Analyst 2026](https://jobright.ai/jobs/info/68a4e175758f2e4ac3fdaa51?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/689e849afaa4e875e827d604?utm_campaign=Consultant&utm_source=1103)** | Roanoke Rapids, NC | On Site | Aug 19 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d63abdd80e69391be52e?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
-| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d606bdd80e69391be487?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Aug 19 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d606bdd80e69391be487?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Aug 19 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d5e8541cc3479840e9d4?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Aug 19 |
+| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68a4d584e9f1c744da124cfd?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
 | **[Trilogy](http://www.trilogyvc.com)** | **[Business Consultant, Alpha - $100,000/year USD](https://jobright.ai/jobs/info/68a4c87e2d2a252445cd90d0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Aug 19 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68a4aadf541cc3479840cfcf?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA, 19355 | On Site | Aug 19 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51453 - DESIGN_CONSULTANT NE 8044 (CA)](https://jobright.ai/jobs/info/68909b264c7e851b90ac7f3e?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Aug 19 |
@@ -284,7 +285,4 @@ For a complete list, click the following sortable link below:
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68a3cd9b37d3cc6b0d579b2a?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Aug 18 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant, Bilingual Preferred](https://jobright.ai/jobs/info/689fd352cc9ee94dc911a10b?utm_campaign=Consultant&utm_source=1103)** | Kennewick, WA | On Site | Aug 18 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/689f81fa83d13d1f5b6c8b8b?utm_campaign=Consultant&utm_source=1103)** | Salem, VA | On Site | Aug 18 |
-| **[State of Florida](http://www.myflorida.com)** | **[HUMAN SERVICES PROGRAM CONSULTANT I - 64000922 1](https://jobright.ai/jobs/info/68a4c1d3e9f1c744da123d46?utm_campaign=Consultant&utm_source=1103)** | Fort Myers, FL | On Site | Aug 18 |
-| **[Walter's Automotive Group](http://waltersautogroup.com)** | **[Audi Parts Consultant](https://jobright.ai/jobs/info/68a514a1b6a3617d7fa6e4b1?utm_campaign=Consultant&utm_source=1103)** | Riverside, CA | On Site | Aug 18 |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68a3c94837d3cc6b0d5797f2?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
