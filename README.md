@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68aed8d01f0a2a568a05e00d?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Aug 27 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68aed8711f0a2a568a05dfe3?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Aug 27 |
+| **[Rippling](https://www.rippling.com)** | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aebc6103c5f15c2fd8b2cb?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Aug 27 |
+| ↳ | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aece227bcb7608b3d29aae?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Aug 27 |
 | **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Work From Home- Client Solution Associate (No Experience Required, Will Train & Mentor)](https://jobright.ai/jobs/info/68ae7287758f2e4ac3013852?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68ae5e59daf1431824ca2997?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | On Site | Aug 26 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[50614 - DESIGN_CONSULTANT 8754 (CT/TX)](https://jobright.ai/jobs/info/68ae5d72d627244576e536c7?utm_campaign=Consultant&utm_source=1103)** | El Paso, TX | On Site | Aug 26 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BCG Platinion / Consultant, Cybersecurity](https://jobright.ai/jobs/info/681ae2ca7fa9db0bd1092c8c?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Aug 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Insurance Consulting & Technology – Actuarial Analyst Life – 2026](https://jobright.ai/jobs/info/68adb71fd627244576e4e727?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68add4d3daf1431824c9e410?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Aug 26 |
+| **[Yardi](https://www.yardi.com)** | **[Solutions Consultant – Enterprise](https://jobright.ai/jobs/info/6891060e4c7e851b90acb578?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 26 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68ada717758f2e4ac300de14?utm_campaign=Consultant&utm_source=1103)** | Staten Island, NY | On Site | Aug 26 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Aug 26 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate, Risk Consulting Internal Audit](https://jobright.ai/jobs/info/68ad957d758f2e4ac300dc58?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Aug 26 |
@@ -138,7 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/68a740c0758f2e4ac3fea685?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Aug 25 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Investment Consultant - Wayne, NJ](https://jobright.ai/jobs/info/68ac766ddaf1431824c954af?utm_campaign=Consultant&utm_source=1103)** | Wayne, NJ | Hybrid | Aug 25 |
 | **[RxSense](https://rxsense.com/)** | **[Clincial Consultant](https://jobright.ai/jobs/info/68ac7514daf1431824c952e9?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Aug 25 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68a7fff7758f2e4ac3fefc5b?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 25 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68a803fd33dd7158bbcab1a0?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 25 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/687a6031764c3d7411c2cc64?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/68ac6c3bd627244576e45c05?utm_campaign=Consultant&utm_source=1103)** | Columbia, MD | On Site | Aug 25 |
 | **[State of Florida](http://www.myflorida.com)** | **[CRIMINAL JUSTICE INFO CONSULTANT I - 71001726](https://jobright.ai/jobs/info/68ad3203daf1431824c9b2ad?utm_campaign=Consultant&utm_source=1103)** | Tallahassee, FL | On Site | Aug 24 |
@@ -265,9 +270,4 @@ For a complete list, click the following sortable link below:
 | **[Murex](https://www.murex.com)** | **[Front Office Consultant](https://jobright.ai/jobs/info/68a627ba758f2e4ac3fe33bd?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Remote | Aug 20 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68a6248933dd7158bbc9e40c?utm_campaign=Consultant&utm_source=1103)** | Utah, United States | On Site | Aug 20 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Municipal Advisory Consultant](https://jobright.ai/jobs/info/68a60485758f2e4ac3fe1f10?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Aug 20 |
-| **[Valent Partners](https://www.valentpartners.com)** | **[Entry-Level Technology Consultant](https://jobright.ai/jobs/info/68a5fd4a33dd7158bbc9d03e?utm_campaign=Consultant&utm_source=1103)** | Dallas | On Site | Aug 20 |
-| **[Crowe](https://www.crowe.com/)** | **[Municipal Advisory Consultant](https://jobright.ai/jobs/info/68a5fb5333dd7158bbc9cd93?utm_campaign=Consultant&utm_source=1103)** | Indianapolis IN USA | On Site | Aug 20 |
-| ↳ | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a5fb4e33dd7158bbc9cd8c?utm_campaign=Consultant&utm_source=1103)** | Houston TX USA | On Site | Aug 20 |
-| ↳ | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a5fb01758f2e4ac3fe1a9c?utm_campaign=Consultant&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
