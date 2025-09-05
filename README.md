@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Consultant, Data Analyst](https://jobright.ai/jobs/info/68ba3b8e6105227d1189c385?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Sep 04 |
+| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/68ba3a536105227d1189c1b2?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Sep 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ba26e86105227d1189b4f7?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | On Site | Sep 04 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68ba25eb5f38327491864624?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Sep 04 |
 | **[Crowe](https://www.crowe.com/)** | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ba245f6105227d1189b2f8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 04 |
@@ -79,20 +81,19 @@ For a complete list, click the following sortable link below:
 | **[Magellan Jets](http://magellanjets.com)** | **[Client Experience Consultant](https://jobright.ai/jobs/info/68b9e9658043103d4f21baf9?utm_campaign=Consultant&utm_source=1103)** | Quincy, MA | Hybrid | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68b9e8308043103d4f21b979?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 04 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68b9e5145f38327491861f23?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Sep 04 |
-| **[Ridgeline Roofing & Restoration](https://ridgeline-roofing.com/)** | **[Roof Consultant](https://jobright.ai/jobs/info/68b9d64b8043103d4f21ad2d?utm_campaign=Consultant&utm_source=1103)** | Brentwood, TN | On Site | Sep 04 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate(US Citizen Only)](https://jobright.ai/jobs/info/68b9e3df6105227d11898c90?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Remote | Sep 04 |
+| **[Ridgeline Roofing & Restoration](https://ridgeline-roofing.com/)** | **[Roof Consultant](https://jobright.ai/jobs/info/68b9df075f383274918618a1?utm_campaign=Consultant&utm_source=1103)** | Brentwood, TN | On Site | Sep 04 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68b9bc176105227d11897608?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 04 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68b9b7ed8043103d4f219d23?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 04 |
 | **[Kiingo AI](kiingo.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/68b9b41a5f38327491860083?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 04 |
 | **[PEAK Event Services](https://www.peakeventservices.com/)** | **[Event Rental Consultant- Reverie Social](https://jobright.ai/jobs/info/68b9b1426105227d11896e0a?utm_campaign=Consultant&utm_source=1103)** | Charleston, South Carolina Metropolitan Area | Hybrid | Sep 04 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/68b9adc05f3832749185feea?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Sep 04 |
 | **[KPMG](https://kpmg.com)** | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c16a6105227d11897737?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 04 |
-| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c6315f38327491860b4a?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Sep 04 |
-| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bb545f383274918605de?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Sep 04 |
-| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bc155f3832749186065a?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Sep 04 |
 | ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c2ad6105227d118978a7?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Sep 04 |
-| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bb545f383274918605e1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 04 |
+| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c6315f38327491860b4a?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Sep 04 |
 | ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bd768043103d4f219f25?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 04 |
+| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bb545f383274918605e1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 04 |
+| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bc155f3832749186065a?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Sep 04 |
+| ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9bb545f383274918605de?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Sep 04 |
 | ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c6295f38327491860b46?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Sep 04 |
 | ↳ | **[Advisory Associate, Technology / Multiple Locations Fall/Winter 2026](https://jobright.ai/jobs/info/68b9c7bf8043103d4f21a53d?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 04 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68b9aab86105227d11896c0a?utm_campaign=Consultant&utm_source=1103)** | Woburn, MA, 01801 | On Site | Sep 04 |
@@ -163,9 +164,9 @@ For a complete list, click the following sortable link below:
 | **[Eocene Environmental Group](eocene.com)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68b89a5bea901c0d269f7e89?utm_campaign=Consultant&utm_source=1103)** | Effingham, IL | On Site | Sep 02 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Consultant – Department of State](https://jobright.ai/jobs/info/68b7ab7f1ade4306aa64ce10?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Sep 02 |
 | **[Optum](https://www.optum.com/)** | **[Advisory Services Consultant, Consultant Development Program - Multiple Locations](https://jobright.ai/jobs/info/68b786a51ade4306aa64bbe5?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Hybrid | Sep 02 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[EDGE, Technical Sales & Consulting: Technical Consultant (USA)](https://jobright.ai/jobs/info/68b773472124650c14022e0d?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Sep 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68b772cff4e41a61efd99076?utm_campaign=Consultant&utm_source=1103)** | Seattle | Hybrid | Sep 02 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[EDGE, Technical Sales & Consulting: Technical Consultant (USA)](https://jobright.ai/jobs/info/68b772582124650c14022d19?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Sep 02 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Power Factory Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68b77194f4e41a61efd98faf?utm_campaign=Consultant&utm_source=1103)** | Chicago | Hybrid | Sep 02 |
+| ↳ | **[D365 Power Factory Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68b77194f4e41a61efd98faf?utm_campaign=Consultant&utm_source=1103)** | Chicago | Hybrid | Sep 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 02 |
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b79a651ade4306aa64c8db?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Sep 02 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/68b7978b2124650c14024378?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Sep 02 |
@@ -304,7 +305,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Full-Time MBA, United States](https://jobright.ai/jobs/info/6894e98573b3a600fe88344a?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Aug 29 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Consultant, Analytics](https://jobright.ai/jobs/info/689508d173b3a600fe884862?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Aug 29 |
 | **[Mpower Solar](https://www.mpowersolar.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/68b1c3c5bc187f64e1bd6970?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Aug 29 |
-| **[SAP](https://www.sap.com)** | **[HR Global Mobility Consultant](https://jobright.ai/jobs/info/6879427bed63844c94499f74?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Aug 29 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Consultant, Full-Time MBA, United States](https://jobright.ai/jobs/info/6894e5388c6d6b442677574a?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Aug 29 |
 | ↳ | **[Consultant, Full-Time MBA, United States](https://jobright.ai/jobs/info/6897c45d1b9e81727f1a0d93?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Aug 29 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level Smart Metering Consultant](https://jobright.ai/jobs/info/6877f607866a435525ab56c9?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Aug 29 |
@@ -316,5 +316,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6893b7f54c7e851b90adfcac?utm_campaign=Consultant&utm_source=1103)** | Doral, FL | On Site | Aug 29 |
 | **[ADP](http://www.adp.com)** | **[Sr Workforce Management Implementation Consultant](https://jobright.ai/jobs/info/68b18fe91ade4306aa6307c4?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Aug 29 |
 | ↳ | **[Sr Workforce Management Implementation Consultant](https://jobright.ai/jobs/info/68b18f53bc187f64e1bd55b7?utm_campaign=Consultant&utm_source=1103)** | Elk Grove Village, IL | On Site | Aug 29 |
-| ↳ | **[Sr Workforce Management Implementation Consultant](https://jobright.ai/jobs/info/68b1a139bc187f64e1bd5b9b?utm_campaign=Consultant&utm_source=1103)** | Norfolk, VA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
