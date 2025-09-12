@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Trizetto Technical Product Consultant](https://jobright.ai/jobs/info/68c30bec5adaee6c9bda6895?utm_campaign=Consultant&utm_source=1103)** | Englewood, CO | Remote | Sep 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate, Healthcare & Analytics Strategy Consulting (MASC, Hybrid)](https://jobright.ai/jobs/info/68c30a815001f8077bf60724?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States of America | Hybrid | Sep 11 |
 | ↳ | **[Associate, Healthcare & Analytics Strategy Consulting (MASC, Hybrid)](https://jobright.ai/jobs/info/68c30a305adaee6c9bda6646?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA, United States of America | Hybrid | Sep 11 |
+| **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 11 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68c2fd605adaee6c9bda6092?utm_campaign=Consultant&utm_source=1103)** | Somerville, MA, 02145 | On Site | Sep 11 |
 | **[Blue Matter](https://bluematterconsulting.com/)** | **[Consultant](https://jobright.ai/jobs/info/68c2fd455adaee6c9bda607d?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Sep 11 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Technical Service Consultant I](https://jobright.ai/jobs/info/68c2f8fd5adaee6c9bda5e5b?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | Hybrid | Sep 11 |
@@ -90,9 +91,11 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68c2e4d85adaee6c9bda5227?utm_campaign=Consultant&utm_source=1103)** | Brighton, MA, 02135 | On Site | Sep 11 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/68c2e2315adaee6c9bda4ee6?utm_campaign=Consultant&utm_source=1103)** | SUNNYVALE, CA, 94086 | On Site | Sep 11 |
 | ↳ | **[Multi-Site Leasing Consultant](https://jobright.ai/jobs/info/68c2e22e63829b0a8a4fd910?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD, 21220 | On Site | Sep 11 |
+| **[Mace](http://www.macegroup.com)** | **[Assistant Cost Consultant](https://jobright.ai/jobs/info/6888d8b39f961617fe20fe2e?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Sep 11 |
 | **[Crowe](https://www.crowe.com/)** | **[Technology Risk and Controls Consultant](https://jobright.ai/jobs/info/68c2a7035001f8077bf5cd4f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Remote | Sep 11 |
 | ↳ | **[Technology Risk and Controls Consultant](https://jobright.ai/jobs/info/68a657dc758f2e4ac3fe45c5?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Sep 11 |
-| ↳ | **[Technology Risk and Controls Consultant](https://jobright.ai/jobs/info/68c2997c03b99f6b3429700e?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Remote | Sep 11 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/688a07af09808a6103e4c5e9?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | Sep 11 |
+| **[Crowe](https://www.crowe.com/)** | **[Technology Risk and Controls Consultant](https://jobright.ai/jobs/info/68c2997c03b99f6b3429700e?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Remote | Sep 11 |
 | ↳ | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a69b18b6a3617d7fa78871?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 11 |
 | **[Economic & Planning Systems, Inc.](http://www.epsys.com)** | **[Associate](https://jobright.ai/jobs/info/68c2721863b706703e11522d?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | On Site | Sep 10 |
 | **[Gallup](http://www.gallup.com)** | **[Associate Consultant — Workplace Advisory](https://jobright.ai/jobs/info/68c2593d63b706703e114442?utm_campaign=Consultant&utm_source=1103)** | Omaha Riverfront | On Site | Sep 10 |
@@ -200,7 +203,6 @@ For a complete list, click the following sortable link below:
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Consultant](https://jobright.ai/jobs/info/68c036848e65e77df55bf365?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Sep 09 |
 | **[New York Life- Junyang Zhao](https://www.newyorklife.com/recruiter/jzhao02)** | **[Financial Consultant](https://jobright.ai/jobs/info/68c075198e65e77df55c1464?utm_campaign=Consultant&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68c02890702aa35207aaafc8?utm_campaign=Consultant&utm_source=1103)** | Spotswood, NJ | On Site | Sep 09 |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68a3c94837d3cc6b0d5797f2?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 09 |
 | **[Crowe](https://www.crowe.com/)** | **[Third Party Risk Consultant](https://jobright.ai/jobs/info/68c016d08e65e77df55bebc5?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 09 |
 | ↳ | **[Third Party Risk Consultant](https://jobright.ai/jobs/info/68c0142e5c5d5f14f46db4ac?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 09 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Strategy Consultant](https://jobright.ai/jobs/info/68bfb6e6702aa35207aa8bba?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 08 |
@@ -231,8 +233,8 @@ For a complete list, click the following sortable link below:
 | **[Empresa de Residuos RESITER S.A.](https://www.resiter.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68bf3fe35c5d5f14f46d54f4?utm_campaign=Consultant&utm_source=1103)** | Des Moines, IA | On Site | Sep 08 |
 | **[KSG](https://knewsales.com/)** | **[Solar Consultant](https://jobright.ai/jobs/info/68bf35f68e65e77df55b84f7?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Sep 08 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68ba88b06105227d1189ee03?utm_campaign=Consultant&utm_source=1103)** | Bend, OR | On Site | Sep 08 |
+| ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68bf30a25c5d5f14f46d4aef?utm_campaign=Consultant&utm_source=1103)** | Asheville, NC | On Site | Sep 08 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68bf2eac702aa35207aa3f93?utm_campaign=Consultant&utm_source=1103)** | Hendersonville, NC | On Site | Sep 08 |
-| ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68bf29828e65e77df55b79ed?utm_campaign=Consultant&utm_source=1103)** | Asheville, NC | On Site | Sep 08 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68bf29618e65e77df55b79a5?utm_campaign=Consultant&utm_source=1103)** | Medford, OR | On Site | Sep 08 |
 | **[PwC](http://pwc.com)** | **[Technology Consulting Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68bfdcc38e65e77df55bdf3c?utm_campaign=Consultant&utm_source=1103)** | Buffalo-Niagara Area | On Site | Sep 08 |
 | ↳ | **[Technology Consulting Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68bfa7d78e65e77df55bc48a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles County, CA | On Site | Sep 08 |
@@ -329,9 +331,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate - Summer / Fall 2026](https://jobright.ai/jobs/info/68bb3fb98043103d4f226fe3?utm_campaign=Consultant&utm_source=1103)** | CA-San Francisco | On Site | Sep 05 |
 | ↳ | **[Management Consulting - Operations & Supply Chain Solutions Senior Associate - Summer / Fall 2026](https://jobright.ai/jobs/info/68bb3eff5f3832749186d9b3?utm_campaign=Consultant&utm_source=1103)** | PA-Philadelphia | On Site | Sep 05 |
 | **[American Electric Power](http://aep.com)** | **[Telecom Consultant Assc](https://jobright.ai/jobs/info/68bb32136105227d118a3dc2?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | On Site | Sep 05 |
-| **[Kearney](https://www.kearney.com/)** | **[Business Analyst, Product Excellence and Renewal Lab](https://jobright.ai/jobs/info/68bb289c6105227d118a375f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 05 |
-| **[Guidehouse](https://guidehouse.com)** | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/68a57cd933dd7158bbc9afe8?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Sep 05 |
-| **[Allegion](https://www.allegion.com)** | **[Sales Development Program Consultant](https://jobright.ai/jobs/info/68bb193d6105227d118a2db7?utm_campaign=Consultant&utm_source=1103)** | Newark, DE | On Site | Sep 05 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6880ca9929ad6b2744adc083?utm_campaign=Consultant&utm_source=1103)** | Columbia, MD | On Site | Sep 05 |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[Associate Financial Consultant](https://jobright.ai/jobs/info/68bbafb65f383274918716fd?utm_campaign=Consultant&utm_source=1103)** | Little Rock, AR | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
