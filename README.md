@@ -116,9 +116,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c92425f9c6ff7aedf18886?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c922e5a0c52d598ea3613d?utm_campaign=Consultant&utm_source=1103)** | Mission, TX | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c92265f9c6ff7aedf1870c?utm_campaign=Consultant&utm_source=1103)** | Warren, MI | On Site | Sep 16 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c95d61f9c6ff7aedf19217?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c91fcc95f5211cd2cef0cc?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c91ec195f5211cd2ceefed?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 16 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c91e03a0c52d598ea35fe6?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c91dcda0c52d598ea35fa4?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Sep 16 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68c91d36a0c52d598ea35f10?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 16 |
 | **[American Electric Power](http://aep.com)** | **[Telecom Consultant/Associate](https://jobright.ai/jobs/info/68c9694c95f5211cd2cf0324?utm_campaign=Consultant&utm_source=1103)** | Gahanna, OH | On Site | Sep 16 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86756983e6768bc54cd33?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c8781cf9c6ff7aedf0f0fb?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c864f0f9c6ff7aedf0db32?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Sep 15 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86c92983e6768bc54d704?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86d1195f5211cd2ce5039?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Sep 15 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86c92983e6768bc54d704?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86b61983e6768bc54d4f7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 15 |
 | **[Bridgepoint Consulting](https://bridgepointconsulting.com/)** | **[NetSuite Implementation Consultant (Various Levels)](https://jobright.ai/jobs/info/68c848f395f5211cd2ce33b0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 15 |
 | **[IQVIA](https://www.iqvia.com)** | **[Consultant, Tech](https://jobright.ai/jobs/info/68c8435795f5211cd2ce2fd3?utm_campaign=Consultant&utm_source=1103)** | Wayne, PA, United States of America | On Site | Sep 15 |
@@ -310,12 +310,4 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Sales Development Program Consultant](https://jobright.ai/jobs/info/68c207484d652f044775c7a7?utm_campaign=Consultant&utm_source=1103)** | Needham, MA | On Site | Sep 10 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Group Account Assistant](https://jobright.ai/jobs/info/68c1effe33864f172f9bbc3a?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Sep 10 |
 | **[Cardinal Services, Inc. of Indiana](https://cardinalservices.org/)** | **[Transition Consultant](https://jobright.ai/jobs/info/68c1e3264d652f044775b5d6?utm_campaign=Consultant&utm_source=1103)** | Warsaw, IN | On Site | Sep 10 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68c1d2a13fd8b059a20f2ed1?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Sep 10 |
-| **[bp](https://www.bp.com)** | **[Digital Transformation Analyst](https://jobright.ai/jobs/info/68c1cc7f4d652f044775a28c?utm_campaign=Consultant&utm_source=1103)** | United States of America - Illinois - Chicago | Hybrid | Sep 10 |
-| ↳ | **[Digital Transformation Analyst](https://jobright.ai/jobs/info/68c1cc53233c7d3e64d0458f?utm_campaign=Consultant&utm_source=1103)** | US: Cherry Point Refinery | Hybrid | Sep 10 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Supply Chain Management](https://jobright.ai/jobs/info/68c1cb793fd8b059a20f2708?utm_campaign=Consultant&utm_source=1103)** | Chicago | On Site | Sep 10 |
-| **[Arup](http://www.arup.com)** | **[Graduate Project & Commercial Management Consultant (Available 2026)](https://jobright.ai/jobs/info/68c1ca7a233c7d3e64d043d7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 10 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Supply Chain Management](https://jobright.ai/jobs/info/68c1c95e233c7d3e64d042e8?utm_campaign=Consultant&utm_source=1103)** | Los Angeles | On Site | Sep 10 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Resource Management Consultant](https://jobright.ai/jobs/info/68c1c7f13fd8b059a20f2412?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Sep 10 |
-| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Supply Chain Management](https://jobright.ai/jobs/info/68c1c73a4d652f0447759de2?utm_campaign=Consultant&utm_source=1103)** | New York | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
