@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Associate Consultant – Audit and Advisory](https://jobright.ai/jobs/info/68d048ba846f0b04af68864f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Remote | Sep 21 |
 | **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Remote Client Solution Consultant / Will Train & Mentor / Work from Home Sales](https://jobright.ai/jobs/info/68d01471fb49c96ca6eadcfe?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 21 |
-| **[Exitou, Inc.](https://www.exitou.com)** | **[AiLearning Consultant](https://jobright.ai/jobs/info/68cff8ecdbd9fb154edec62d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 21 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cfd572846f0b04af685658?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Sep 21 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cfd559fb49c96ca6eabd7e?utm_campaign=Consultant&utm_source=1103)** | Paramus, NJ | On Site | Sep 21 |
 | **[MG Properties](https://www.mgproperties.com/)** | **[Leasing Consultant -Multi-site](https://jobright.ai/jobs/info/688ba17e906ac06e1d1cce50?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Sep 20 |
@@ -171,8 +170,8 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9f9dcf61c922772a71a16?utm_campaign=Consultant&utm_source=1103)** | Ames, IA | On Site | Sep 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cb7556ba798c1a501cffbf?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc42cb7342c7623ae61dd5?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 17 |
-| ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc40c07342c7623ae61a93?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc423a7342c7623ae61d00?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | Hybrid | Sep 17 |
+| ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc40c07342c7623ae61a93?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cba2749e3a822f5d249774?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cb7371ba798c1a501cfbe0?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cbd278ba798c1a501d5825?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | Hybrid | Sep 17 |
@@ -184,16 +183,16 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aebc6103c5f15c2fd8b2cb?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 17 |
 | **[Infosys](http://www.infosys.com)** | **[Field Service Consultant](https://jobright.ai/jobs/info/68cc75e5128dc347fd9255e3?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 17 |
 | ↳ | **[Field Service Consultant](https://jobright.ai/jobs/info/68cc6bf716d00d2beeb1f5e3?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN, Minneapolis, MN | On Site | Sep 17 |
-| ↳ | **[Field Service Consultant](https://jobright.ai/jobs/info/68cc6ca616d00d2beeb1f78c?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 17 |
 | ↳ | **[Field Service Consultant](https://jobright.ai/jobs/info/68cc6c6a7342c7623ae64762?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Sep 17 |
+| ↳ | **[Field Service Consultant](https://jobright.ai/jobs/info/68cc6ca616d00d2beeb1f78c?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc159116d00d2beeb19724?utm_campaign=Consultant&utm_source=1103)** | Greensboro, NC | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb45ee9e3a822f5d24465a?utm_campaign=Consultant&utm_source=1103)** | Mission, TX | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb455a9e3a822f5d244579?utm_campaign=Consultant&utm_source=1103)** | Warren, MI | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb6617efdec76df36bc22c?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Sep 17 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc5c6816d00d2beeb1df6d?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb44999e3a822f5d2444dd?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 17 |
 | **[Rippling](https://www.rippling.com)** | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aece227bcb7608b3d29aae?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Sep 17 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb42789e3a822f5d244303?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 17 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb42789e3a822f5d244304?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc5143128dc347fd9227ad?utm_campaign=Consultant&utm_source=1103)** | Decatur, GA | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc2eda128dc347fd920625?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 17 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68cb37629e3a822f5d243c4b?utm_campaign=Consultant&utm_source=1103)** | CHARLOTTE, NC, 28203 | On Site | Sep 17 |
@@ -224,9 +223,9 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 17 |
 | **[Rippling](https://www.rippling.com)** | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aee5c01f0a2a568a05e325?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Remote | Sep 17 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cfe75e846f0b04af68600e?utm_campaign=Consultant&utm_source=1103)** | Statesville, NC | On Site | Sep 17 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cfdf3afb49c96ca6eac214?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 17 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Internal Business Consultant](https://jobright.ai/jobs/info/689163834c7e851b90ace180?utm_campaign=Consultant&utm_source=1103)** | Carson, CA | Hybrid | Sep 17 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce6bd0fb49c96ca6ea0382?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 17 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce673cfb49c96ca6ea0152?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 17 |
 | **[SC&H](http://www.schgroup.com)** | **[Consultant](https://jobright.ai/jobs/info/68cd08e41ad6b16f02893718?utm_campaign=Consultant&utm_source=1103)** | Sparks Glencoe, MD | On Site | Sep 17 |
 | **[Sares Regis Group](http://sares-regis.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68ca88288b6593021a778c0f?utm_campaign=Consultant&utm_source=1103)** | Chandler, Arizona | On Site | Sep 16 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce429024dd5209002f0f61?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Sep 16 |
@@ -276,10 +275,10 @@ For a complete list, click the following sortable link below:
 | **[Closers.io](http://closers.io)** | **[Sales Consultant (Business Consulting $95k-$125k/year+)](https://jobright.ai/jobs/info/68c857a195f5211cd2ce3c0e?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 15 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86756983e6768bc54cd33?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c8781cf9c6ff7aedf0f0fb?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Sep 15 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86d1195f5211cd2ce5039?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Sep 15 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c864f0f9c6ff7aedf0db32?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Sep 15 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86b61983e6768bc54d4f7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 15 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86c92983e6768bc54d704?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 15 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c864f0f9c6ff7aedf0db32?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Sep 15 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86d1195f5211cd2ce5039?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Sep 15 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c86b61983e6768bc54d4f7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 15 |
 | **[Bridgepoint Consulting](https://bridgepointconsulting.com/)** | **[NetSuite Implementation Consultant (Various Levels)](https://jobright.ai/jobs/info/68c848f395f5211cd2ce33b0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 15 |
 | **[IQVIA](https://www.iqvia.com)** | **[Consultant, Tech](https://jobright.ai/jobs/info/68c8435795f5211cd2ce2fd3?utm_campaign=Consultant&utm_source=1103)** | Wayne, PA, United States of America | On Site | Sep 15 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/682f39c8e14223a4c16061b1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 15 |
