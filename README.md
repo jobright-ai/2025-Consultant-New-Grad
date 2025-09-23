@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68d288b817554c2d9eee8221?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 09232025- 71489](https://jobright.ai/jobs/info/68d25329a54edb3bf3e1d929?utm_campaign=Consultant&utm_source=1103)** | Montgomery County, TN | Hybrid | Sep 23 |
 | ↳ | **[DHS LICENSING CONSULTANT 1* - 09232025-71337](https://jobright.ai/jobs/info/68d251f4a54edb3bf3e1d83e?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | Hybrid | Sep 23 |
 | **[National General](http://www.nationalgeneral.com)** | **[SQL Database Developer  Consultant I - National General](https://jobright.ai/jobs/info/68d251bba54edb3bf3e1d813?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 23 |
@@ -127,7 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Metis Strategy](https://www.metisstrategy.com)** | **[Associate – Strategy & Cybersecurity Consulting](https://jobright.ai/jobs/info/68d1497fcece431f8b582701?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | On Site | Sep 22 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1472bfa731f61692dd935?utm_campaign=Consultant&utm_source=1103)** | 3965 Dallas Parkway  Frisco, TX 75034 | Hybrid | Sep 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Financial Management Consultant](https://jobright.ai/jobs/info/68a6abaeb6a3617d7fa79360?utm_campaign=Consultant&utm_source=1103)** | Annapolis Junction, MD | On Site | Sep 22 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d120408c62e63bc7fc9210?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Sep 22 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cc5bc0128dc347fd923566?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 22 |
+| ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d120408c62e63bc7fc9210?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Sep 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 22 |
 | **[Buynomics](https://www.buynomics.com/)** | **[Pre-Sales Consultant](https://jobright.ai/jobs/info/68cda0d8b2a74e1837eda19e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Sep 21 |
@@ -242,9 +244,9 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68ada717758f2e4ac300de14?utm_campaign=Consultant&utm_source=1103)** | Staten Island, NY | On Site | Sep 17 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9f9dcf61c922772a71a16?utm_campaign=Consultant&utm_source=1103)** | Ames, IA | On Site | Sep 17 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cb7556ba798c1a501cffbf?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
-| ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc40c07342c7623ae61a93?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc423a7342c7623ae61d00?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc42cb7342c7623ae61dd5?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 17 |
+| ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cc40c07342c7623ae61a93?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cba2749e3a822f5d249774?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cb7371ba798c1a501cfbe0?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 17 |
 | ↳ | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/68cbd278ba798c1a501d5825?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | Hybrid | Sep 17 |
@@ -261,12 +263,12 @@ For a complete list, click the following sortable link below:
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc159116d00d2beeb19724?utm_campaign=Consultant&utm_source=1103)** | Greensboro, NC | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb45ee9e3a822f5d24465a?utm_campaign=Consultant&utm_source=1103)** | Mission, TX | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb455a9e3a822f5d244579?utm_campaign=Consultant&utm_source=1103)** | Warren, MI | On Site | Sep 17 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb44fcba798c1a501cdd87?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb6617efdec76df36bc22c?utm_campaign=Consultant&utm_source=1103)** | Fayetteville, NC | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc5c6816d00d2beeb1df6d?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 17 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb44999e3a822f5d2444dd?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 17 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb4474ba798c1a501cdcb5?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 17 |
 | **[Rippling](https://www.rippling.com)** | **[Manager, HR Solutions Consulting](https://jobright.ai/jobs/info/68aece227bcb7608b3d29aae?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Sep 17 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc5143128dc347fd9227ad?utm_campaign=Consultant&utm_source=1103)** | Decatur, GA | On Site | Sep 17 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cb4378efdec76df36baaec?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 17 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc5143128dc347fd9227ad?utm_campaign=Consultant&utm_source=1103)** | Decatur, GA | On Site | Sep 17 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cc2eda128dc347fd920625?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 17 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68cb37629e3a822f5d243c4b?utm_campaign=Consultant&utm_source=1103)** | CHARLOTTE, NC, 28203 | On Site | Sep 17 |
 | **[RyeStrategy](https://www.ryestrategy.com/)** | **[Carbon Assurance Consultant](https://jobright.ai/jobs/info/68cbcc44ba798c1a501d5577?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 17 |
@@ -297,8 +299,7 @@ For a complete list, click the following sortable link below:
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce6bd0fb49c96ca6ea0382?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 17 |
 | **[SC&H](http://www.schgroup.com)** | **[Consultant](https://jobright.ai/jobs/info/68cd08e41ad6b16f02893718?utm_campaign=Consultant&utm_source=1103)** | Sparks Glencoe, MD | On Site | Sep 17 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce429024dd5209002f0f61?utm_campaign=Consultant&utm_source=1103)** | San Marcos, TX | On Site | Sep 16 |
-| **[Crossmark Global Investments, Inc.](https://www.crossmarkwealth.com)** | **[Regional Consultant (Internal Wholesaler)](https://jobright.ai/jobs/info/68d22d6fa54edb3bf3e1b9eb?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 16 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cce2665954791a1d70083b?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | On Site | Sep 16 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cce2665954791a1d70083b?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | On Site | Sep 16 |
 | **[Del Norte Credit Union](https://www.dncu.org)** | **[Branch Experience Consultant I - Espanola, NM](https://jobright.ai/jobs/info/68ca0795f16e3266d2821f4e?utm_campaign=Consultant&utm_source=1103)** | Riverside Espanola Branch | On Site | Sep 16 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cf3febfb49c96ca6ea6783?utm_campaign=Consultant&utm_source=1103)** | Greensboro, NC | On Site | Sep 16 |
 | **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[In-Home Design Consultant](https://jobright.ai/jobs/info/68c9f44107f8525eae041a1e?utm_campaign=Consultant&utm_source=1103)** | Washington, MI | On Site | Sep 16 |
@@ -306,11 +307,4 @@ For a complete list, click the following sortable link below:
 | **[Armed Forces Benefits Network (AFBN)](https://careers.afbn.us/)** | **[Licensed Life Insurance Agent/Financial Consultant serving JBLM](https://jobright.ai/jobs/info/68c9f941d4187c55157a4f66?utm_campaign=Consultant&utm_source=1103)** | Lakewood, WA | Hybrid | Sep 16 |
 | ↳ | **[Licensed Life Insurance Agent/Financial Consultant serving Fort Riley](https://jobright.ai/jobs/info/68c9fe78f61c922772a71bc3?utm_campaign=Consultant&utm_source=1103)** | Junction City, KS | Hybrid | Sep 16 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cf1de9dbd9fb154ede528e?utm_campaign=Consultant&utm_source=1103)** | Southfield, MI | On Site | Sep 16 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Investment Consultant - Redmond, WA](https://jobright.ai/jobs/info/68c9cc2aa0c52d598ea3b82f?utm_campaign=Consultant&utm_source=1103)** | Redmond, WA | On Site | Sep 16 |
-| **[TSC Business Solutions](http://www.tscgroup.co.uk)** | **[Financial Consultant (Professional](https://jobright.ai/jobs/info/68c9ee2316b6964bf344b6c0?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Sep 16 |
-| **[Sunmark Credit Union](https://www.sunmark.org/)** | **[Credit Consultant](https://jobright.ai/jobs/info/68c9dc0784fc1901fd41a2dd?utm_campaign=Consultant&utm_source=1103)** | Latham, NY | Hybrid | Sep 16 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Managed App Services NetSuite Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68c9be26f9c6ff7aedf1d282?utm_campaign=Consultant&utm_source=1103)** | Denver Greenwood | On Site | Sep 16 |
-| ↳ | **[Managed App Services NetSuite Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68c9bdcca0c52d598ea3ac2e?utm_campaign=Consultant&utm_source=1103)** | Nashville | On Site | Sep 16 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c32b5a5adaee6c9bda7dc2?utm_campaign=Consultant&utm_source=1103)** | Roanoke, VA | On Site | Sep 16 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Graduate Development Program Analyst – Risk & Analytics - Enterprise Risk Consulting- 2026](https://jobright.ai/jobs/info/68cf0367846f0b04af67e843?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
