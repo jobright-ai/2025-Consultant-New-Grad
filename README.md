@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financials Consultant – Entry Level](https://jobright.ai/jobs/info/68d70d00d3fe025a3015e8fb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
+| **[Maine Optometry, P.A.](https://maineoptometry.com/)** | **[Eyewear Consultant/Optician - Standish](https://jobright.ai/jobs/info/68d70a7d894705799a2f038f?utm_campaign=Consultant&utm_source=1103)** | Standish, ME | On Site | Sep 26 |
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (2026 Start Dates)](https://jobright.ai/jobs/info/68d6e9a6d3fe025a3015cffa?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | **[Maximus](http://www.maximus.com/)** | **[Jr. System Consultant (Onsite - Washington, D.C.)](https://jobright.ai/jobs/info/68d6e69c894705799a2ee9b7?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 26 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d6cd15894705799a2eddb4?utm_campaign=Consultant&utm_source=1103)** | Wisconsin, United States | On Site | Sep 26 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 26 |
 | **[Fiserv](http://www.fiserv.com)** | **[ADP Business Consultant - Florham Park, NJ](https://jobright.ai/jobs/info/68d6665d894705799a2eb6c7?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Sep 26 |
 | **[Crowe](https://www.crowe.com/)** | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ccfff6d11b445e0bee5e76?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
+| ↳ | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ba26e86105227d1189b4f7?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | On Site | Sep 26 |
 | ↳ | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68c64a49db52c07d28846b9f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ba48335f38327491865afc?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 26 |
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/68d62d82ebcef82ef5cf7560?utm_campaign=Consultant&utm_source=1103)** | El Monte, CA | On Site | Sep 25 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d58cef63d77d6f6f3eff21?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (Spanish Fluency)](https://jobright.ai/jobs/info/68d588a639247e3c807ec567?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a14314935e31e231a67b?utm_campaign=Consultant&utm_source=1103)** | Home Based - San Francisco, CA | Remote | Sep 25 |
-| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
 | ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
+| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/68d583e463d77d6f6f3ef880?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d57ffe39247e3c807ebf49?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Consultant Conversion - Soft Prod Mgmt & RE II - Associate](https://jobright.ai/jobs/info/68d57e8c39247e3c807ebb9b?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Sep 25 |
@@ -172,8 +175,8 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d4471cffc1276de3fd928a?utm_campaign=Consultant&utm_source=1103)** | Longview, TX | On Site | Sep 24 |
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4471417554c2d9eef7960?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446e017554c2d9eef78f5?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | Hybrid | Sep 24 |
-| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ac?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ad?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Sep 24 |
+| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ac?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Sep 24 |
 | **[American Electric Power](http://aep.com)** | **[Telecom Consultant/Associate](https://jobright.ai/jobs/info/68d446858c62e63bc7fe7a24?utm_campaign=Consultant&utm_source=1103)** | Gahanna, OH | On Site | Sep 24 |
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4464dffc1276de3fd90c3?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4461917554c2d9eef7767?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 24 |
@@ -352,5 +355,4 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cf9a97dbd9fb154ede9150?utm_campaign=Consultant&utm_source=1103)** | Pineville, NC | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 20 |
 | **[Lend-A-Loan LLC](https://www.lendaloanmortgage.com)** | **[Mortgage Consultant - Entry-Level](https://jobright.ai/jobs/info/68ba06995f383274918636a3?utm_campaign=Consultant&utm_source=1103)** | Troy, MI | On Site | Sep 20 |
-| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Talent Learning and Capabilities Delivery Specialist](https://jobright.ai/jobs/info/68ce33e71ad6b16f028a2fe5?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
