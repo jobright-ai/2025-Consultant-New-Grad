@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Credit Consultant - Columbia, Missouri](https://jobright.ai/jobs/info/68d72609894705799a2f104c?utm_campaign=Consultant&utm_source=1103)** | Greater Columbia, Missouri Area | On Site | Sep 26 |
+| **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d723fb894705799a2f0eb3?utm_campaign=Consultant&utm_source=1103)** | Nebraska, United States | On Site | Sep 26 |
+| **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Digital Experience Consultant](https://jobright.ai/jobs/info/68d71a6c45853d0e39ccce89?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Sep 26 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d718a8d3fe025a3015ed2c?utm_campaign=Consultant&utm_source=1103)** | NASHVILLE, TN, 37208 | On Site | Sep 26 |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Implementation Consultant, ERP, National](https://jobright.ai/jobs/info/68d715bf45853d0e39ccccff?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 26 |
+| **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Sep 26 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financials Consultant – Entry Level](https://jobright.ai/jobs/info/68d70d00d3fe025a3015e8fb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
-| **[Maine Optometry, P.A.](https://maineoptometry.com/)** | **[Eyewear Consultant/Optician - Standish](https://jobright.ai/jobs/info/68d70a7d894705799a2f038f?utm_campaign=Consultant&utm_source=1103)** | Standish, ME | On Site | Sep 26 |
 | **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (2026 Start Dates)](https://jobright.ai/jobs/info/68d6e9a6d3fe025a3015cffa?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | **[Maximus](http://www.maximus.com/)** | **[Jr. System Consultant (Onsite - Washington, D.C.)](https://jobright.ai/jobs/info/68d6e69c894705799a2ee9b7?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 26 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d6cd15894705799a2eddb4?utm_campaign=Consultant&utm_source=1103)** | Wisconsin, United States | On Site | Sep 26 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate](https://jobright.ai/jobs/info/68b30eb61ade4306aa63ab0f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Sep 26 |
 | **[Storable](https://www.storable.com/)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68d68af9d3fe025a3015a491?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Full Time Analyst - Corporate Functions, Strategy and Transformation (Internal Consulting)](https://jobright.ai/jobs/info/6883f1a96fcd973d15ae4a20?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 26 |
+| **[Arup](http://www.arup.com)** | **[Graduate Technical Advisory Consultant (Available 2026)](https://jobright.ai/jobs/info/68ce6b3ffb49c96ca6ea02a1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | **[Fiserv](http://www.fiserv.com)** | **[ADP Business Consultant - Florham Park, NJ](https://jobright.ai/jobs/info/68d6665d894705799a2eb6c7?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Sep 26 |
 | **[Crowe](https://www.crowe.com/)** | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ccfff6d11b445e0bee5e76?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
 | ↳ | **[Salesforce Implementation Consultant](https://jobright.ai/jobs/info/68ba26e86105227d1189b4f7?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | On Site | Sep 26 |
@@ -302,7 +308,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Payroll Consultant](https://jobright.ai/jobs/info/68d1ee67a54edb3bf3e17a8d?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado | Hybrid | Sep 22 |
 | **[The Gainey Agency](https://www.agentverified.com/united-states/joppa/life-insurance-agent/brad-gainey)** | **[Virtual Wealth & Protection Consultant](https://jobright.ai/jobs/info/68d3454b17554c2d9eeef5dd?utm_campaign=Consultant&utm_source=1103)** | Beaumont, TX | Remote | Sep 22 |
 | **[Optum](https://www.optum.com/)** | **[Practice Performance Consultant Sr](https://jobright.ai/jobs/info/68d1e84ca54edb3bf3e177d4?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Sep 22 |
-| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1- Talent Pool](https://jobright.ai/jobs/info/68d1e286a54edb3bf3e1739a?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Sep 22 |
+| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1- Talent Pool](https://jobright.ai/jobs/info/68d1db33a54edb3bf3e16b5a?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Sep 22 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Sep 22 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Corporate Trust Relationship Consultant](https://jobright.ai/jobs/info/68d1b7be17554c2d9eedeebe?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 22 |
@@ -354,5 +360,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 20 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cf9a97dbd9fb154ede9150?utm_campaign=Consultant&utm_source=1103)** | Pineville, NC | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 20 |
-| **[Lend-A-Loan LLC](https://www.lendaloanmortgage.com)** | **[Mortgage Consultant - Entry-Level](https://jobright.ai/jobs/info/68ba06995f383274918636a3?utm_campaign=Consultant&utm_source=1103)** | Troy, MI | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
