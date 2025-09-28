@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRU & PARTNERS AGENCY](https://www.mitruandpartners.com/contact)** | **[Entry - Level Insurance Consultant // Fully Remote // Average $75K to $150K](https://jobright.ai/jobs/info/68d94480022fc803b4876fb2?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 28 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Associate Consultant – Audit and Advisory](https://jobright.ai/jobs/info/68d92999022fc803b4876c2a?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d85d4b7796a83635f10d6d?utm_campaign=Consultant&utm_source=1103)** | Utica, NY | On Site | Sep 27 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68d0f5be17bd5d3415aa7e5b?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Sep 27 |
@@ -233,6 +234,7 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[ADP Business Consultant - Rochester, NY](https://jobright.ai/jobs/info/68d436c2ffc1276de3fd8412?utm_campaign=Consultant&utm_source=1103)** | Remote, New York | Remote | Sep 24 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Sep 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d755ec7a37c712687c8bfc?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Sep 24 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68d3663617554c2d9eef0d64?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Sep 24 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d3fd7117554c2d9eef544c?utm_campaign=Consultant&utm_source=1103)** | Columbia, MD | On Site | Sep 24 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Transaction Advisory Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68cda0f9b2a74e1837eda1c5?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 24 |
 | ↳ | **[Business Valuation Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68cd6f59b2a74e1837ed6e2a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 24 |
@@ -267,9 +269,9 @@ For a complete list, click the following sortable link below:
 | **[Vertafore](http://www.vertafore.com)** | **[Inside Solution Consultant](https://jobright.ai/jobs/info/68d3337a17554c2d9eeeeb30?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Sep 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c8c8c195f5211cd2ce9323?utm_campaign=Consultant&utm_source=1103)** | Farmville, VA | On Site | Sep 23 |
 | **[Allstate](http://www.allstate.com)** | **[People Analytics - Data Analytics Consultant I](https://jobright.ai/jobs/info/68d3222c17554c2d9eeee1ef?utm_campaign=Consultant&utm_source=1103)** | US - Remote | Remote | Sep 23 |
+| **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (2026 Start Dates)](https://jobright.ai/jobs/info/68d3220b8c62e63bc7fddf7c?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 23 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Investment Consultant - Seal Beach, CA](https://jobright.ai/jobs/info/68d315f68c62e63bc7fdd9a3?utm_campaign=Consultant&utm_source=1103)** | Seal Beach, CA | On Site | Sep 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68cf95e6dbd9fb154ede8ef3?utm_campaign=Consultant&utm_source=1103)** | Janesville, WI | On Site | Sep 23 |
-| **[Third Bridge Group Limited](https://www.thirdbridge.com/en)** | **[Associate, Consulting Clients - (2026 Start Dates)](https://jobright.ai/jobs/info/68d314f817554c2d9eeedc8a?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 23 |
 | **[Avanade](http://www.avanade.com)** | **[AI Engineer Consultant, Milwaukee](https://jobright.ai/jobs/info/68c43aa2e471ef3ce16d462e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 23 |
 | ↳ | **[AI Engineer Consultant, Milwaukee](https://jobright.ai/jobs/info/68c43b8fe396b25cb5c66397?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | On Site | Sep 23 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/68d46524ffc1276de3fda6d3?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Sep 23 |
