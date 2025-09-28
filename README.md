@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Client Mortgage Consultant](https://jobright.ai/jobs/info/68d6a456d3fe025a3015ad57?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
+| ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68d6a3d9894705799a2ec957?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[MITRU & PARTNERS AGENCY](https://www.mitruandpartners.com/contact)** | **[Entry - Level Insurance Consultant // Fully Remote // Average $75K to $150K](https://jobright.ai/jobs/info/68d94480022fc803b4876fb2?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 28 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Associate Consultant – Audit and Advisory](https://jobright.ai/jobs/info/68d92999022fc803b4876c2a?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d85d4b7796a83635f10d6d?utm_campaign=Consultant&utm_source=1103)** | Utica, NY | On Site | Sep 27 |
@@ -99,8 +101,6 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68ccda2477add66568aba9a5?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 26 |
 | ↳ | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68d6a52845853d0e39cc8bec?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 26 |
 | **[SMX](https://www.smxtech.com)** | **[Fusion Associate Consultant (4692)](https://jobright.ai/jobs/info/68d6a4cd894705799a2eca75?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 26 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Client Mortgage Consultant](https://jobright.ai/jobs/info/68d6a456d3fe025a3015ad57?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
-| ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68d6a3d9894705799a2ec957?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68d6a3c1894705799a2ec937?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 26 |
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d69e7cd3fe025a3015ab77?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 26 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Entry Level IT Advisory Consultant - Summer 2026](https://jobright.ai/jobs/info/68cd5ca91ad6b16f028989bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
@@ -209,8 +209,8 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d4471cffc1276de3fd928a?utm_campaign=Consultant&utm_source=1103)** | Longview, TX | On Site | Sep 24 |
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4471417554c2d9eef7960?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446e017554c2d9eef78f5?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | Hybrid | Sep 24 |
-| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ac?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ad?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Sep 24 |
+| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d446a2ffc1276de3fd91ac?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Sep 24 |
 | **[American Electric Power](http://aep.com)** | **[Telecom Consultant/Associate](https://jobright.ai/jobs/info/68d446858c62e63bc7fe7a24?utm_campaign=Consultant&utm_source=1103)** | Gahanna, OH | On Site | Sep 24 |
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4464dffc1276de3fd90c3?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d4461917554c2d9eef7767?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 24 |
@@ -219,8 +219,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d445ccffc1276de3fd8fd3?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d445648c62e63bc7fe7730?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d444e18c62e63bc7fe75ca?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 24 |
-| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d44491ffc1276de3fd8e18?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d444918c62e63bc7fe74fb?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | Hybrid | Sep 24 |
+| ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d44491ffc1276de3fd8e18?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Sep 24 |
 | ↳ | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d44447ffc1276de3fd8d9a?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Sep 24 |
 | **[dentsu](https://www.dentsu.com)** | **[MKTG Trainee: Sponsorship Consulting](https://jobright.ai/jobs/info/68b7309f1ade4306aa64849a?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 24 |
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d443ee8c62e63bc7fe732d?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 24 |
@@ -370,5 +370,4 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cc5bc0128dc347fd923566?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 22 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 22 |
 | **[Buynomics](https://www.buynomics.com/)** | **[Pre-Sales Consultant](https://jobright.ai/jobs/info/68cda0d8b2a74e1837eda19e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 22 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
