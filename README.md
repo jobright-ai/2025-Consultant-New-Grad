@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exitou, Inc.](https://www.exitou.com)** | **[AiLearning Consultant](https://jobright.ai/jobs/info/68d9c0a8061b716fa295ad9d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Work from Home Client Mortgage Consultant](https://jobright.ai/jobs/info/68d6a456d3fe025a3015ad57?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/68d6a3d9894705799a2ec957?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[MITRU & PARTNERS AGENCY](https://www.mitruandpartners.com/contact)** | **[Entry - Level Insurance Consultant // Fully Remote // Average $75K to $150K](https://jobright.ai/jobs/info/68d94480022fc803b4876fb2?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 28 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (Spanish Fluency)](https://jobright.ai/jobs/info/68d588a639247e3c807ec567?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d830d6295f8e37655e5ff5?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 25 |
 | **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a14314935e31e231a67b?utm_campaign=Consultant&utm_source=1103)** | Home Based - San Francisco, CA | Remote | Sep 25 |
-| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
 | ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
+| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/68d583e463d77d6f6f3ef880?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d57ffe39247e3c807ebf49?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Consultant Conversion - Soft Prod Mgmt & RE II - Associate](https://jobright.ai/jobs/info/68d57e8c39247e3c807ebb9b?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States of America | On Site | Sep 25 |
@@ -160,7 +161,6 @@ For a complete list, click the following sortable link below:
 | **[Bath Fitter](https://www.bathfitter.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6887a0f9fbbf032d00075382?utm_campaign=Consultant&utm_source=1103)** | Huntsville, AL | On Site | Sep 25 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/689dadf183d13d1f5b6b2f91?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 25 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d5582f1f7fb2169ab0f349?utm_campaign=Consultant&utm_source=1103)** | SEATTLE, WA, 98107 | On Site | Sep 25 |
-| ↳ | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/68d556441f7fb2169ab0f161?utm_campaign=Consultant&utm_source=1103)** | Washington, DC, 20002 | On Site | Sep 25 |
 | **[Bath Fitter](https://www.bathfitter.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68b8521c07090163b6ba0d5a?utm_campaign=Consultant&utm_source=1103)** | Pensacola, FL | On Site | Sep 25 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6862fa2ae4591759d560ba80?utm_campaign=Consultant&utm_source=1103)** | Burlington, VT | On Site | Sep 25 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68b85207ea901c0d269f557b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Sep 25 |
@@ -338,7 +338,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Payroll Consultant](https://jobright.ai/jobs/info/68d1ee67a54edb3bf3e17a8d?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado | Hybrid | Sep 22 |
 | **[The Gainey Agency](https://www.agentverified.com/united-states/joppa/life-insurance-agent/brad-gainey)** | **[Virtual Wealth & Protection Consultant](https://jobright.ai/jobs/info/68d3454b17554c2d9eeef5dd?utm_campaign=Consultant&utm_source=1103)** | Beaumont, TX | Remote | Sep 22 |
 | **[Optum](https://www.optum.com/)** | **[Practice Performance Consultant Sr](https://jobright.ai/jobs/info/68d1e84ca54edb3bf3e177d4?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Sep 22 |
-| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1- Talent Pool](https://jobright.ai/jobs/info/68d1db33a54edb3bf3e16b5a?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Sep 22 |
+| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1- Talent Pool](https://jobright.ai/jobs/info/68d1e286a54edb3bf3e1739a?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Sep 22 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Sep 22 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Corporate Trust Relationship Consultant](https://jobright.ai/jobs/info/68d1b7be17554c2d9eedeebe?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 22 |
@@ -367,6 +367,4 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1472bfa731f61692dd935?utm_campaign=Consultant&utm_source=1103)** | 3965 Dallas Parkway  Frisco, TX 75034 | Hybrid | Sep 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Financial Management Consultant](https://jobright.ai/jobs/info/68a6abaeb6a3617d7fa79360?utm_campaign=Consultant&utm_source=1103)** | Annapolis Junction, MD | On Site | Sep 22 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68cc5bc0128dc347fd923566?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Sep 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 22 |
-| **[Buynomics](https://www.buynomics.com/)** | **[Pre-Sales Consultant](https://jobright.ai/jobs/info/68cda0d8b2a74e1837eda19e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
