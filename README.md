@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68ce5632846f0b04af678e38?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Oct 01 |
 | **[Crowe](https://www.crowe.com/)** | **[Cybersecurity Consultant](https://jobright.ai/jobs/info/68ce6d08dbd9fb154eddf939?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68c109e45c5d5f14f46e3937?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Oct 01 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Sep 30 |
@@ -166,8 +167,7 @@ For a complete list, click the following sortable link below:
 | **[Defending Rights & Dissent](http://www.bordc.org)** | **[EveryAction Consultant](https://jobright.ai/jobs/info/68d7df7d7796a83635f0ca40?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 26 |
 | **[Current Home ](https://currenthome.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/68d6ad5dd3fe025a3015b274?utm_campaign=Consultant&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Sep 26 |
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68d6acca45853d0e39cc8fad?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 26 |
-| **[SMX](https://www.smxtech.com)** | **[Fusion Associate Consultant (4692)](https://jobright.ai/jobs/info/68d6a4cd894705799a2eca75?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 26 |
-| **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68d6a3c1894705799a2ec937?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 26 |
+| ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d6a3c1894705799a2ec937?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 26 |
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d69e7cd3fe025a3015ab77?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 26 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Entry Level IT Advisory Consultant - Summer 2026](https://jobright.ai/jobs/info/68cd5ca91ad6b16f028989bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
 | **[Arup](http://www.arup.com)** | **[Graduate Acoustic/Audio Visual Consultant (Available 2026)](https://jobright.ai/jobs/info/68ba83cf5f38327491867c16?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
@@ -209,8 +209,8 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d58cef63d77d6f6f3eff21?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (Spanish Fluency)](https://jobright.ai/jobs/info/68d588a639247e3c807ec567?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d830d6295f8e37655e5ff5?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 25 |
-| **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
-| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
+| **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
+| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
 | ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a14314935e31e231a67b?utm_campaign=Consultant&utm_source=1103)** | Home Based - San Francisco, CA | Remote | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/68d583e463d77d6f6f3ef880?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d57ffe39247e3c807ebf49?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
@@ -236,5 +236,4 @@ For a complete list, click the following sortable link below:
 | **[TerminalSolutions](https://terminal.solutions/)** | **[Mac IT Consultant](https://jobright.ai/jobs/info/68d4fa972ed36439e51e3dfd?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Sep 25 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Digital Experience Consultant](https://jobright.ai/jobs/info/68b748bcf4e41a61efd979a7?utm_campaign=Consultant&utm_source=1103)** | Fairfield, IA | On Site | Sep 25 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68ccfbaa77add66568abd01f?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | On Site | Sep 24 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - Miami, FL](https://jobright.ai/jobs/info/68d4af56fcd3367e8df16c68?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
