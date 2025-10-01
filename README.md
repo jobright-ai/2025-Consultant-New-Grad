@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68ce5632846f0b04af678e38?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Oct 01 |
 | **[Crowe](https://www.crowe.com/)** | **[Cybersecurity Consultant](https://jobright.ai/jobs/info/68ce6d08dbd9fb154eddf939?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68c109e45c5d5f14f46e3937?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Oct 01 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Graduate Lighting Consultant (Available 2026)](https://jobright.ai/jobs/info/68bd4eb1ae79610dacddf58e?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d85d4b7796a83635f10d6d?utm_campaign=Consultant&utm_source=1103)** | Utica, NY | On Site | Sep 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68cf5065fb49c96ca6ea73f0?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Sep 27 |
-| **[J.S. Held LLC](http://jsheld.com/)** | **[Consultant](https://jobright.ai/jobs/info/689fc23fcc9ee94dc91199ad?utm_campaign=Consultant&utm_source=1103)** | Reston, VA | Hybrid | Sep 27 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68cc59bf128dc347fd922f7f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Sep 27 |
 | **[Teneo](https://www.teneo.com)** | **[Associate Consultant, Management Consulting](https://jobright.ai/jobs/info/68cd897fe23def7af55bb52a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Sep 27 |
 | **[Don Johnson Auto Group](http://www.donjohnsonmotors.com)** | **[Future Leaders Program – Sales & Experience Consultant (Earn $20–$40/hr + Benefits)](https://jobright.ai/jobs/info/68d79db97a37c712687d2cab?utm_campaign=Consultant&utm_source=1103)** | Ladysmith, WI | On Site | Sep 27 |
@@ -209,9 +209,9 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d58cef63d77d6f6f3eff21?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (Spanish Fluency)](https://jobright.ai/jobs/info/68d588a639247e3c807ec567?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d830d6295f8e37655e5ff5?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 25 |
-| **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
+| **[RELX](https://www.relx.com)** | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a14314935e31e231a67b?utm_campaign=Consultant&utm_source=1103)** | Home Based - San Francisco, CA | Remote | Sep 25 |
+| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a2501f7fb2169ab1292e?utm_campaign=Consultant&utm_source=1103)** | Home Based - Oakland, CA | Remote | Sep 25 |
 | ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a28463d77d6f6f3f11af?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Remote | Sep 25 |
-| ↳ | **[Legal Practice Area Consultant (JD Required)](https://jobright.ai/jobs/info/68d5a14314935e31e231a67b?utm_campaign=Consultant&utm_source=1103)** | Home Based - San Francisco, CA | Remote | Sep 25 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/68d583e463d77d6f6f3ef880?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Financial Service Consultant - Capital Markets](https://jobright.ai/jobs/info/68d57ffe39247e3c807ebf49?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[Park Consulting Group](https://parkconsulting.com)** | **[Consulting Project Analyst (Training Provided)](https://jobright.ai/jobs/info/68d57b421f7fb2169ab10753?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Sep 25 |
@@ -235,5 +235,4 @@ For a complete list, click the following sortable link below:
 | **[Stout](http://www.stout.com)** | **[PhD Economist, Commercial Litigation – Disputes, Claims & Investigations Consulting](https://jobright.ai/jobs/info/68d65efb4736ff202fdd305c?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Sep 25 |
 | **[TerminalSolutions](https://terminal.solutions/)** | **[Mac IT Consultant](https://jobright.ai/jobs/info/68d4fa972ed36439e51e3dfd?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Sep 25 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Digital Experience Consultant](https://jobright.ai/jobs/info/68b748bcf4e41a61efd979a7?utm_campaign=Consultant&utm_source=1103)** | Fairfield, IA | On Site | Sep 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68ccfbaa77add66568abd01f?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
