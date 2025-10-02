@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68c224da33864f172f9bd65b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 02 |
+| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68cda1dcb2a74e1837eda341?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Oct 02 |
+| ↳ | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68c224da33864f172f9bd65b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68ce5632846f0b04af678e38?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Oct 01 |
@@ -195,5 +196,4 @@ For a complete list, click the following sortable link below:
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant - Full Time - Remote](https://jobright.ai/jobs/info/68d611a72116ff37ee092301?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 25 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Sep 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advisory Analyst](https://jobright.ai/jobs/info/68d625e3894705799a2e7e7e?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 25 |
-| **[Odoo](http://www.odoo.com)** | **[Software Implementation Consultant](https://jobright.ai/jobs/info/68d5f7392116ff37ee0917f0?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
