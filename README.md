@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68c224da33864f172f9bd65b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[D365 Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68ce5632846f0b04af678e38?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Oct 01 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9ba6df7b8311bb10cd4?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/68bd9774c4c5904ff6003e71?utm_campaign=Consultant&utm_source=1103)** | Hyde Park, NY | On Site | Sep 29 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa96d07c157682e56c273?utm_campaign=Consultant&utm_source=1103)** | Minneapolis - South Seventh | Hybrid | Sep 29 |
-| ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af894?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af89e?utm_campaign=Consultant&utm_source=1103)** | Minneapolis - South Seventh | Hybrid | Sep 29 |
+| ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af894?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa93f6df7b8311bb10bd8?utm_campaign=Consultant&utm_source=1103)** | Phoenix - E. Camelback | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa90e07c157682e56c188?utm_campaign=Consultant&utm_source=1103)** | Phoenix - E. Camelback | Hybrid | Sep 29 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Senior Associate, Engineering](https://jobright.ai/jobs/info/68310412e345b9223f0c314e?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Sep 29 |
@@ -199,7 +200,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/68d5cc6b2116ff37ee090520?utm_campaign=Consultant&utm_source=1103)** | Longo Toyota | On Site | Sep 25 |
 | ↳ | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/68d5cb0a1f7fb2169ab13ca8?utm_campaign=Consultant&utm_source=1103)** | US-CA-El Monte | On Site | Sep 25 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Medicaid Program and Policy Consultant](https://jobright.ai/jobs/info/68d81426295f8e37655e54b7?utm_campaign=Consultant&utm_source=1103)** | US-Remote | Remote | Sep 25 |
-| **[Current Home ](https://currenthome.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/68d62582894705799a2e7d84?utm_campaign=Consultant&utm_source=1103)** | Greater Tampa Bay Area | On Site | Sep 25 |
-| **[Datavant](https://datavant.com)** | **[Profee Coding Consultant - Full Time - Remote](https://jobright.ai/jobs/info/68d5b96563d77d6f6f3f1d60?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Sep 25 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[Resource Management Consultant](https://jobright.ai/jobs/info/68b887c507090163b6ba2670?utm_campaign=Consultant&utm_source=1103)** | Southfield, MI | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
