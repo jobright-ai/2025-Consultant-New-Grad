@@ -57,15 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68cda1dcb2a74e1837eda341?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Oct 02 |
-| ↳ | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68c224da33864f172f9bd65b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 02 |
-| **[ProService Hawaii](https://www.proservice.com)** | **[Talent Solutions Consultant I](https://jobright.ai/jobs/info/68c2304f4d652f044775daf9?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | Hybrid | Oct 02 |
-| **[Arup](http://www.arup.com)** | **[Graduate Project & Commercial Management Consultant (Available 2026)](https://jobright.ai/jobs/info/68ccd9f977add66568aba92f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68cf7f6ffb49c96ca6ea8f84?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Oct 02 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Group Account Assistant](https://jobright.ai/jobs/info/68c222e64d652f044775d650?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
-| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68ccc8c8a77e5d7d744f5589?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 02 |
-| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[IHFS Consultant](https://jobright.ai/jobs/info/68c87c5695f5211cd2ce5ce9?utm_campaign=Consultant&utm_source=1103)** | Le Mars, IA | On Site | Oct 01 |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ACA](https://jobright.ai/jobs/info/68c0d5c8702aa35207ab0e9a?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 01 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd0a7de23def7af55b41dd?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Oct 01 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
@@ -167,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68d718a8d3fe025a3015ed2c?utm_campaign=Consultant&utm_source=1103)** | NASHVILLE, TN, 37208 | On Site | Sep 26 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Implementation Consultant, ERP, National](https://jobright.ai/jobs/info/68d715bf45853d0e39ccccff?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 26 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Sep 26 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financials Consultant – Entry Level](https://jobright.ai/jobs/info/68d70d00d3fe025a3015e8fb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
-| **[Guidehouse](https://guidehouse.com)** | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/68d02854dbd9fb154ededcf0?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
