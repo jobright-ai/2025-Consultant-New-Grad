@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0d3022d46f6396cae8d68?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 28 |
 | **[CrossVue](https://www.crossvue.com)** | **[Workday Payroll Consultant](https://jobright.ai/jobs/info/68cce0a577add66568abb222?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[Arup](http://www.arup.com)** | **[Graduate Lighting Consultant (Available 2026)](https://jobright.ai/jobs/info/68bd4eb1ae79610dacddf58e?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 27 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/68d85d4b7796a83635f10d6d?utm_campaign=Consultant&utm_source=1103)** | Utica, NY | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
