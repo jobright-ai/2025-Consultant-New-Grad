@@ -59,8 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
+| **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
+| **[Raymond James](http://www.raymondjames.com)** | **[Financial Planning Consultant](https://jobright.ai/jobs/info/68a7af1dd627244576e2dfd1?utm_campaign=Consultant&utm_source=1103)** | Sycamore, IL | On Site | Oct 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688ad7e8aab47a17f670bbdc?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 02 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68cda1dcb2a74e1837eda341?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Oct 02 |
+| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ACA](https://jobright.ai/jobs/info/68c0dafc8e65e77df55c50c8?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Oct 01 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd0a7de23def7af55b41dd?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Oct 01 |
 | **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
@@ -145,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68cc59bf128dc347fd922f7f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Sep 27 |
 | **[Teneo](https://www.teneo.com)** | **[Associate Consultant, Management Consulting](https://jobright.ai/jobs/info/68cd897fe23def7af55bb52a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Sep 27 |
 | **[Don Johnson Auto Group](http://www.donjohnsonmotors.com)** | **[Future Leaders Program – Sales & Experience Consultant (Earn $20–$40/hr + Benefits)](https://jobright.ai/jobs/info/68d79db97a37c712687d2cab?utm_campaign=Consultant&utm_source=1103)** | Ladysmith, WI | On Site | Sep 27 |
-| **[Arup](http://www.arup.com)** | **[Graduate Acoustic/Audio Visual Consultant (Available 2026)](https://jobright.ai/jobs/info/68ccd8c25954791a1d6ffa13?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
