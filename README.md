@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
 | **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/689fd98883d13d1f5b6cb819?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Sep 28 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0d3022d46f6396cae8d68?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 28 |
 | **[CrossVue](https://www.crossvue.com)** | **[Workday Payroll Consultant](https://jobright.ai/jobs/info/68cce0a577add66568abb222?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 28 |
-| **[Arup](http://www.arup.com)** | **[Graduate Lighting Consultant (Available 2026)](https://jobright.ai/jobs/info/68bd4eb1ae79610dacddf58e?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
