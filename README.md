@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
 | **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
