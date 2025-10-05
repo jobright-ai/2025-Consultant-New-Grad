@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c294fce86561b928919d?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319b663829b0a8a4ffb1b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Oct 03 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
 | **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9ba6df7b8311bb10cd4?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/68bd9774c4c5904ff6003e71?utm_campaign=Consultant&utm_source=1103)** | Hyde Park, NY | On Site | Sep 29 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa96d07c157682e56c273?utm_campaign=Consultant&utm_source=1103)** | Minneapolis - South Seventh | Hybrid | Sep 29 |
-| ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af894?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af89e?utm_campaign=Consultant&utm_source=1103)** | Minneapolis - South Seventh | Hybrid | Sep 29 |
+| ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa9570b832179ca4af894?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Actuarial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa93f6df7b8311bb10bd8?utm_campaign=Consultant&utm_source=1103)** | Phoenix - E. Camelback | Hybrid | Sep 29 |
 | ↳ | **[Government Health Consulting Financial Analyst - College Program 2026](https://jobright.ai/jobs/info/68daa90e07c157682e56c188?utm_campaign=Consultant&utm_source=1103)** | Phoenix - E. Camelback | Hybrid | Sep 29 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Senior Associate, Engineering](https://jobright.ai/jobs/info/68310412e345b9223f0c314e?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Sep 29 |
@@ -148,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[2026 Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68cfd257fb49c96ca6eabd6f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68c65413c96a22563eced4c0?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Sep 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/689fd98883d13d1f5b6cb819?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Sep 28 |
-| **[Kx Advisors ](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0d3022d46f6396cae8d68?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
