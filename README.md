@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[Financial Planning Consultant](https://jobright.ai/jobs/info/68a7af1dd627244576e2dfd1?utm_campaign=Consultant&utm_source=1103)** | Sycamore, IL | On Site | Oct 03 |
 | **[Crowe](https://www.crowe.com/)** | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a657ba33dd7158bbc9f806?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688ad7e8aab47a17f670bbdc?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 02 |
+| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68cc0d7016d00d2beeb18fc5?utm_campaign=Consultant&utm_source=1103)** | California, United States | Hybrid | Oct 02 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68cda1dcb2a74e1837eda341?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Oct 02 |
 | ↳ | **[Implementation Consultant - ATS](https://jobright.ai/jobs/info/68c224da33864f172f9bd65b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Risk Consulting - Internal Audit and SOX](https://jobright.ai/jobs/info/68c66392c96a22563ecee11a?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Sep 29 |
 | **[CWT](http://www.mycwt.com/)** | **[Defense and Government/Travel Consultant l (Entry Level) onsite Elmendorf AFB Alaska](https://jobright.ai/jobs/info/68d4562effc1276de3fd9c4d?utm_campaign=Consultant&utm_source=1103)** | Elmendorf, TX | On Site | Sep 29 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Technology Risk Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68bca52468300c452ca15f23?utm_campaign=Consultant&utm_source=1103)** | Coral Gables, FL | On Site | Sep 28 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[2026 Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68cfd257fb49c96ca6eabd6f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
