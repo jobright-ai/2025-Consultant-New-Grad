@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
+| **[Press Ganey](http://www.moreheadassociates.com)** | **[Technical Consultant](https://jobright.ai/jobs/info/68cd1b96e23def7af55b5835?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 04 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68ce2d341ad6b16f028a2997?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 04 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c374fce86561b9289293?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Oct 04 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c294fce86561b928919d?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
@@ -75,7 +76,8 @@ For a complete list, click the following sortable link below:
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Risk Consulting - Internal Audit and SOX](https://jobright.ai/jobs/info/68c66392c96a22563ecee11a?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Group Account Assistant](https://jobright.ai/jobs/info/68c222e64d652f044775d650?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Forecasting Consultant](https://jobright.ai/jobs/info/68cd09c8e23def7af55b4058?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c178cc3fd8b059a20f00d1?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | Hybrid | Oct 02 |
+| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68ccc8c8a77e5d7d744f5589?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 02 |
+| ↳ | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c178cc3fd8b059a20f00d1?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | Hybrid | Oct 02 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ACA](https://jobright.ai/jobs/info/68c0dafc8e65e77df55c50c8?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Oct 01 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68c02890702aa35207aaafc8?utm_campaign=Consultant&utm_source=1103)** | Spotswood, NJ | On Site | Oct 01 |
