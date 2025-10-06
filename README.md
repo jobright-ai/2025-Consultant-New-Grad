@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/68bd9774c4c5904ff6003e71?utm_campaign=Consultant&utm_source=1103)** | Hyde Park, NY | On Site | Sep 29 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Senior Associate, Engineering](https://jobright.ai/jobs/info/68310412e345b9223f0c314e?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Sep 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant - Revenue Cycle, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68da9c5707c157682e56b6d8?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68c8f23b95f5211cd2cebf78?utm_campaign=Consultant&utm_source=1103)** | Coral Gables, FL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
