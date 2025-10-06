@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c374fce86561b9289293?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Oct 04 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c294fce86561b928919d?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319b663829b0a8a4ffb1b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Oct 03 |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Solar Energy Consultant](https://jobright.ai/jobs/info/68c37e9180e77b1fa6fc9ab9?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
 | **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68dba43d3d59b17e43bcea80?utm_campaign=Consultant&utm_source=1103)** | Staten Island, NY | On Site | Sep 30 |
 | **[Crowe](https://www.crowe.com/)** | **[ServiceNow Implementation Consultant](https://jobright.ai/jobs/info/68cd1405b2a74e1837ed1ff5?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 30 |
 | ↳ | **[Incident Response Consultant](https://jobright.ai/jobs/info/68ce4f3dfb49c96ca6e9ea8d?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 09232025-71337](https://jobright.ai/jobs/info/68d251f4a54edb3bf3e1d83e?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
