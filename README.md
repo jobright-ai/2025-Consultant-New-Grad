@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
+| **[IQVIA](https://www.iqvia.com)** | **[Associate Consultant, Healthcare & Analytics Strategy Consulting](https://jobright.ai/jobs/info/68ccc3e8a77e5d7d744f5290?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
 | **[MSX International](http://www.msxi.com)** | **[Service Lane Consultant](https://jobright.ai/jobs/info/68c57eaa7d0db41142734486?utm_campaign=Consultant&utm_source=1103)** | Saratoga Springs, NY | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Oct 01 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/68d60d2e2116ff37ee092173?utm_campaign=Consultant&utm_source=1103)** | Glenwood Springs, CO | On Site | Sep 30 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68cd7c68b2a74e1837ed7cb2?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Technical Consultant CTJ - TS/SCI](https://jobright.ai/jobs/info/68ce59fddbd9fb154eddeb50?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Sep 30 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bf60b95c5d5f14f46d656f?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | On Site | Sep 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c984f8a0c52d598ea38193?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 30 |
@@ -103,6 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Incident Response Consultant](https://jobright.ai/jobs/info/68ce4f3dfb49c96ca6e9ea8d?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 09232025-71337](https://jobright.ai/jobs/info/68d251f4a54edb3bf3e1d83e?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | Hybrid | Sep 29 |
 | **[RACQ](https://www.racq.com.au)** | **[Retail Consultant](https://jobright.ai/jobs/info/68db48519f13662d20e492f2?utm_campaign=Consultant&utm_source=1103)** | Westfield, IN | On Site | Sep 29 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/68db2fa50dffed6f83d2d165?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 29 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db2b67e9b48513789b25db?utm_campaign=Consultant&utm_source=1103)** | Palm Beach Gardens, FL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
