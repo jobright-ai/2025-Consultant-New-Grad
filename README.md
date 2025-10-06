@@ -105,10 +105,4 @@ For a complete list, click the following sortable link below:
 | **[RACQ](https://www.racq.com.au)** | **[Retail Consultant](https://jobright.ai/jobs/info/68db48519f13662d20e492f2?utm_campaign=Consultant&utm_source=1103)** | Westfield, IN | On Site | Sep 29 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/68db2fa50dffed6f83d2d165?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 29 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db2b67e9b48513789b25db?utm_campaign=Consultant&utm_source=1103)** | Palm Beach Gardens, FL | On Site | Sep 29 |
-| **[New Home Star](http://newhomestar.com)** | **[New Home Consultant - M/I Homes](https://jobright.ai/jobs/info/68db15c56df7b8311bb15f43?utm_campaign=Consultant&utm_source=1103)** | Plainfield, IN | On Site | Sep 29 |
-| ↳ | **[New Home Consultant - M/I Homes](https://jobright.ai/jobs/info/68db157b6df7b8311bb15ede?utm_campaign=Consultant&utm_source=1103)** | Carmel, IN | On Site | Sep 29 |
-| ↳ | **[New Home Consultant - M/I Homes](https://jobright.ai/jobs/info/68db15460dffed6f83d2c633?utm_campaign=Consultant&utm_source=1103)** | Greenwood, IN | On Site | Sep 29 |
-| ↳ | **[New Home Consultant - M/I Homes](https://jobright.ai/jobs/info/68db13cde9b48513789b1b3e?utm_campaign=Consultant&utm_source=1103)** | Lawrence, IN | On Site | Sep 29 |
-| ↳ | **[New Home Consultant - M/I Homes](https://jobright.ai/jobs/info/68db13cbe9b48513789b1b32?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Sep 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Eligibility Consultant](https://jobright.ai/jobs/info/68db06b06df7b8311bb156ca?utm_campaign=Consultant&utm_source=1103)** | East Lansing, MI | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
