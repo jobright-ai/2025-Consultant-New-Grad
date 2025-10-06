@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/68afd969e723db6c9b7b4223?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 29 |
 | **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Consultant](https://jobright.ai/jobs/info/68d64fc3ebcef82ef5cf9818?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Sep 29 |
-| **[CWT](http://www.mycwt.com/)** | **[Defense and Government/Travel Consultant l (Entry Level) onsite Elmendorf AFB Alaska](https://jobright.ai/jobs/info/68d4562effc1276de3fd9c4d?utm_campaign=Consultant&utm_source=1103)** | Elmendorf, TX | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
