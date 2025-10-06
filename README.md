@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[ServiceNow Implementation Consultant](https://jobright.ai/jobs/info/68cd1405b2a74e1837ed1ff5?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 30 |
 | ↳ | **[Incident Response Consultant](https://jobright.ai/jobs/info/68ce4f3dfb49c96ca6e9ea8d?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 09232025-71337](https://jobright.ai/jobs/info/68d251f4a54edb3bf3e1d83e?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | Hybrid | Sep 29 |
-| **[RACQ](https://www.racq.com.au)** | **[Retail Consultant](https://jobright.ai/jobs/info/68db48519f13662d20e492f2?utm_campaign=Consultant&utm_source=1103)** | Westfield, IN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
