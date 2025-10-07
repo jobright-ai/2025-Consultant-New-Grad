@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68ce9a91fb49c96ca6ea20b5?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Oct 07 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advisory Analyst](https://jobright.ai/jobs/info/68d625e3894705799a2e7e7e?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Oct 06 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Jr. Loan Consultant](https://jobright.ai/jobs/info/686d00c2640193b714d87172?utm_campaign=Consultant&utm_source=1103)** | Syosset, NY | On Site | Oct 06 |
@@ -97,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Cybersecurity Consultant](https://jobright.ai/jobs/info/68ce6d08dbd9fb154eddf939?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/68c109e45c5d5f14f46e3937?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Oct 01 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Oct 01 |
-| **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/68d60d2e2116ff37ee092173?utm_campaign=Consultant&utm_source=1103)** | Glenwood Springs, CO | On Site | Sep 30 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68cd7c68b2a74e1837ed7cb2?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
