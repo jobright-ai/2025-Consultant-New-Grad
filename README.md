@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate Consultant, Healthcare & Analytics Strategy Consulting](https://jobright.ai/jobs/info/68ccc3e8a77e5d7d744f5290?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
+| **[ADP](http://www.adp.com)** | **[Bilingual Life Cycle Consultant](https://jobright.ai/jobs/info/68d18bf98c62e63bc7fcc918?utm_campaign=Consultant&utm_source=1103)** | Home Gardens, CA | Hybrid | Oct 04 |
 | **[MSX International](http://www.msxi.com)** | **[Service Lane Consultant](https://jobright.ai/jobs/info/68c57eaa7d0db41142734486?utm_campaign=Consultant&utm_source=1103)** | Saratoga Springs, NY | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
