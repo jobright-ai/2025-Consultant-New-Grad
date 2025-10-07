@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Oct 01 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/68d60d2e2116ff37ee092173?utm_campaign=Consultant&utm_source=1103)** | Glenwood Springs, CO | On Site | Sep 30 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68cd7c68b2a74e1837ed7cb2?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 30 |
-| **[Microsoft](https://www.microsoft.com)** | **[Technical Consultant CTJ - TS/SCI](https://jobright.ai/jobs/info/68ce59fddbd9fb154eddeb50?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
