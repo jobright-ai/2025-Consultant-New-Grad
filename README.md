@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advisory Analyst](https://jobright.ai/jobs/info/68d625e3894705799a2e7e7e?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Oct 06 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
+| **[New American Funding](https://www.newamericanfunding.com)** | **[Jr. Loan Consultant](https://jobright.ai/jobs/info/686d00c2640193b714d87172?utm_campaign=Consultant&utm_source=1103)** | Syosset, NY | On Site | Oct 06 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68cf95e8dbd9fb154ede8ef6?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate Consultant, Healthcare & Analytics Strategy Consulting](https://jobright.ai/jobs/info/68ccc3e8a77e5d7d744f5290?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
 | **[ADP](http://www.adp.com)** | **[Bilingual Life Cycle Consultant](https://jobright.ai/jobs/info/68d18bf98c62e63bc7fcc918?utm_campaign=Consultant&utm_source=1103)** | Home Gardens, CA | Hybrid | Oct 04 |
 | **[MSX International](http://www.msxi.com)** | **[Service Lane Consultant](https://jobright.ai/jobs/info/68c57eaa7d0db41142734486?utm_campaign=Consultant&utm_source=1103)** | Saratoga Springs, NY | On Site | Oct 04 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c374fce86561b9289293?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Oct 04 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c294fce86561b928919d?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319b663829b0a8a4ffb1b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Oct 03 |
+| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Consultant Relations Associate](https://jobright.ai/jobs/info/68cf1deadbd9fb154ede5290?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Solar Energy Consultant](https://jobright.ai/jobs/info/68c37e9180e77b1fa6fc9ab9?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
 | **[Cegeka](https://cegeka.be)** | **[ERP-Consultant* Bestandskundenbetreuung #10957](https://jobright.ai/jobs/info/68cdb93b1ad6b16f0289e433?utm_campaign=Consultant&utm_source=1103)** | Germany, PA | On Site | Oct 03 |
@@ -98,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68cd7c68b2a74e1837ed7cb2?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Sep 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Technical Consultant CTJ - TS/SCI](https://jobright.ai/jobs/info/68ce59fddbd9fb154eddeb50?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Sep 30 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Sep 30 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bf60b95c5d5f14f46d656f?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | On Site | Sep 30 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant - Life Sciences Advisory, Health Segment - Campus 2026](https://jobright.ai/jobs/info/68c984f8a0c52d598ea38193?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
