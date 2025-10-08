@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Forecasting Consultant](https://jobright.ai/jobs/info/68cd09c8e23def7af55b4058?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68ccc8c8a77e5d7d744f5589?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 02 |
 | ↳ | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c178cc3fd8b059a20f00d1?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | Hybrid | Oct 02 |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ACA](https://jobright.ai/jobs/info/68c0dafc8e65e77df55c50c8?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
