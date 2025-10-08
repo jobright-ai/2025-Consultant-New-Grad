@@ -96,6 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68c02890702aa35207aaafc8?utm_campaign=Consultant&utm_source=1103)** | Spotswood, NJ | On Site | Oct 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd0a7de23def7af55b41dd?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Oct 01 |
-| **[Cantor Fitzgerald](http://cantor.com)** | **[Regional Consultant, Cantor Fitzgerald Asset Management](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c53?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Client Solutions, FOS](https://jobright.ai/jobs/info/68cb3df5ba798c1a501cd777?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
