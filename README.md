@@ -93,7 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68ccc8c8a77e5d7d744f5589?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 02 |
 | ↳ | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c178cc3fd8b059a20f00d1?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | Hybrid | Oct 02 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - ACA](https://jobright.ai/jobs/info/68c0dafc8e65e77df55c50c8?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Oct 01 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68b7717c2124650c14022c0c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 01 |
-| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68c02890702aa35207aaafc8?utm_campaign=Consultant&utm_source=1103)** | Spotswood, NJ | On Site | Oct 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd0a7de23def7af55b41dd?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
