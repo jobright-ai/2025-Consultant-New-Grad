@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Oct 08 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce673cfb49c96ca6ea0152?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Oct 08 |
+| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cecb33846f0b04af67cf5c?utm_campaign=Consultant&utm_source=1103)** | Greenville, NC | On Site | Oct 08 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 07 |
 | **[Apartment Insiders](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/68c05d495c5d5f14f46dd02f?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
