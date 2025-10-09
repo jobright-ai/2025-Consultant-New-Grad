@@ -59,9 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate, Risk Consulting Internal Audit](https://jobright.ai/jobs/info/68d4cba38c62e63bc7fec907?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Oct 08 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Oct 08 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cecb33846f0b04af67cf5c?utm_campaign=Consultant&utm_source=1103)** | Greenville, NC | On Site | Oct 08 |
-| ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cd65f61ad6b16f02899390?utm_campaign=Consultant&utm_source=1103)** | Pharr, TX | On Site | Oct 08 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cd65f61ad6b16f02899390?utm_campaign=Consultant&utm_source=1103)** | Pharr, TX | On Site | Oct 08 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cfdf3afb49c96ca6eac214?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Oct 08 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 07 |
@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Financial Planning Consultant](https://jobright.ai/jobs/info/68a7af1dd627244576e2dfd1?utm_campaign=Consultant&utm_source=1103)** | Sycamore, IL | On Site | Oct 03 |
 | **[Crowe](https://www.crowe.com/)** | **[NetSuite Implementation Consultant](https://jobright.ai/jobs/info/68a657ba33dd7158bbc9f806?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 02 |
-| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68ccdffb5954791a1d70039f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
