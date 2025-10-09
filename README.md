@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
+| **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Oct 08 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68ce673cfb49c96ca6ea0152?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Oct 08 |
 | ↳ | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/68cecb33846f0b04af67cf5c?utm_campaign=Consultant&utm_source=1103)** | Greenville, NC | On Site | Oct 08 |
@@ -71,7 +73,9 @@ For a complete list, click the following sortable link below:
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Jr. Loan Consultant](https://jobright.ai/jobs/info/686d00c2640193b714d87172?utm_campaign=Consultant&utm_source=1103)** | Syosset, NY | On Site | Oct 06 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68cf95e8dbd9fb154ede8ef6?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
+| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/688d5e4f1808534a89cc2cf3?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Oct 05 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate Consultant, Healthcare & Analytics Strategy Consulting](https://jobright.ai/jobs/info/68ccc3e8a77e5d7d744f5290?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
+| **[ADP](http://www.adp.com)** | **[Life Cycle Consultant](https://jobright.ai/jobs/info/68cba1f89e3a822f5d24962f?utm_campaign=Consultant&utm_source=1103)** | Home Gardens, CA | Hybrid | Oct 04 |
 | **[MSX International](http://www.msxi.com)** | **[Service Lane Consultant](https://jobright.ai/jobs/info/68c57eaa7d0db41142734486?utm_campaign=Consultant&utm_source=1103)** | Saratoga Springs, NY | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
