@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
+| ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cd96a01ad6b16f0289c00b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
+| **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate, Risk Consulting Internal Audit](https://jobright.ai/jobs/info/68d4cba38c62e63bc7fec907?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Oct 08 |
@@ -69,9 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cd2ca91ad6b16f028961c4?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c88a54983e6768bc54ea8a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 07 |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/68ccd7d977add66568aba299?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68ce9a91fb49c96ca6ea20b5?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Oct 07 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advisory Analyst](https://jobright.ai/jobs/info/68d625e3894705799a2e7e7e?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Oct 06 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68ccc1f0d99309000e5a2a00?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 06 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Jr. Loan Consultant](https://jobright.ai/jobs/info/686d00c2640193b714d87172?utm_campaign=Consultant&utm_source=1103)** | Syosset, NY | On Site | Oct 06 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68cf95e8dbd9fb154ede8ef6?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/688d5e4f1808534a89cc2cf3?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Oct 05 |
