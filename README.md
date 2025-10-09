@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Entry Level Grid Interconnection Consultant](https://jobright.ai/jobs/info/68cefde1dbd9fb154ede40bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68cc19cc128dc347fd91f0b7?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Oct 09 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Campbell, CA](https://jobright.ai/jobs/info/68cc65b27342c7623ae6428e?utm_campaign=Consultant&utm_source=1103)** | Campbell, CA | Hybrid | Oct 09 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Associate Consultant, Healthcare & Analytics Strategy Consulting](https://jobright.ai/jobs/info/68ccc3e8a77e5d7d744f5290?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 05 |
 | **[ADP](http://www.adp.com)** | **[Life Cycle Consultant](https://jobright.ai/jobs/info/68cba1f89e3a822f5d24962f?utm_campaign=Consultant&utm_source=1103)** | Home Gardens, CA | Hybrid | Oct 04 |
 | **[MSX International](http://www.msxi.com)** | **[Service Lane Consultant](https://jobright.ai/jobs/info/68c57eaa7d0db41142734486?utm_campaign=Consultant&utm_source=1103)** | Saratoga Springs, NY | On Site | Oct 04 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/68cce229d11b445e0bee3bcf?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bd3d71808534a89cb6744?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Oct 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Oct 04 |
 | **[Press Ganey](http://www.moreheadassociates.com)** | **[Technical Consultant](https://jobright.ai/jobs/info/68cd1b96e23def7af55b5835?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 04 |
