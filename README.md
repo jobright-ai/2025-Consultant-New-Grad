@@ -93,7 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c374fce86561b9289293?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Oct 04 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c4c294fce86561b928919d?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Oct 04 |
 | **[Transamerica](http://www.transamerica.com)** | **[Payroll Support Consultant - Hybird](https://jobright.ai/jobs/info/68cd9dcf1ad6b16f0289c649?utm_campaign=Consultant&utm_source=1103)** | Cedar Rapids, IA | On Site | Oct 04 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319b663829b0a8a4ffb1b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Oct 03 |
-| ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319595001f8077bf6107b?utm_campaign=Consultant&utm_source=1103)** | Jensen Beach, FL | On Site | Oct 03 |
-| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Consultant Relations Associate](https://jobright.ai/jobs/info/68cf1deadbd9fb154ede5290?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
