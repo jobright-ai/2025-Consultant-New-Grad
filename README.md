@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Consultant Relations Associate](https://jobright.ai/jobs/info/68cf1deadbd9fb154ede5290?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Solar Energy Consultant](https://jobright.ai/jobs/info/68c37e9180e77b1fa6fc9ab9?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 03 |
-| **[IDEXX](http://www.idexx.com)** | **[Technical Service Consultant](https://jobright.ai/jobs/info/68c31d965adaee6c9bda724f?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
