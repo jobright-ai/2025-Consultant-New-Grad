@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319b663829b0a8a4ffb1b?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Oct 03 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68c319595001f8077bf6107b?utm_campaign=Consultant&utm_source=1103)** | Jensen Beach, FL | On Site | Oct 03 |
 | **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Consultant Relations Associate](https://jobright.ai/jobs/info/68cf1deadbd9fb154ede5290?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 03 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Solar Energy Consultant](https://jobright.ai/jobs/info/68c37e9180e77b1fa6fc9ab9?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
