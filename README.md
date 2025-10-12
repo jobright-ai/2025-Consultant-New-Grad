@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Newtown Square (Hybrid)](https://jobright.ai/jobs/info/68b23a4c1ade4306aa63505e?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Oct 11 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68cd9dda1ad6b16f0289c661?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 11 |
+| **[Impact Advisors](https://www.impact-advisors.com)** | **[Strategy and Operations Entry Level Consultant - Summer 2026](https://jobright.ai/jobs/info/68cc156916d00d2beeb196eb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Associate Consultant 2026](https://jobright.ai/jobs/info/68ce9ce2dbd9fb154ede14df?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68cdb2f61ad6b16f0289e0c3?utm_campaign=Consultant&utm_source=1103)** | Clarksburg, WV | On Site | Oct 11 |
