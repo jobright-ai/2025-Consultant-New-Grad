@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Newtown Square (Hybrid)](https://jobright.ai/jobs/info/68b23a4c1ade4306aa63505e?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Oct 11 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68cd9dda1ad6b16f0289c661?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 11 |
+| **[SAP](https://www.sap.com)** | **[Services & Consulting: BTS Consultant - Houston (Hybrid)](https://jobright.ai/jobs/info/68cea097fb49c96ca6ea2270?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 11 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Strategy and Operations Entry Level Consultant - Summer 2026](https://jobright.ai/jobs/info/68cc156916d00d2beeb196eb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Associate Consultant 2026](https://jobright.ai/jobs/info/68ce9ce2dbd9fb154ede14df?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 11 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d235a48c62e63bc7fd56ae?utm_campaign=Consultant&utm_source=1103)** | Kennesaw, GA | On Site | Oct 08 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 08 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cfb24dfb49c96ca6eaaecd?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c8cbe4983e6768bc5517cb?utm_campaign=Consultant&utm_source=1103)** | Arvada, CO | On Site | Oct 07 |
