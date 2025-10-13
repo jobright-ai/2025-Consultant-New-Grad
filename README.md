@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/68ccd7d977add66568aba299?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68ce9a91fb49c96ca6ea20b5?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Oct 07 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Advisory Analyst](https://jobright.ai/jobs/info/68d625e3894705799a2e7e7e?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Oct 06 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
