@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
+| **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Chicago (Hybrid)](https://jobright.ai/jobs/info/68cd13081ad6b16f0289476b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d7574c295f8e37655d53d3?utm_campaign=Consultant&utm_source=1103)** | Summerfield, FL | On Site | Oct 11 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68985a5afaa4e875e824ef26?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Oct 11 |
-| **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Newtown Square (Hybrid)](https://jobright.ai/jobs/info/68b23a4c1ade4306aa63505e?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Oct 11 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68cd9dda1ad6b16f0289c661?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[Services & Consulting: BTS Consultant - Houston (Hybrid)](https://jobright.ai/jobs/info/68cea097fb49c96ca6ea2270?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 11 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Strategy and Operations Entry Level Consultant - Summer 2026](https://jobright.ai/jobs/info/68cc156916d00d2beeb196eb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
