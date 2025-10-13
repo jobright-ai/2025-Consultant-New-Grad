@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68cdb2f61ad6b16f0289e0c3?utm_campaign=Consultant&utm_source=1103)** | Clarksburg, WV | On Site | Oct 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/689408304c7e851b90ae2369?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 10 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[Design Studio Consultant](https://jobright.ai/jobs/info/68b133d504557a6c207bab0c?utm_campaign=Consultant&utm_source=1103)** | Mount Kisco, NY | On Site | Oct 09 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 09 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Entry Level Grid Interconnection Consultant](https://jobright.ai/jobs/info/68cefde1dbd9fb154ede40bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68cc19cc128dc347fd91f0b7?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Oct 09 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c8cbe4983e6768bc5517cb?utm_campaign=Consultant&utm_source=1103)** | Arvada, CO | On Site | Oct 07 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 07 |
 | **[Apartment Insiders](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/68c05d495c5d5f14f46dd02f?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cd2ca91ad6b16f028961c4?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
