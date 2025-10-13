@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Chicago (Hybrid)](https://jobright.ai/jobs/info/68cd13081ad6b16f0289476b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
