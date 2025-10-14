@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 13 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Oct 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Oct 11 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cfb24dfb49c96ca6eaaecd?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c8cbe4983e6768bc5517cb?utm_campaign=Consultant&utm_source=1103)** | Arvada, CO | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
