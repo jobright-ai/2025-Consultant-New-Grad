@@ -58,10 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
+| **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Oct 11 |
+| ↳ | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Chicago (Hybrid)](https://jobright.ai/jobs/info/68cd13081ad6b16f0289476b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d7574c295f8e37655d53d3?utm_campaign=Consultant&utm_source=1103)** | Summerfield, FL | On Site | Oct 11 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68985a5afaa4e875e824ef26?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Oct 11 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cd96a01ad6b16f0289c00b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
+| **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c9f88ff61c922772a71778?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Oct 09 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
