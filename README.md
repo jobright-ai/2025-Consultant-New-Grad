@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cd96a01ad6b16f0289c00b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c9f88ff61c922772a71778?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Oct 09 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
-| **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
