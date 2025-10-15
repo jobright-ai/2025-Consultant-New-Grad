@@ -68,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Oct 13 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
-| **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
+| **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/68d4edade678d65ec7d89592?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 12 |
+| ↳ | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Oct 11 |
 | ↳ | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Design Studio Consultant](https://jobright.ai/jobs/info/68b133d504557a6c207bab0c?utm_campaign=Consultant&utm_source=1103)** | Mount Kisco, NY | On Site | Oct 09 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 09 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Entry Level Grid Interconnection Consultant](https://jobright.ai/jobs/info/68cefde1dbd9fb154ede40bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Campbell, CA](https://jobright.ai/jobs/info/68cc65b27342c7623ae6428e?utm_campaign=Consultant&utm_source=1103)** | Campbell, CA | Hybrid | Oct 09 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cd96a01ad6b16f0289c00b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
