@@ -90,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Gartner](http://www.gartner.com)** | **[Managing Partner, IT Strategy, ERP, Law and Accounting Industry](https://jobright.ai/jobs/info/68c9f88ff61c922772a71778?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Oct 09 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
-| **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
-| **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
