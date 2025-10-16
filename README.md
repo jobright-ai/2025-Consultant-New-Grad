@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d301ff8c62e63bc7fdcbcd?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct CRE Implementation](https://jobright.ai/jobs/info/68d3ebc35ae5a90cfd48222d?utm_campaign=Consultant&utm_source=1103)** | Buffalo-Niagara Area | On Site | Oct 15 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/68d2e31317554c2d9eeeb4b8?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 15 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9b42b95f5211cd2cf32d1?utm_campaign=Consultant&utm_source=1103)** | Sturgeon Bay, WI | On Site | Oct 15 |
+| ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f04764c3d7411c3c92a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1870bfa731f61692dff34?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 14 |
@@ -91,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Design Studio Consultant](https://jobright.ai/jobs/info/68b133d504557a6c207bab0c?utm_campaign=Consultant&utm_source=1103)** | Mount Kisco, NY | On Site | Oct 09 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/689ce5f579a9f9666253bfd9?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Oct 09 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Entry Level Grid Interconnection Consultant](https://jobright.ai/jobs/info/68cefde1dbd9fb154ede40bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
-| **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
-| ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
