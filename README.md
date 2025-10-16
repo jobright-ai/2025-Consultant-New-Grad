@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
+| **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d755ec7a37c712687c8bfc?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Oct 15 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cec127dbd9fb154ede2834?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Oct 15 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f67ed63844c944b239e?utm_campaign=Consultant&utm_source=1103)** | Roswell, GA | On Site | Oct 15 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d301ff8c62e63bc7fdcbcd?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct CRE Implementation](https://jobright.ai/jobs/info/68d3ebc35ae5a90cfd48222d?utm_campaign=Consultant&utm_source=1103)** | Buffalo-Niagara Area | On Site | Oct 15 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f04764c3d7411c3c92a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1870bfa731f61692dff34?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 14 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Oct 14 |
-| **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68d410b317554c2d9eef5b27?utm_campaign=Consultant&utm_source=1103)** | Saddle Brook, NJ | On Site | Oct 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Oct 13 |
