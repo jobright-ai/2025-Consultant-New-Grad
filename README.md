@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3f67ed63844c944b239e?utm_campaign=Consultant&utm_source=1103)** | Roswell, GA | On Site | Oct 15 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d755ec7a37c712687c8bfc?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Oct 15 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f67ed63844c944b239e?utm_campaign=Consultant&utm_source=1103)** | Roswell, GA | On Site | Oct 15 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d301ff8c62e63bc7fdcbcd?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct CRE Implementation](https://jobright.ai/jobs/info/68d3ebc35ae5a90cfd48222d?utm_campaign=Consultant&utm_source=1103)** | Buffalo-Niagara Area | On Site | Oct 15 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/68d2e31317554c2d9eeeb4b8?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 15 |
