@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
 | **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 15 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Valuation Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/68daa0216df7b8311bb1047f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d755ec7a37c712687c8bfc?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Oct 15 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cec127dbd9fb154ede2834?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Oct 15 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f67ed63844c944b239e?utm_campaign=Consultant&utm_source=1103)** | Roswell, GA | On Site | Oct 15 |
