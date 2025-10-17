@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68d0067bdbd9fb154edecea5?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Oct 10 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd395ce23def7af55b6e2f?utm_campaign=Consultant&utm_source=1103)** | Fullerton, CA | On Site | Oct 10 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6893b7f54c7e851b90adfcac?utm_campaign=Consultant&utm_source=1103)** | Doral, FL | On Site | Oct 10 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/689408304c7e851b90ae2369?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
