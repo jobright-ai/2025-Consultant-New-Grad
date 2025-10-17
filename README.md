@@ -71,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9b42b95f5211cd2cf32d1?utm_campaign=Consultant&utm_source=1103)** | Sturgeon Bay, WI | On Site | Oct 15 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68afc90213563e782a9f10bd?utm_campaign=Consultant&utm_source=1103)** | Presque Isle, ME | On Site | Oct 15 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d44b5ed63844c944b2419?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 14 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f04764c3d7411c3c92a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1870bfa731f61692dff34?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 14 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Oct 14 |
