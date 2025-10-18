@@ -94,6 +94,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68985a5afaa4e875e824ef26?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Oct 11 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68cd9dda1ad6b16f0289c661?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[Services & Consulting: BTS Consultant - Houston (Hybrid)](https://jobright.ai/jobs/info/68cea097fb49c96ca6ea2270?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Oct 11 |
-| **[Impact Advisors](https://www.impact-advisors.com)** | **[Strategy and Operations Entry Level Consultant - Summer 2026](https://jobright.ai/jobs/info/68cc156916d00d2beeb196eb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
-| **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Associate Consultant 2026](https://jobright.ai/jobs/info/68ce9ce2dbd9fb154ede14df?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
