@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Data Science](https://jobright.ai/jobs/info/68cdad23e23def7af55bdbdc?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
