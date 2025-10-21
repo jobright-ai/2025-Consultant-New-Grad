@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cfb24dfb49c96ca6eaaecd?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c8cbe4983e6768bc5517cb?utm_campaign=Consultant&utm_source=1103)** | Arvada, CO | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
