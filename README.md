@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/68d4edade678d65ec7d89592?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 12 |
 | ↳ | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Data Science](https://jobright.ai/jobs/info/68cdad23e23def7af55bdbdc?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Oct 11 |
 | ↳ | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[SAP](https://www.sap.com)** | **[Academy for Services & Consulting: BTS Consultant - Chicago (Hybrid)](https://jobright.ai/jobs/info/68cd13081ad6b16f0289476b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
@@ -113,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cfb24dfb49c96ca6eaaecd?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Oct 08 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c892a395f5211cd2ce6db1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Remote | Oct 07 |
-| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
