@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cd2ca91ad6b16f028961c4?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c88a54983e6768bc54ea8a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 07 |
-| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/68ccd7d977add66568aba299?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68ce9a91fb49c96ca6ea20b5?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
