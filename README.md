@@ -116,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68ca650106a34016008c81bf?utm_campaign=Consultant&utm_source=1103)** | Dresher, PA | On Site | Oct 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c8cbe4983e6768bc5517cb?utm_campaign=Consultant&utm_source=1103)** | Arvada, CO | On Site | Oct 07 |
 | **[Apartment Insiders](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/68c05d495c5d5f14f46dd02f?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Oct 07 |
-| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cd2ca91ad6b16f028961c4?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
