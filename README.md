@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Oct 22 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Data Management - Total Portfolio Solutions](https://jobright.ai/jobs/info/68dae7970dffed6f83d2a64d?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 21 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
 | **[Everbridge](https://www.everbridge.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/68d4264affc1276de3fd7a1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 16 |
