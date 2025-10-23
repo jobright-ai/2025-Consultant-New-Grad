@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd395ce23def7af55b6e2f?utm_campaign=Consultant&utm_source=1103)** | Fullerton, CA | On Site | Oct 10 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6893b7f54c7e851b90adfcac?utm_campaign=Consultant&utm_source=1103)** | Doral, FL | On Site | Oct 10 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/689408304c7e851b90ae2369?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 10 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[Design Studio Consultant](https://jobright.ai/jobs/info/68b133d504557a6c207bab0c?utm_campaign=Consultant&utm_source=1103)** | Mount Kisco, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
