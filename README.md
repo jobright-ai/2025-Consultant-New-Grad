@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cd96a01ad6b16f0289c00b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
