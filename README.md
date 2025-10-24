@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/68b1e4a0f4e41a61efd80770?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68cdb2f61ad6b16f0289e0c3?utm_campaign=Consultant&utm_source=1103)** | Clarksburg, WV | On Site | Oct 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd395ce23def7af55b6e2f?utm_campaign=Consultant&utm_source=1103)** | Fullerton, CA | On Site | Oct 10 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6893b7f54c7e851b90adfcac?utm_campaign=Consultant&utm_source=1103)** | Doral, FL | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
