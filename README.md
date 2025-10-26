@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Data Management - Total Portfolio Solutions](https://jobright.ai/jobs/info/68dab89007c157682e56cbb1?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Procurement Contract Consultant](https://jobright.ai/jobs/info/68dab6e46df7b8311bb11708?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 29 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Data Management - Total Portfolio Solutions](https://jobright.ai/jobs/info/68dab6946df7b8311bb1163b?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Sep 29 |
-| **[Ncontracts](http://www.ncontracts.com/)** | **[Ncontracts CareersAssociate Solutions Consultant](https://jobright.ai/jobs/info/68db7bd034f2c406da6d8814?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
