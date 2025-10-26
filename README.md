@@ -140,7 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Ncontracts](http://www.ncontracts.com/)** | **[Ncontracts CareersAssociate Solutions Consultant](https://jobright.ai/jobs/info/68db7bd034f2c406da6d8814?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Implementation Consultant, ERP, National](https://jobright.ai/jobs/info/68d715bf45853d0e39ccccff?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Sep 26 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financials Consultant – Entry Level](https://jobright.ai/jobs/info/68d70d00d3fe025a3015e8fb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Sep 26 |
-| **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68d6acca45853d0e39cc8fad?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 26 |
-| ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d6a3c1894705799a2ec937?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 26 |
-| ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d69e7cd3fe025a3015ab77?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
