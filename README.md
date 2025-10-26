@@ -144,7 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/68d6acca45853d0e39cc8fad?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 26 |
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d6a3c1894705799a2ec937?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 26 |
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68d69e7cd3fe025a3015ab77?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 26 |
-| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/68d62d82ebcef82ef5cf7560?utm_campaign=Consultant&utm_source=1103)** | El Monte, CA | On Site | Sep 25 |
-| **[Southern Traditions Window Fashions](http://www.shutters4u.com)** | **[Design Consultant Charlotte, NC](https://jobright.ai/jobs/info/68d8d910061b716fa29587bd?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Sep 25 |
-| **[SBD Housing Solutions](https://sbdhousing.com/)** | **[Home Buying Consultant](https://jobright.ai/jobs/info/68d8d0da022fc803b4874d0e?utm_campaign=Consultant&utm_source=1103)** | Blue Springs, MO | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
