@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68b1fed5f4e41a61efd8180c?utm_campaign=Consultant&utm_source=1103)** | Thomaston, ME | On Site | Oct 15 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/68d2e31317554c2d9eeeb4b8?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9b42b95f5211cd2cf32d1?utm_campaign=Consultant&utm_source=1103)** | Sturgeon Bay, WI | On Site | Oct 15 |
-| ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68afc90213563e782a9f10bd?utm_campaign=Consultant&utm_source=1103)** | Presque Isle, ME | On Site | Oct 15 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d44b5ed63844c944b2419?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 14 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
@@ -112,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68cd2ca91ad6b16f028961c4?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 | ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/68c88a54983e6768bc54ea8a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 07 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/68ccd7d977add66568aba299?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Financial Consultant - Austin, TX](https://jobright.ai/jobs/info/6891255cf5ee707a15dbc772?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/68dafe9be9b48513789b0d9c?utm_campaign=Consultant&utm_source=1103)** | New York | On Site | Sep 29 |
 | ↳ | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/68dafd816df7b8311bb15257?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City | On Site | Sep 29 |
 | **[myTrueHR](https://mytruehr.com)** | **[Sales & Business Development Representative (Turf Consultant)](https://jobright.ai/jobs/info/68daf6ea0dffed6f83d2b600?utm_campaign=Consultant&utm_source=1103)** | Kansas, United States | On Site | Sep 29 |
