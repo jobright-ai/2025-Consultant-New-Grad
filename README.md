@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Data Management - Total Portfolio Solutions](https://jobright.ai/jobs/info/68dae7970dffed6f83d2a64d?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 21 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
 | **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[IHFS Consultant](https://jobright.ai/jobs/info/68c87c5695f5211cd2ce5ce9?utm_campaign=Consultant&utm_source=1103)** | Le Mars, IA | On Site | Oct 15 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/68d603981f7fb2169ab15375?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Apartment Insiders](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/68c05d495c5d5f14f46dd02f?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Oct 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/68ccd7d977add66568aba299?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Oct 07 |
