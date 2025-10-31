@@ -74,11 +74,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d44b5ed63844c944b2419?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 14 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
-| **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/68d1870bfa731f61692dff34?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Oct 14 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Oct 14 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Oct 13 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst-Change & Solutions](https://jobright.ai/jobs/info/68d1030017bd5d3415aa8ee7?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Oct 13 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/68d4edade678d65ec7d89592?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 12 |
 | ↳ | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
