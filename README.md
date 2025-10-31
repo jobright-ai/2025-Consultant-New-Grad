@@ -90,8 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cd395ce23def7af55b6e2f?utm_campaign=Consultant&utm_source=1103)** | Fullerton, CA | On Site | Oct 10 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6893b7f54c7e851b90adfcac?utm_campaign=Consultant&utm_source=1103)** | Doral, FL | On Site | Oct 10 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/689408304c7e851b90ae2369?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 10 |
-| **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/68cfe4efdbd9fb154edeb941?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 09 |
-| ↳ | **[Consultant I](https://jobright.ai/jobs/info/68cc33bb128dc347fd920ced?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Oct 09 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
