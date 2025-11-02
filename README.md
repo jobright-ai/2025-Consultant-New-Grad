@@ -77,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Oct 14 |
 | **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d3effed63844c944b2369?utm_campaign=Consultant&utm_source=1103)** | Clermont, FL | On Site | Oct 13 |
-| **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/68d4edade678d65ec7d89592?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Oct 12 |
-| ↳ | **[Junior Consultant](https://jobright.ai/jobs/info/68d4bb758c62e63bc7febfe6?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Oct 12 |
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6795c0de7a58c4606e6c826e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d7574c295f8e37655d53d3?utm_campaign=Consultant&utm_source=1103)** | Summerfield, FL | On Site | Oct 11 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68985a5afaa4e875e824ef26?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Oct 11 |
