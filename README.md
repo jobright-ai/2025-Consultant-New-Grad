@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 29 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Associate Consultant, Data Management - Total Portfolio Solutions](https://jobright.ai/jobs/info/68dae7970dffed6f83d2a64d?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 21 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
 | **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[IHFS Consultant](https://jobright.ai/jobs/info/68c87c5695f5211cd2ce5ce9?utm_campaign=Consultant&utm_source=1103)** | Le Mars, IA | On Site | Oct 15 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68ca1b00f61c922772a72c42?utm_campaign=Consultant&utm_source=1103)** | Pleasant Prairie, WI | On Site | Oct 15 |
