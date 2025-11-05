@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 04 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68930090f47efe2113961fcc?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Oct 16 |
 | **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[IHFS Consultant](https://jobright.ai/jobs/info/68c87c5695f5211cd2ce5ce9?utm_campaign=Consultant&utm_source=1103)** | Le Mars, IA | On Site | Oct 15 |
@@ -72,9 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68c9b42b95f5211cd2cf32d1?utm_campaign=Consultant&utm_source=1103)** | Sturgeon Bay, WI | On Site | Oct 15 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d44b5ed63844c944b2419?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 14 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Oct 14 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Oct 14 |
-| **[WTWH Media LLC](http://www.wtwhmedia.com/)** | **[Associate Editor - Consulting-Specifying Engineer (csemag.com)](https://jobright.ai/jobs/info/68d319788c62e63bc7fddc6b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 13 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68db57d1e19b9e63ba20b073?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Oct 08 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[P&C Insurance Product/Forms Consultant](https://jobright.ai/jobs/info/68d71515894705799a2f096e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Remote | Oct 08 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/68b91c51ea901c0d269fc57d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Oct 08 |
