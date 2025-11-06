@@ -288,16 +288,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a531c4a1b456627b063c1?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a4e4ed046ab6061cdae5a?utm_campaign=Consultant&utm_source=1103)** | Sacramento, California, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a5456bcccf20de59e1000?utm_campaign=Consultant&utm_source=1103)** | San Diego, California, United States | On Site | Nov 02 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a50844a1b456627b0611a?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a50984a1b456627b06136?utm_campaign=Consultant&utm_source=1103)** | Columbus, Ohio, United States | On Site | Nov 02 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a50844a1b456627b0611a?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Nov 02 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a5496bcccf20de59e1037?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a557cd046ab6061cdb471?utm_campaign=Consultant&utm_source=1103)** | Stamford, Connecticut, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a51bcbcccf20de59e0d57?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, California, United States | On Site | Nov 02 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a5496bcccf20de59e1037?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a52dd4a1b456627b0637e?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Nov 02 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a54164a1b456627b064e4?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California, United States | On Site | Nov 02 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a512ebcccf20de59e0cca?utm_campaign=Consultant&utm_source=1103)** | St. Louis, Missouri, United States | On Site | Nov 02 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a53cabcccf20de59e0f5c?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a56ffd046ab6061cdb55a?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | On Site | Nov 02 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a512ebcccf20de59e0cca?utm_campaign=Consultant&utm_source=1103)** | St. Louis, Missouri, United States | On Site | Nov 02 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a54164a1b456627b064e4?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California, United States | On Site | Nov 02 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a53cabcccf20de59e0f5c?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a51554a1b456627b06211?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 02 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690a50e8bcccf20de59e0c74?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Nov 02 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/6892c15d4c7e851b90ad80c1?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 02 |
@@ -408,6 +408,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Consultant - Clinical Operations, Payer Provider Consulting - Campus 2026](https://jobright.ai/jobs/info/6904262ed64a22104aa97847?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Oct 30 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense & Government Travel Consultant I (entry level) Fort Lee Virginia (onsite)](https://jobright.ai/jobs/info/6905736cff462851feffd7ea?utm_campaign=Consultant&utm_source=1103)** | Fort Lee, NJ | On Site | Oct 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Consultant Prequalification Research Analyst](https://jobright.ai/jobs/info/690409ca63502c0aded6fb4e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Oct 30 |
-| **[Lipson Life Group](lipsonlifegroup.com)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/69041b0663502c0aded7069a?utm_campaign=Consultant&utm_source=1103)** | Remote job | Remote | Oct 30 |
-| **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68f2c5539a65fd3458580d98?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
