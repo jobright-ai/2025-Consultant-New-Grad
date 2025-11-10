@@ -231,12 +231,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8537221b890c277f571c?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84844a1b456627b10050?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84bb4a1b456627b10061?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86744a1b456627b1016d?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b81b3d046ab6061ce4c98?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 05 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86744a1b456627b1016d?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86e7221b890c277f583d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8dcc221b890c277f5b17?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84544a1b456627b1003f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8d25d046ab6061ce519c?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | Hybrid | Nov 05 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84544a1b456627b1003f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8227221b890c277f55c1?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 05 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2fa71f0d9af73038ddb40?utm_campaign=Consultant&utm_source=1103)** | Iselin, NJ | Hybrid | Nov 05 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86e94a1b456627b101b4?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Nov 05 |
@@ -352,5 +352,4 @@ For a complete list, click the following sortable link below:
 | **[quantilope](http://www.quantilope.com/)** | **[Junior Panel Consultant](https://jobright.ai/jobs/info/6900ea78d5259a1b3cfef8ef?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 03 |
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/67962e3bc3b9fb92e624af34?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Hybrid | Nov 03 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday Compensation Post Production Consultant](https://jobright.ai/jobs/info/68cea5d5fb49c96ca6ea262b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 03 |
-| **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Associate Workday Integrations Consultant](https://jobright.ai/jobs/info/690878e34a1b456627af586a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
