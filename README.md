@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Clinical Consultant Pharmacist, Health Plans - Remote](https://jobright.ai/jobs/info/69129d36d1047e3565cfdcac?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Hybrid | Nov 10 |
 | **[LSEG](http://www.lseg.com)** | **[Associate Solution Consultant, Real-Time and Historical Data](https://jobright.ai/jobs/info/691275e5d1047e3565cfcce1?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 10 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate](https://jobright.ai/jobs/info/68b30eb61ade4306aa63ab0f?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Nov 10 |
+| **[LSEG](http://www.lseg.com)** | **[Associate Solution Consultant, Real-Time and Historical Data](https://jobright.ai/jobs/info/6912a243d1047e3565cfde2a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 10 |
 | **[PreSales Collective](https://www.presalescollective.com)** | **[Solutions Consultant – Mid Market](https://jobright.ai/jobs/info/6912697dc98948514c47b82e?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | Hybrid | Nov 10 |
+| **[Crowe](https://www.crowe.com/)** | **[Technology Advisory Consultant](https://jobright.ai/jobs/info/691298e9ea9ab01b82bf3b32?utm_campaign=Consultant&utm_source=1103)** | Chicago IL USA | Hybrid | Nov 10 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant](https://jobright.ai/jobs/info/69125f37ea9ab01b82bf1f36?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Nov 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Eligibility Consultant](https://jobright.ai/jobs/info/69127e50c98948514c47c354?utm_campaign=Consultant&utm_source=1103)** | East Lansing, MI | Hybrid | Nov 10 |
 | **[LSEG](http://www.lseg.com)** | **[Associate Solution Consultant, Real-Time and Historical Data](https://jobright.ai/jobs/info/6912596dc98948514c47ad06?utm_campaign=Consultant&utm_source=1103)** | USA-New York-28 Liberty Street | On Site | Nov 10 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Consultant - Ansible Automation Platform](https://jobright.ai/jobs/info/691255f5c98948514c47aa84?utm_campaign=Consultant&utm_source=1103)** | California, United States | Remote | Nov 10 |
 | ↳ | **[Consultant - Ansible Automation Platform](https://jobright.ai/jobs/info/691255bbc98948514c47aa51?utm_campaign=Consultant&utm_source=1103)** | Minnesota, United States | Remote | Nov 10 |
 | **[Paycor](http://www.paycor.com)** | **[Bilingual Implementation Consultant - Digital Payroll](https://jobright.ai/jobs/info/691254acd1047e3565cfb651?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 10 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Associate Analytics Consultant](https://jobright.ai/jobs/info/6912549fc98948514c47a981?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Remote | Nov 10 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69124ad0ea9ab01b82bf115e?utm_campaign=Consultant&utm_source=1103)** | Forest Hills/106-19 Continental Ave/110015 | On Site | Nov 10 |
 | **[Paychex](https://www.paychex.com/)** | **[Bilingual Implementation Consultant - Digital Payroll](https://jobright.ai/jobs/info/691267ced1047e3565cfc42d?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 10 |
 | **[Simple Higher Ed](http://simplesyllabus.com/)** | **[Implementation Consultant](https://jobright.ai/jobs/info/69126fd7d1047e3565cfca10?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Nov 10 |
@@ -112,15 +114,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118ce0183be660d267c634?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 09 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology (Entry Level)](https://jobright.ai/jobs/info/6911846f988c2b7b4ec55032?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Nov 09 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118172183be660d267c444?utm_campaign=Consultant&utm_source=1103)** | Wellesley, MA | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911743fbb519377733ef496?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117471bb519377733ef4a4?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172b2183be660d267bfe7?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172a0183be660d267bfe0?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911724f988c2b7b4ec54bdf?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117245988c2b7b4ec54bdc?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fa0988c2b7b4ec54989?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54985?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f96183be660d267bda0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Associate Analytics Consultant](https://jobright.ai/jobs/info/6912b157c98948514c47d33b?utm_campaign=Consultant&utm_source=1103)** | Shawnee, OK | Remote | Nov 09 |
 | **[Yardi](https://www.yardi.com)** | **[Solutions Consultant – Mid Market](https://jobright.ai/jobs/info/691134cc988c2b7b4ec53a49?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | Hybrid | Nov 09 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Associate Analytics Consultant](https://jobright.ai/jobs/info/69126403c98948514c47b375?utm_campaign=Consultant&utm_source=1103)** | Idaho, United States | Remote | Nov 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68774c7d5cebcd1dd51d23f6?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Nov 09 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6910b2f5988c2b7b4ec526c9?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 09 |
 | **[Surefire Cyber Inc.](https://surefirecyber.com)** | **[Consultant, Restoration and Remediation (Remote)](https://jobright.ai/jobs/info/688aa24509808a6103e50444?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 09 |
@@ -282,18 +284,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690bbd864a1b456627b12360?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | On Site | Nov 05 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2fbc5f0d9af73038ddca7?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Nov 05 |
 | ↳ | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2fe31f0d9af73038ddfe8?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 05 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b92d5d046ab6061ce551e?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8717d046ab6061ce4fa6?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Nov 05 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8717d046ab6061ce4fa6?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Nov 05 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b92d5d046ab6061ce551e?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b959bd046ab6061ce57a4?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84bad046ab6061ce4dfc?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b860b221b890c277f57b2?utm_campaign=Consultant&utm_source=1103)** | Greater Indianapolis | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b83add046ab6061ce4d7c?utm_campaign=Consultant&utm_source=1103)** | Greater Sacramento | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b863a4a1b456627b10146?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Nov 05 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b83add046ab6061ce4d7c?utm_campaign=Consultant&utm_source=1103)** | Greater Sacramento | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8537221b890c277f571c?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84844a1b456627b10050?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84bb4a1b456627b10061?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b81b3d046ab6061ce4c98?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86744a1b456627b1016d?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 05 |
+| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b81b3d046ab6061ce4c98?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b86e7221b890c277f583d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8dcc221b890c277f5b17?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Nov 05 |
 | ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b84544a1b456627b1003f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Nov 05 |
@@ -340,7 +342,6 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687e1823db19f31cf0d68236?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Nov 04 |
 | ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68ee28acd078b81ad1601d75?utm_campaign=Consultant&utm_source=1103)** | Bakersfield, CA | On Site | Nov 04 |
 | **[Manuel Builders, LLC](https://www.manuelbuilders.com/)** | **[Assistant Building Consultant](https://jobright.ai/jobs/info/690a43a3bcccf20de59e0564?utm_campaign=Consultant&utm_source=1103)** | Baton Rouge, LA, US | On Site | Nov 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Associate Analytics Consultant](https://jobright.ai/jobs/info/691219b9ea9ab01b82bef7f3?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Remote | Nov 04 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/690a1ecad046ab6061cd95e5?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC (South - Steele Creek) | On Site | Nov 04 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I](https://jobright.ai/jobs/info/690a1ca6bcccf20de59df0e4?utm_campaign=Consultant&utm_source=1103)** | Albany, MN | On Site | Nov 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Associate Delivery Consultant - Security, Amazon Web Services Professional Services](https://jobright.ai/jobs/info/68edc7be70b66e2345d40d2c?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Nov 04 |
@@ -348,8 +349,4 @@ For a complete list, click the following sortable link below:
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I](https://jobright.ai/jobs/info/690a1766d046ab6061cd920d?utm_campaign=Consultant&utm_source=1103)** | Sauk Centre, MN | On Site | Nov 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Associate Delivery Consultant - Security, Amazon Web Services Professional Services](https://jobright.ai/jobs/info/68edbd916335d3323612b27b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | Nov 04 |
 | ↳ | **[Associate Delivery Consultant - Security, Amazon Web Services Professional Services](https://jobright.ai/jobs/info/68edbb4181fdd1626d39eb13?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Nov 04 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[TR3 BUSINESS CONSULTANT JUNIOR - 10292025-72605](https://jobright.ai/jobs/info/6901aee1d5259a1b3cff7306?utm_campaign=Consultant&utm_source=1103)** | Davidson County, TN | On Site | Nov 04 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Nov 04 |
-| **[TopBloc](http://topbloc.com/)** | **[Workday Recruiting Consultant](https://jobright.ai/jobs/info/6899c92a83d13d1f5b694583?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 04 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68ed9ce76335d3323612a3c4?utm_campaign=Consultant&utm_source=1103)** | Dulles, VA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
