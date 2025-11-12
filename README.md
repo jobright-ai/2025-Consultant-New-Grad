@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yardi](https://www.yardi.com)** | **[Solutions Consultant – Mid Market](https://jobright.ai/jobs/info/69143068d1047e3565d09bbd?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | Hybrid | Nov 11 |
+| **[Valorantum](valorantum.us)** | **[Finance and Consulting Associate](https://jobright.ai/jobs/info/691430551465e02904e9b401?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Remote | Nov 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69140897e344172248f76246?utm_campaign=Consultant&utm_source=1103)** | West Chester, OH | On Site | Nov 11 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/686ff39906ad7073463b9f15?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 11 |
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Analyst, Health Care Consulting](https://jobright.ai/jobs/info/6913ec7ee344172248f75288?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 11 |
@@ -173,11 +175,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118ce0183be660d267c634?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 09 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology (Entry Level)](https://jobright.ai/jobs/info/6911846f988c2b7b4ec55032?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Nov 09 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118172183be660d267c444?utm_campaign=Consultant&utm_source=1103)** | Wellesley, MA | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911743fbb519377733ef496?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117471bb519377733ef4a4?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172b2183be660d267bfe7?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172a0183be660d267bfe0?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911724f988c2b7b4ec54bdf?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117245988c2b7b4ec54bdc?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fa0988c2b7b4ec54989?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54985?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f96183be660d267bda0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | **[CGI](https://www.cgi.com)** | **[SAP S/4HANA Testing/Functional Consultant (Jr./Mid) - U.S. Citizenship Required](https://jobright.ai/jobs/info/6913d06de344172248f745fe?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | Hybrid | Nov 09 |
@@ -310,18 +312,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67f99193da59ed6b6d1fb85d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 05 |
 | **[WorldStrides](https://worldstrides.com)** | **[International Program Consultant](https://jobright.ai/jobs/info/690b94e9d046ab6061ce571f?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 05 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6787f32c073bc31b89333b17?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant -  Albuquerque & Santa Fe](https://jobright.ai/jobs/info/68ed813f70b66e2345d3e97a?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Nov 05 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b8009221b890c277f5491?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b7fe4221b890c277f5479?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b7f114a1b456627b0fd71?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b7d6e221b890c277f5343?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b7c7b221b890c277f52cb?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Nov 05 |
-| ↳ | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b7c2f4a1b456627b0fc3c?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Nov 05 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d755ec7a37c712687c8bfc?utm_campaign=Consultant&utm_source=1103)** | Pearland, TX | On Site | Nov 05 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/68cec127dbd9fb154ede2834?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Nov 05 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Salesforce MarTech Consultant](https://jobright.ai/jobs/info/690b76ac4a1b456627b0fa9a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 05 |
-| **[Iterable](https://www.iterable.com/)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/690b95abd046ab6061ce57b1?utm_campaign=Consultant&utm_source=1103)** | REMOTE - US | Remote | Nov 05 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68a3ce1737d3cc6b0d579c0b?utm_campaign=Consultant&utm_source=1103)** | Concord, NH | On Site | Nov 05 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/687d44b5ed63844c944b2419?utm_campaign=Consultant&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 05 |
-| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/687d3f67ed63844c944b239e?utm_campaign=Consultant&utm_source=1103)** | Roswell, GA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
