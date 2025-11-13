@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Consultant, Data Management](https://jobright.ai/jobs/info/6915a4749c388539cbdf5095?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Nov 13 |
 | **[Datavant](https://datavant.com)** | **[Provider Practice Coding Consultant](https://jobright.ai/jobs/info/6902dd35ff462851fefe71dd?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Nov 12 |
 | **[Essex Property Trust](http://www.essexpropertytrust.com)** | **[Application Consultant](https://jobright.ai/jobs/info/691552769c388539cbdf283a?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Nov 12 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691536cb9c388539cbdf1924?utm_campaign=Consultant&utm_source=1103)** | Nashville (Donelson area), TN | On Site | Nov 12 |
 | **[Syssero®](https://www.syssero.com)** | **[Workday Consultant (Functional Financial) - ASCENT Program](https://jobright.ai/jobs/info/69152b07286ccf0a1512be79?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/68f2c5d89a65fd3458580e36?utm_campaign=Consultant&utm_source=1103)** | Seattle, Washington, United States | Hybrid | Nov 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Functional Consultant - SuiteVets](https://jobright.ai/jobs/info/69151a149c388539cbdf0857?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 12 |
+| ↳ | **[Oracle NetSuite Functional Consultant - SuiteVets](https://jobright.ai/jobs/info/691517306f36db06ef04b966?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | ↳ | **[Oracle NetSuite Functional Consultant - SuiteVets](https://jobright.ai/jobs/info/69151718286ccf0a1512b226?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 12 |
-| ↳ | **[Oracle NetSuite Functional Consultant - SuiteVets](https://jobright.ai/jobs/info/6915166f286ccf0a1512b1e1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Syssero®](https://www.syssero.com)** | **[Workday Consultant (Technical) - ASCENT Program](https://jobright.ai/jobs/info/69153e5d9c388539cbdf1c25?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Functional Consultant - SuiteVets](https://jobright.ai/jobs/info/691533b06f36db06ef04ca3c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Radiology Imaging) - Full Time - Remote](https://jobright.ai/jobs/info/6914fd7d286ccf0a1512a12c?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Nov 12 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6914b2236f36db06ef048541?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Nov 12 |
 | **[Transamerica](http://www.transamerica.com)** | **[Regional Retirement Consultant](https://jobright.ai/jobs/info/68dc7c24a125e75c422a114a?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Nov 12 |
-| **[Voya Financial](https://www.voya.com/)** | **[Regional Consultant](https://jobright.ai/jobs/info/68f7b6a45dc1be6012819bb3?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Nov 12 |
+| **[Voya Financial](https://www.voya.com/)** | **[Regional Consultant](https://jobright.ai/jobs/info/68f7b20ab0edcf159dc86b25?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Nov 12 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Reseller Payroll](https://jobright.ai/jobs/info/68f7f48bec6dbe7073fcf2b0?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 12 |
 | **[Voya Financial](https://www.voya.com/)** | **[Regional Consultant](https://jobright.ai/jobs/info/68f7a2e15dc1be6012817a57?utm_campaign=Consultant&utm_source=1103)** | Braintree, MA | On Site | Nov 12 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Reseller Payroll](https://jobright.ai/jobs/info/68f7fd6e5dc1be601281fa91?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 12 |
@@ -215,13 +216,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118ce0183be660d267c634?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 09 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology (Entry Level)](https://jobright.ai/jobs/info/6911846f988c2b7b4ec55032?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Nov 09 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118172183be660d267c444?utm_campaign=Consultant&utm_source=1103)** | Wellesley, MA | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117471bb519377733ef4a4?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911743fbb519377733ef496?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172b2183be660d267bfe7?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117245988c2b7b4ec54bdc?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fc6183be660d267bda6?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fa0988c2b7b4ec54989?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54984?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54985?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f96183be660d267bda0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68774c7d5cebcd1dd51d23f6?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Nov 09 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6910b2f5988c2b7b4ec526c9?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 09 |
 | **[Surefire Cyber Inc.](https://surefirecyber.com)** | **[Consultant, Restoration and Remediation (Remote)](https://jobright.ai/jobs/info/688aa24509808a6103e50444?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 09 |
@@ -247,6 +248,7 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Graduate Acoustic/Audio Visual Consultant (Available 2026)](https://jobright.ai/jobs/info/6906e902ff462851fe00604f?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 08 |
 | ↳ | **[Graduate Acoustic/Audio Visual Consultant (Available 2026)](https://jobright.ai/jobs/info/690872e0d046ab6061cc9d3b?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 08 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Consultant, Management Consulting](https://jobright.ai/jobs/info/690f04d4d046ab6061d02ca6?utm_campaign=Consultant&utm_source=1103)** | Towson, MD | Hybrid | Nov 08 |
+| **[SFM - The Work Comp Experts](https://www.sfmic.com/)** | **[Risk and Safety Consultant](https://jobright.ai/jobs/info/6915a2459c388539cbdf4e07?utm_campaign=Consultant&utm_source=1103)** | Wisconsin, United States | Hybrid | Nov 08 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69040dab63502c0aded6fd88?utm_campaign=Consultant&utm_source=1103)** | Washington, DC, 20001 | On Site | Nov 07 |
 | **[bp](https://www.bp.com)** | **[Digital Transformation Analyst](https://jobright.ai/jobs/info/690ed39944146d3b6ec581ac?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 07 |
 | **[PerfectServe](http://www.perfectserve.com/)** | **[Software Implementation Consultant - US Remote (PST or MST)](https://jobright.ai/jobs/info/690e9331d046ab6061cfef43?utm_campaign=Consultant&utm_source=1103)** | Knoxville, TN | Remote | Nov 07 |
@@ -306,7 +308,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/690d109bd046ab6061cf23a2?utm_campaign=Consultant&utm_source=1103)** | Crescent City, CA | On Site | Nov 06 |
 | **[Educe](https://educegroup.com)** | **[Implementation Consultant - Compliance Software](https://jobright.ai/jobs/info/690e7638221b890c2780e44a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 06 |
 | **[Vantage Point Consulting, Inc.](https://www.vantagepoint-inc.com)** | **[Education Solutions Consultant](https://jobright.ai/jobs/info/690d1dc6d046ab6061cf2fe2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 06 |
-| **[TWE Connects LLC](www.tweaudits.com)** | **[Commissioning Consultant](https://jobright.ai/jobs/info/6902590000a1816c41e9d2ef?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Nov 06 |
-| **[Lincoln Property Company](http://www.lpc.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/690cf770d046ab6061cf1002?utm_campaign=Consultant&utm_source=1103)** | Huntington Beach, CA | On Site | Nov 06 |
-| **[Align Communications & Creative](https://www.linkedin.com/company/7601299)** | **[Entry-Level Engineer – Data Center Strategy & Critical Facilities Consulting](https://jobright.ai/jobs/info/690d1f34d046ab6061cf3158?utm_campaign=Consultant&utm_source=1103)** | Iselin, NJ | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
