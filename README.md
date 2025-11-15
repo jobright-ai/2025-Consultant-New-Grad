@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6918bf4645fb6f5ead8a6b0d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 15 |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/682f39c8e14223a4c16061b1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 15 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68c32b315adaee6c9bda7dac?utm_campaign=Consultant&utm_source=1103)** | Nashua, NH | On Site | Nov 15 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Success Consultant – Full Training Provided](https://jobright.ai/jobs/info/6918b5c315b4156367183852?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 15 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918aed4bcdbf3560c9d3390?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918aed1bcdbf3560c9d338e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 15 |
+| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/68dff446b99ec3563b0ca818?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 15 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918aebcbcdbf3560c9d3380?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918ae2215b4156367183592?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918adff45fb6f5ead8a66bb?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918ad33bcdbf3560c9d32ed?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Nov 15 |
+| ↳ | **[Functional Consultant, Technology & Transformation - Future of Service (CCaaS)](https://jobright.ai/jobs/info/6918a4a015b41563671833b3?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 15 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Associate Health Management Consultant - Employer Services](https://jobright.ai/jobs/info/68fbb82a93c49825ab10513e?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Nov 15 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918a16a45fb6f5ead8a63f2?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Nov 15 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918a14545fb6f5ead8a63da?utm_campaign=Consultant&utm_source=1103)** | Mission, British Columbia, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918a0fbbcdbf3560c9d3034?utm_campaign=Consultant&utm_source=1103)** | Chilliwack, British Columbia, Canada | Hybrid | Nov 15 |
@@ -66,13 +79,19 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Nov 15 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/69189d9715b4156367183179?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[Press Ganey](http://www.moreheadassociates.com)** | **[Technical Consultant](https://jobright.ai/jobs/info/68cd1b96e23def7af55b5835?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Nov 15 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/69189ace15b415636718304f?utm_campaign=Consultant&utm_source=1103)** | SLC Metro Area | Hybrid | Nov 15 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918bdb4bcdbf3560c9d3712?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918be6cbcdbf3560c9d3753?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/69189ace15b415636718304f?utm_campaign=Consultant&utm_source=1103)** | SLC Metro Area | Hybrid | Nov 15 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918997845fb6f5ead8a616a?utm_campaign=Consultant&utm_source=1103)** | Victoria, British Columbia, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918993c45fb6f5ead8a6153?utm_campaign=Consultant&utm_source=1103)** | Newfoundland and Labrador, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918993abcdbf3560c9d2e10?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918981345fb6f5ead8a60c0?utm_campaign=Consultant&utm_source=1103)** | Surrey, British Columbia, Canada | Hybrid | Nov 15 |
-| ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/69189672bcdbf3560c9d2c97?utm_campaign=Consultant&utm_source=1103)** | Summerside, Prince Edward Island, Canada | Hybrid | Nov 15 |
-| ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918944215b4156367182e65?utm_campaign=Consultant&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Nov 15 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918b61e15b4156367183877?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 15 |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/69189672bcdbf3560c9d2c97?utm_campaign=Consultant&utm_source=1103)** | Summerside, Prince Edward Island, Canada | Hybrid | Nov 15 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918b3fc45fb6f5ead8a688e?utm_campaign=Consultant&utm_source=1103)** | Costa Mesa, CA | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918b4fd45fb6f5ead8a690d?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Nov 15 |
+| ↳ | **[Oracle Cloud Finance Consultant](https://jobright.ai/jobs/info/6918ba4515b41563671838e8?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | Hybrid | Nov 15 |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918944215b4156367182e65?utm_campaign=Consultant&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918941215b4156367182e56?utm_campaign=Consultant&utm_source=1103)** | Mount Pearl, Newfoundland and Labrador, Canada | Hybrid | Nov 15 |
 | ↳ | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918938315b4156367182e0c?utm_campaign=Consultant&utm_source=1103)** | Cambridge, Ontario, Canada | Hybrid | Nov 15 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Specialized Travel Consultant (Amex GBT Ovation- Washington D.C Onsite)](https://jobright.ai/jobs/info/6918936e15b4156367182e02?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Nov 15 |
@@ -116,7 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Consultant](https://jobright.ai/jobs/info/69178bb445fb6f5ead89bf56?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Nov 14 |
 | **[Thoughtworks](http://www.thoughtworks.com)** | **[Consultant Graduate Developer](https://jobright.ai/jobs/info/691774bb3ea85638ae1cac22?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois | On Site | Nov 14 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle HCM Cloud Consultant](https://jobright.ai/jobs/info/691750f33ea85638ae1c9ae2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 14 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/691749b6370fde633d07ee9b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 14 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, IT Business Analyst (Plano, TX)](https://jobright.ai/jobs/info/68fa7680b2c86843bf20db87?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | On Site | Nov 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688ad7e8aab47a17f670bbdc?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Nov 14 |
 | **[RSM Canada](https://rsmcanada.com/)** | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/69176c83370fde633d07fd91?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Nov 14 |
@@ -130,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Denver Health](http://www.denverhealth.org)** | **[Psychologist - Infant Mental Health and Healthy Steps Behavioral Health Consultant](https://jobright.ai/jobs/info/68dfa3126be63b6ec9972238?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Nov 14 |
 | **[Yardi](https://www.yardi.com)** | **[Solutions Consultant – Mid Market](https://jobright.ai/jobs/info/69172600bcdbf3560c9c5945?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | Hybrid | Nov 14 |
 | **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69175c42370fde633d07f633?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 14 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Client Success Consultant – Full Training Provided](https://jobright.ai/jobs/info/6918494045fb6f5ead8a42f1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 14 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Corporate Trust Relationship Consultant](https://jobright.ai/jobs/info/68d1a8c98c62e63bc7fce1d6?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Nov 14 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68fae2308d32c164778cc45c?utm_campaign=Consultant&utm_source=1103)** | Waltham, MA | On Site | Nov 14 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68df1ecc5ab4977c2e950776?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Nov 14 |
@@ -187,7 +204,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Tacoma, WA | On Site | Nov 13 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Plastic Surgery 3D Program Analyst](https://jobright.ai/jobs/info/68ddd9f5ddc10244dd6841ae?utm_campaign=Consultant&utm_source=1103)** | Providence, RI | On Site | Nov 13 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Associate - Healthcare Risk Consulting](https://jobright.ai/jobs/info/691630fe6f36db06ef0539c8?utm_campaign=Consultant&utm_source=1103)** | Tampa | On Site | Nov 13 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Insights Analyst](https://jobright.ai/jobs/info/69037b1863502c0aded6916c?utm_campaign=Consultant&utm_source=1103)** | Camden, NJ | On Site | Nov 13 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/6915cad4286ccf0a15130bd0?utm_campaign=Consultant&utm_source=1103)** | Willowick, OH | On Site | Nov 13 |
 | ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68f9f37b089c7e2b4457f635?utm_campaign=Consultant&utm_source=1103)** | Staten Island, NY | On Site | Nov 13 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f947b06de2db04dc3e7b47?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Nov 13 |
@@ -333,10 +349,10 @@ For a complete list, click the following sortable link below:
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology (Entry Level)](https://jobright.ai/jobs/info/6911846f988c2b7b4ec55032?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Nov 09 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118172183be660d267c444?utm_campaign=Consultant&utm_source=1103)** | Wellesley, MA | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117471bb519377733ef4a4?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911743fbb519377733ef496?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172b2183be660d267bfe7?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172a0183be660d267bfe0?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911724f988c2b7b4ec54bdf?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117245988c2b7b4ec54bdc?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fc6183be660d267bda6?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54985?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f96183be660d267bda0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68774c7d5cebcd1dd51d23f6?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Nov 09 |
