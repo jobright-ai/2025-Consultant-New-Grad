@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capvision](https://www.capvision.com)** | **[Associate/Sr. Associate, Client Services - Consulting Client Strategy](https://jobright.ai/jobs/info/690a6e78d046ab6061cdc7e2?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 15 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/6918dbeabcdbf3560c9d3b50?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Nov 15 |
 | **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/6918d070bcdbf3560c9d39df?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 15 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6918c49615b4156367183ac0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 15 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Thoughtworks](http://www.thoughtworks.com)** | **[Consultant Graduate Developer](https://jobright.ai/jobs/info/6917868045fb6f5ead89bb22?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Nov 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d77556295f8e37655d9cb7?utm_campaign=Consultant&utm_source=1103)** | Temple, TX | On Site | Nov 14 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/69179789bcdbf3560c9c93b5?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 14 |
-| ↳ | **[Graduate Consultant](https://jobright.ai/jobs/info/69178a20bcdbf3560c9c8a17?utm_campaign=Consultant&utm_source=1103)** | New Haven, CT | On Site | Nov 14 |
 | ↳ | **[Graduate Consultant](https://jobright.ai/jobs/info/69178bb445fb6f5ead89bf56?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | On Site | Nov 14 |
+| ↳ | **[Graduate Consultant](https://jobright.ai/jobs/info/69178a20bcdbf3560c9c8a17?utm_campaign=Consultant&utm_source=1103)** | New Haven, CT | On Site | Nov 14 |
 | **[Thoughtworks](http://www.thoughtworks.com)** | **[Consultant Graduate Developer](https://jobright.ai/jobs/info/691774bb3ea85638ae1cac22?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois | On Site | Nov 14 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle HCM Cloud Consultant](https://jobright.ai/jobs/info/691750f33ea85638ae1c9ae2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 14 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, IT Business Analyst (Plano, TX)](https://jobright.ai/jobs/info/68fa7680b2c86843bf20db87?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | On Site | Nov 14 |
@@ -349,13 +350,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118ce0183be660d267c634?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 09 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Geology (Entry Level)](https://jobright.ai/jobs/info/6911846f988c2b7b4ec55032?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Nov 09 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69118172183be660d267c444?utm_campaign=Consultant&utm_source=1103)** | Wellesley, MA | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117471bb519377733ef4a4?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/6911743fbb519377733ef496?utm_campaign=Consultant&utm_source=1103)** | Baltimore, Maryland | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/691172b2183be660d267bfe7?utm_campaign=Consultant&utm_source=1103)** | Wellesley Hills, Massachusetts | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69117245988c2b7b4ec54bdc?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fc6183be660d267bda6?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, Wisconsin | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116fa0988c2b7b4ec54989?utm_campaign=Consultant&utm_source=1103)** | Portland, ME | On Site | Nov 09 |
+| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54984?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f9a988c2b7b4ec54985?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee | On Site | Nov 09 |
-| ↳ | **[Absence & Disability Consultant](https://jobright.ai/jobs/info/69116f96183be660d267bda0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT Office | On Site | Nov 09 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68774c7d5cebcd1dd51d23f6?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, United States | On Site | Nov 09 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6910b2f5988c2b7b4ec526c9?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 09 |
 | **[Surefire Cyber Inc.](https://surefirecyber.com)** | **[Consultant, Restoration and Remediation (Remote)](https://jobright.ai/jobs/info/688aa24509808a6103e50444?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 09 |
