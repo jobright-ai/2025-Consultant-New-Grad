@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/69278d1cd47de4798ecde5ed?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
+| ↳ | **[Sales and Design Consultant](https://jobright.ai/jobs/info/69278c2f91ceeb2e8a541115?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | On Site | Nov 26 |
+| **[Infosys](http://www.infosys.com)** | **[CAE Application Maintenance and Support Consultant](https://jobright.ai/jobs/info/69278a6391ceeb2e8a540eba?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Westwood, MA](https://jobright.ai/jobs/info/69278718d47de4798ecde0e9?utm_campaign=Consultant&utm_source=1103)** | Westwood, MA | Hybrid | Nov 26 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Vitality and Wellbeing Solutions Coordinator](https://jobright.ai/jobs/info/69277d6fd47de4798ecdd484?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 26 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/69276faaf0beb0723262a2ec?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Nov 26 |
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69276d6991ceeb2e8a53f28e?utm_campaign=Consultant&utm_source=1103)** | Livermore, CA | On Site | Nov 26 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Associate Business Consultant](https://jobright.ai/jobs/info/69275caed47de4798ecdbd0e?utm_campaign=Consultant&utm_source=1103)** | TX - Richardson | Hybrid | Nov 26 |
@@ -352,8 +357,8 @@ For a complete list, click the following sortable link below:
 | **[Mercer](http://www.mercer.com)** | **[Talent & Rewards Consulting Senior Analyst](https://jobright.ai/jobs/info/691f7a0d09cc522e87741c15?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Nov 20 |
 | ↳ | **[Talent & Rewards Consulting Senior Analyst](https://jobright.ai/jobs/info/691f9cde3f782d2f1afbe8dd?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 20 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69204bac00c9ee50eaec10bd?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 20 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/691fb3a209cc522e87744911?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 20 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69203bb43f782d2f1afc3d9a?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Nov 20 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/691fb3a209cc522e87744911?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 20 |
 | **[Mercer](http://www.mercer.com)** | **[Talent & Rewards Consulting Senior Analyst](https://jobright.ai/jobs/info/691f892909cc522e877429d6?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
 | ↳ | **[Talent & Rewards Consulting Senior Analyst](https://jobright.ai/jobs/info/691f8dff09cc522e87742da2?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Nov 20 |
 | ↳ | **[Talent & Rewards Consulting Senior Analyst](https://jobright.ai/jobs/info/691f941609cc522e877433cd?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 20 |
@@ -386,8 +391,7 @@ For a complete list, click the following sortable link below:
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/6905a545122e8474c78da94b?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Nov 20 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/691f546009cc522e8773fa7c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Nov 20 |
 | **[Capvision](https://www.capvision.com)** | **[Associate/Sr. Associate, Client Services - Consulting Client Strategy](https://jobright.ai/jobs/info/690a6e78d046ab6061cdc7e2?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 20 |
-| **[Specsavers](https://www.specsavers.co.uk)** | **[Full-Time Eyecare Consultant](https://jobright.ai/jobs/info/691db209748c4e1301ec7a21?utm_campaign=Consultant&utm_source=1103)** | West Vancouver, British Columbia, Canada | Hybrid | Nov 20 |
-| ↳ | **[Eyecare Consultant](https://jobright.ai/jobs/info/691ddf8d61dc50590a64b3fa?utm_campaign=Consultant&utm_source=1103)** | Sidney, British Columbia, Canada | Hybrid | Nov 20 |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant](https://jobright.ai/jobs/info/691ddf8d61dc50590a64b3fa?utm_campaign=Consultant&utm_source=1103)** | Sidney, British Columbia, Canada | Hybrid | Nov 20 |
 | **[myKaarma](http://mykaarma.com)** | **[Junior Application Setup Consultant](https://jobright.ai/jobs/info/69185a49bcdbf3560c9d1a5d?utm_campaign=Consultant&utm_source=1103)** | Long Beach, CA | Hybrid | Nov 20 |
 | **[Cloud5 Communications](http://cloud5.com/)** | **[Travel Consultant - Moncton Onsite](https://jobright.ai/jobs/info/6921c2183f782d2f1afd3bad?utm_campaign=Consultant&utm_source=1103)** | Moncton, NB, CA | Hybrid | Nov 20 |
 | ↳ | **[Travel Consultant - Toronto Onsite](https://jobright.ai/jobs/info/6921c5a3a49a885af9a478d0?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON, CA | Hybrid | Nov 20 |
@@ -401,10 +405,4 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68e6b5131852e62f0081db5c?utm_campaign=Consultant&utm_source=1103)** | Dublin, OH | On Site | Nov 20 |
 | **[TripleLift](http://www.triplelift.com)** | **[Technical Solutions Consultant, Demand](https://jobright.ai/jobs/info/68fc01c5f55bb021a889f5b4?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 20 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/6922e4e938cd5478a8d55aa8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 20 |
-| **[Curinos](https://curinos.com/)** | **[Advisory Associate (Consulting)](https://jobright.ai/jobs/info/691e30e709cc522e87737396?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Nov 20 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/691e4a2b3f782d2f1afb371d?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Nov 20 |
-| ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/691e475609cc522e877386e8?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Nov 20 |
-| ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/691e457ca49a885af9a2704e?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 20 |
-| ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/691e472709cc522e877386b9?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | Hybrid | Nov 20 |
-| ↳ | **[Professional Services Consultant - Data Security](https://jobright.ai/jobs/info/691e4a8b09cc522e87738a01?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
