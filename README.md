@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6880c985f4f06100f3a2105f?utm_campaign=Consultant&utm_source=1103)** | Oxnard, CA | On Site | Nov 28 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Network Management Consultant](https://jobright.ai/jobs/info/6929ea7e66796e3028f8d9d5?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | Hybrid | Nov 28 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f946e5a628d10664e8b633?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Nov 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d7783d7a37c712687ce847?utm_campaign=Consultant&utm_source=1103)** | Greenwood, IN | On Site | Nov 28 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6929c835fa28370be269535d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 28 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/6927e16df0beb0723262eb14?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6927d02fd47de4798ece0b3e?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 26 |
 | **[Exabeam](http://www.exabeam.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927be53f0beb0723262d9f6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927bb4ed47de4798ece0055?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927bce2f0beb0723262d8f5?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[LogRhythm](https://www.logrhythm.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927a6eaf0beb0723262cd16?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
 | **[Ingersoll Automotive](https://www.ingersollautomotive.com)** | **[Automotive Delivery Consultant](https://jobright.ai/jobs/info/6927b54dd47de4798ecdfca0?utm_campaign=Consultant&utm_source=1103)** | Watertown, CT | On Site | Nov 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69279eb1f0beb0723262c978?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 26 |
@@ -315,7 +317,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68cdb2f61ad6b16f0289e0c3?utm_campaign=Consultant&utm_source=1103)** | Clarksburg, WV | On Site | Nov 22 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2026 Bachelor's/Master's graduates) Cyber & Forensic Technology Consulting Analyst/Associate](https://jobright.ai/jobs/info/68c8a4ac95f5211cd2ce7baf?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Nov 22 |
 | **[CGI](https://www.cgi.com)** | **[Security Consultant SME  TS/SCI with Poly REQUIRED](https://jobright.ai/jobs/info/6924049b7795cd460c83a9e5?utm_campaign=Consultant&utm_source=1103)** | Chantilly, VA | On Site | Nov 21 |
-| **[Palladium: Make It Possible](http://www.thepalladiumgroup.com)** | **[Analyst, Client Innovation, GISI Ignite](https://jobright.ai/jobs/info/69213a1c3f782d2f1afd06e0?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 21 |
-| **[Department of Behavioral Health and Developmental Services](http://www.dbhds.virginia.gov/)** | **[Service Authorization Consultant](https://jobright.ai/jobs/info/692134de3f782d2f1afd04c5?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | On Site | Nov 21 |
-| **[Mercer](http://www.mercer.com)** | **[Executive Rewards Consulting Analyst](https://jobright.ai/jobs/info/692119ad00c9ee50eaecbb5d?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
