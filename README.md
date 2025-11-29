@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a412bfa28370be2696b54?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/692a3ab4fa28370be2696ab6?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Nov 28 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a8b7366796e3028f8f216?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 28 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6900f4bf4539ea1f2141afb0?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, MD, 21225 | On Site | Nov 28 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a08ae66796e3028f8e106?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Nov 28 |
 | ↳ | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a03744c474121999cb230?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 28 |
@@ -203,8 +204,8 @@ For a complete list, click the following sortable link below:
 | **[A.M. Crawford, Inc.](https://www.amcrawfordinc.com)** | **[Associate Consultant - Grants Management](https://jobright.ai/jobs/info/691fa05f3f782d2f1afbeb71?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Nov 26 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Career Employment Services Consultant II](https://jobright.ai/jobs/info/6926b536f0beb072326261cb?utm_campaign=Consultant&utm_source=1103)** | Moore County, NC | On Site | Nov 25 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267082f0beb07232624e74?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Nov 25 |
-| ↳ | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267047f0beb07232624e45?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP OTC Retail Consultant - Inventory Visibility, Store Ordering and Replenishment Analyst](https://jobright.ai/jobs/info/69012f4cd5259a1b3cff282b?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Nov 25 |
+| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69268c14d47de4798ecd80cf?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/692656c7d47de4798ecd6888?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Nov 25 |
 | **[The Police Credit Union](https://www.thepolicecu.org/)** | **[Virtual Branch Consultant I](https://jobright.ai/jobs/info/692656a7d47de4798ecd686e?utm_campaign=Consultant&utm_source=1103)** | San Bruno, CA, US | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/69264c0a27bf2f41a2c45170?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Remote | Nov 25 |
@@ -305,7 +306,4 @@ For a complete list, click the following sortable link below:
 | **[Luxury Bath](https://www.luxurybath.com/)** | **[In-Home Design Consultant](https://jobright.ai/jobs/info/6921deb5a49a885af9a47d98?utm_campaign=Consultant&utm_source=1103)** | York, PA | On Site | Nov 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/689408304c7e851b90ae2369?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Nov 22 |
 | **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68e97b750930fe0bc4626519?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Nov 22 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Consultant Relations](https://jobright.ai/jobs/info/6904e12bff462851feff8439?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Nov 22 |
-| ↳ | **[Associate, Consultant Relations](https://jobright.ai/jobs/info/6904d79c122e8474c78d3a10?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 22 |
-| **[WorldStrides](https://worldstrides.com)** | **[International Program Consultant](https://jobright.ai/jobs/info/6905021aff462851feff9876?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
