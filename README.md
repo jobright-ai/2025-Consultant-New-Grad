@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a53794c474121999cbf07?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Nov 28 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a412bfa28370be2696b54?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/692a3ab4fa28370be2696ab6?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Nov 28 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6900f4bf4539ea1f2141afb0?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, MD, 21225 | On Site | Nov 28 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a08ae66796e3028f8e106?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Nov 28 |
 | ↳ | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a03744c474121999cb230?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 28 |
@@ -175,8 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/690acf1e4a1b456627b0ba4a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Nov 26 |
 | ↳ | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/690ad2ca4a1b456627b0bbdb?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Nov 26 |
 | ↳ | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/690ad335bcccf20de59e670f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Inverto / Consultant, Procurement](https://jobright.ai/jobs/info/691ec34309cc522e8773bff6?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Nov 26 |
-| **[Jacobs](http://www.jacobs.com)** | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/690ad142bcccf20de59e6614?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | Hybrid | Nov 26 |
+| ↳ | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/690ad142bcccf20de59e6614?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | Hybrid | Nov 26 |
 | **[Xceptor](http://www.xceptor.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/6927166591ceeb2e8a53c79e?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Nov 26 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2fe31f0d9af73038ddfe8?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Consultant, Sage Intacct Implementation](https://jobright.ai/jobs/info/69270c3cf0beb07232627413?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 26 |
@@ -308,8 +308,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Consultant Relations](https://jobright.ai/jobs/info/6904e12bff462851feff8439?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Nov 22 |
 | ↳ | **[Associate, Consultant Relations](https://jobright.ai/jobs/info/6904d79c122e8474c78d3a10?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[WorldStrides](https://worldstrides.com)** | **[International Program Consultant](https://jobright.ai/jobs/info/6905021aff462851feff9876?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Nov 22 |
-| **[Paychex](https://www.paychex.com/)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/68e978830930fe0bc4626181?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 22 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf5c01ad6b16f028a03a3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Nov 22 |
-| ↳ | **[2026 Cybersecurity Consultant Entry Level Staff](https://jobright.ai/jobs/info/68cdf307e23def7af55c0735?utm_campaign=Consultant&utm_source=1103)** | Schaumburg, IL | On Site | Nov 22 |
-| **[TopBloc](http://topbloc.com/)** | **[Workday Benefits Post Production Consultant](https://jobright.ai/jobs/info/68cd33d9e23def7af55b6c83?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
