@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Energy & Utilities](https://jobright.ai/jobs/info/690e64e544146d3b6ec53aa4?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Nov 29 |
+| **[The Clearing, Inc.](https://theclearing.com)** | **[Analyst (Management Consulting) - Active Top Secret Clearance Required](https://jobright.ai/jobs/info/690e2b76221b890c2780b6a3?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Nov 29 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Consultant, Market Access](https://jobright.ai/jobs/info/68f2c2fd9a65fd3458580b63?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 29 |
+| **[8am](https://www.8am.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/690e9b2bd046ab6061cff331?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Remote | Nov 29 |
+| **[Blytheco](http://www.blytheco.com)** | **[Sage Intacct Consultant](https://jobright.ai/jobs/info/68b8b7b35b42bc45628274a7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 29 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant -  Albuquerque & Santa Fe](https://jobright.ai/jobs/info/68ed813f70b66e2345d3e97a?utm_campaign=Consultant&utm_source=1103)** | Santa Fe, NM | On Site | Nov 29 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/6916ee6d6f36db06ef05aedc?utm_campaign=Consultant&utm_source=1103)** | Guelph, Ontario, Canada | On Site | Nov 29 |
 | **[Workplace Options](http://www.workplaceoptions.com/)** | **[Intakes Consultant](https://jobright.ai/jobs/info/69098bcebcccf20de59dc424?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 29 |
@@ -153,8 +158,8 @@ For a complete list, click the following sortable link below:
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/6927e16df0beb0723262eb14?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6927d02fd47de4798ece0b3e?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 26 |
 | **[Exabeam](http://www.exabeam.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927be53f0beb0723262d9f6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927bce2f0beb0723262d8f5?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[LogRhythm](https://www.logrhythm.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927a6eaf0beb0723262cd16?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b5d591ceeb2e8a54276d?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[Ingersoll Automotive](https://www.ingersollautomotive.com)** | **[Automotive Delivery Consultant](https://jobright.ai/jobs/info/6927b54dd47de4798ecdfca0?utm_campaign=Consultant&utm_source=1103)** | Watertown, CT | On Site | Nov 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69279eb1f0beb0723262c978?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 26 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927b4ca91ceeb2e8a542707?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Nov 26 |
@@ -213,8 +218,8 @@ For a complete list, click the following sortable link below:
 | **[A.M. Crawford, Inc.](https://www.amcrawfordinc.com)** | **[Associate Consultant - Grants Management](https://jobright.ai/jobs/info/691fa05f3f782d2f1afbeb71?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Nov 26 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Career Employment Services Consultant II](https://jobright.ai/jobs/info/6926b536f0beb072326261cb?utm_campaign=Consultant&utm_source=1103)** | Moore County, NC | On Site | Nov 25 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267082f0beb07232624e74?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Nov 25 |
+| ↳ | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267047f0beb07232624e45?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP OTC Retail Consultant - Inventory Visibility, Store Ordering and Replenishment Analyst](https://jobright.ai/jobs/info/69012f4cd5259a1b3cff282b?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Nov 25 |
-| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69268c14d47de4798ecd80cf?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/692656c7d47de4798ecd6888?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Nov 25 |
 | **[The Police Credit Union](https://www.thepolicecu.org/)** | **[Virtual Branch Consultant I](https://jobright.ai/jobs/info/692656a7d47de4798ecd686e?utm_campaign=Consultant&utm_source=1103)** | San Bruno, CA, US | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/69264c0a27bf2f41a2c45170?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Remote | Nov 25 |
