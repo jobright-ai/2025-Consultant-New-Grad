@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Consulting Specialist - Entry Level](https://jobright.ai/jobs/info/692b86ea4c474121999cde08?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 29 |
 | **[Align Communications & Creative](https://www.linkedin.com/company/7601299)** | **[Entry-Level Engineer – Data Center Strategy & Critical Facilities Consulting](https://jobright.ai/jobs/info/692b4b4666796e3028f90669?utm_campaign=Consultant&utm_source=1103)** | Iselin, NJ | On Site | Nov 29 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Actuarial Analyst/Consultant/Senior Consultant - Financial Engineering & Modeling](https://jobright.ai/jobs/info/692b3b4e66796e3028f90515?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Nov 29 |
 | ↳ | **[Actuarial Analyst/Consultant/Senior Consultant - Financial Engineering & Modeling](https://jobright.ai/jobs/info/6916fd0eab115751cca3e2eb?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
@@ -223,8 +224,8 @@ For a complete list, click the following sortable link below:
 | **[A.M. Crawford, Inc.](https://www.amcrawfordinc.com)** | **[Associate Consultant - Grants Management](https://jobright.ai/jobs/info/691fa05f3f782d2f1afbeb71?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Nov 26 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Career Employment Services Consultant II](https://jobright.ai/jobs/info/6926b536f0beb072326261cb?utm_campaign=Consultant&utm_source=1103)** | Moore County, NC | On Site | Nov 25 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267082f0beb07232624e74?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Nov 25 |
-| ↳ | **[Pest Control Consultant](https://jobright.ai/jobs/info/69267047f0beb07232624e45?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP OTC Retail Consultant - Inventory Visibility, Store Ordering and Replenishment Analyst](https://jobright.ai/jobs/info/69012f4cd5259a1b3cff282b?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Nov 25 |
+| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69268c14d47de4798ecd80cf?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/692656c7d47de4798ecd6888?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Nov 25 |
 | **[The Police Credit Union](https://www.thepolicecu.org/)** | **[Virtual Branch Consultant I](https://jobright.ai/jobs/info/692656a7d47de4798ecd686e?utm_campaign=Consultant&utm_source=1103)** | San Bruno, CA, US | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/69264c0a27bf2f41a2c45170?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Remote | Nov 25 |
