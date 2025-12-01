@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TripleLift](http://www.triplelift.com)** | **[Technical Solutions Consultant, Demand](https://jobright.ai/jobs/info/68fc01c5f55bb021a889f5b4?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Nov 30 |
 | **[Better Debt Solutions](https://betterdebtsolutions.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/692cabb34c474121999d0668?utm_campaign=Consultant&utm_source=1103)** | Irvine | On Site | Nov 30 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/692c74724c474121999d017c?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Nov 30 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Assistant Mortgage Loan Consultant](https://jobright.ai/jobs/info/692c6cfefa28370be269b0cc?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | On Site | Nov 30 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a53794c474121999cbf07?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Nov 28 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a412bfa28370be2696b54?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/692a3ab4fa28370be2696ab6?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Nov 28 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a8b7366796e3028f8f216?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 28 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a8b7366796e3028f8f216?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 28 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6900f4bf4539ea1f2141afb0?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, MD, 21225 | On Site | Nov 28 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a08ae66796e3028f8e106?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Nov 28 |
 | ↳ | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a03744c474121999cb230?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 28 |
@@ -306,6 +307,4 @@ For a complete list, click the following sortable link below:
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/69248a91ec574f4265bb44be?utm_campaign=Consultant&utm_source=1103)** | Torrance, CA | Hybrid | Nov 24 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[AssociateDelivery Consultant - App/Dev, Amazon Web Services Professional Services](https://jobright.ai/jobs/info/68eb1a1e76a1db7c5985cdbb?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Nov 24 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday Compensation Post Production Consultant](https://jobright.ai/jobs/info/68cea5d5fb49c96ca6ea262b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 24 |
-| **[Mercer](http://www.mercer.com)** | **[Talent & Rewards Consulting Analyst](https://jobright.ai/jobs/info/69241df238cd5478a8d5934d?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 24 |
-| ↳ | **[Talent & Rewards Consulting Analyst](https://jobright.ai/jobs/info/692417b538cd5478a8d591a6?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
