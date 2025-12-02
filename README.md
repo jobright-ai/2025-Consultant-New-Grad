@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/692ef0bf4c474121999db682?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Dec 02 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/688405266fcd973d15ae526c?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 02 |
+| **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691e567509cc522e877391b2?utm_campaign=Consultant&utm_source=1103)** | Seattle, Washington, United States | Hybrid | Dec 02 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant, Structural Mechanics](https://jobright.ai/jobs/info/6911eeced1047e3565cf8865?utm_campaign=Consultant&utm_source=1103)** | Waltham, MA | On Site | Dec 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/692ed8fb4c474121999db093?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 02 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/69122debea9ab01b82bf01c7?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Dec 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68f650679a65fd34585920f8?utm_campaign=Consultant&utm_source=1103)** | Peoria, IL | On Site | Dec 02 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP Data Migration Consultant](https://jobright.ai/jobs/info/688bbfbc906ac06e1d1ce129?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 02 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68f730baec6dbe7073fb656a?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | On Site | Dec 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68f64c509a63986de757cfc7?utm_campaign=Consultant&utm_source=1103)** | Canton, IL | On Site | Dec 02 |
 | **[Wipfli](http://www.wipfli.com)** | **[AssetEdge Implementation Consultant II](https://jobright.ai/jobs/info/691ea1a6a49a885af9a2a0fd?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Brex](https://brex.com)** | **[Associate Technical Consultant](https://jobright.ai/jobs/info/692ebc05ef4b48533d1410a7?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 02 |
 | ↳ | **[Associate Technical Consultant](https://jobright.ai/jobs/info/692ebb4efa28370be26a5c25?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Dec 02 |
@@ -86,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5a78fa28370be26a3d57?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 01 |
 | ↳ | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5ba5fa28370be26a3e25?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Dec 01 |
 | ↳ | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5443fa28370be26a38a8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| ↳ | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/692e5eb3fa28370be26a3fde?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/691db57b748c4e1301ec7d19?utm_campaign=Consultant&utm_source=1103)** | Newburgh, NY | On Site | Dec 01 |
 | **[Guidehouse](https://guidehouse.com)** | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/692e5712ef4b48533d13ef3d?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Dec 01 |
 | **[LPL Financial](https://www.lpl.com)** | **[Configuration Consultant](https://jobright.ai/jobs/info/692e366dfa28370be26a2534?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
@@ -256,8 +261,8 @@ For a complete list, click the following sortable link below:
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/6927e16df0beb0723262eb14?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6927d02fd47de4798ece0b3e?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 26 |
 | **[Exabeam](http://www.exabeam.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927be53f0beb0723262d9f6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927bce2f0beb0723262d8f5?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[LogRhythm](https://www.logrhythm.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927a6eaf0beb0723262cd16?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b5d591ceeb2e8a54276d?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69279eb1f0beb0723262c978?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 26 |
 | **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927b4ca91ceeb2e8a542707?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Nov 26 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday Recruiting Consultant](https://jobright.ai/jobs/info/6899c92a83d13d1f5b694583?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Nov 26 |
@@ -308,8 +313,4 @@ For a complete list, click the following sortable link below:
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/692656c7d47de4798ecd6888?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Nov 25 |
 | **[The Police Credit Union](https://www.thepolicecu.org/)** | **[Virtual Branch Consultant I](https://jobright.ai/jobs/info/692656a7d47de4798ecd686e?utm_campaign=Consultant&utm_source=1103)** | San Bruno, CA, US | On Site | Nov 25 |
 | **[Actionstep](https://www.actionstep.com)** | **[Services Consultant](https://jobright.ai/jobs/info/69264c0a27bf2f41a2c45170?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Remote | Nov 25 |
-| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Assistant Mortgage Loan Consultant](https://jobright.ai/jobs/info/69263a4127bf2f41a2c4491b?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Nov 25 |
-| **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/69262ecdf0beb07232622e50?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | Hybrid | Nov 25 |
-| **[Kansas Department For Children and Families](http://www.dcf.ks.gov)** | **[Business Enterprise Program Consultant](https://jobright.ai/jobs/info/69262996d47de4798ecd51bf?utm_campaign=Consultant&utm_source=1103)** | Kansas, United States | On Site | Nov 25 |
-| **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Assistant Mortgage Loan Consultant](https://jobright.ai/jobs/info/6926400527bf2f41a2c44c5a?utm_campaign=Consultant&utm_source=1103)** | Rutland, VT | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
