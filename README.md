@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant](https://jobright.ai/jobs/info/69170b12370fde633d07c9a3?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Dec 03 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Risk Consulting - Internal Audit and SOX](https://jobright.ai/jobs/info/693051dafa28370be26afc1d?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 03 |
+| **[Voya Financial](https://www.voya.com/)** | **[Regional Consultant](https://jobright.ai/jobs/info/68f7a2e15dc1be6012817a57?utm_campaign=Consultant&utm_source=1103)** | Braintree, MA | On Site | Dec 03 |
+| **[Empower](https://www.empower.com)** | **[Implementation Consultant - Core 401(k)](https://jobright.ai/jobs/info/693045034c474121999e49d6?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Dec 03 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bf60b95c5d5f14f46d656f?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | On Site | Dec 03 |
 | **[Transamerica](http://www.transamerica.com)** | **[Regional Retirement Consultant](https://jobright.ai/jobs/info/68dc7c24a125e75c422a114a?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Dec 03 |
 | **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Consultant](https://jobright.ai/jobs/info/692043b200c9ee50eaec0adf?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/691355041465e02904e94156?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Dec 03 |
+| **[Voya Financial](https://www.voya.com/)** | **[Regional Consultant](https://jobright.ai/jobs/info/68f7b6a45dc1be6012819bb3?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 03 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68b9668d5f3832749185dac0?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 03 |
 | **[Arup](http://www.arup.com)** | **[Graduate Cost & Risk Advisory Consultant (Available 2026)](https://jobright.ai/jobs/info/69170e0d370fde633d07cbfa?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 03 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Associate, Strategic Consulting](https://jobright.ai/jobs/info/68dad1bc0b832179ca4b13ce?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 03 |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Credit Consultant - Columbia, Missouri](https://jobright.ai/jobs/info/68d72609894705799a2f104c?utm_campaign=Consultant&utm_source=1103)** | Greater Columbia, Missouri Area | On Site | Dec 03 |
 | **[ION](https://iongroup.com)** | **[Business Consultant L1 - WallStreet Suite](https://jobright.ai/jobs/info/68c63239db52c07d28844f7a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Dec 03 |
 | **[DWC - The 401(k) Experts](https://www.dwc401k.com/)** | **[Plan Consultant II](https://jobright.ai/jobs/info/692ffa6d4c474121999e373a?utm_campaign=Consultant&utm_source=1103)** | Wilmington, DE | Remote | Dec 03 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69301b134c474121999e4076?utm_campaign=Consultant&utm_source=1103)** | Roslyn, NY | On Site | Dec 03 |
@@ -86,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Implementation Consultant - Core 401(k)](https://jobright.ai/jobs/info/692f6604ef4b48533d144ebf?utm_campaign=Consultant&utm_source=1103)** | Des Moines, IA | Hybrid | Dec 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/689fd98883d13d1f5b6cb819?utm_campaign=Consultant&utm_source=1103)** | Gainesville, FL | On Site | Dec 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/692f49044c474121999dd861?utm_campaign=Consultant&utm_source=1103)** | WEST PALM BEACH, FL, 33401 | On Site | Dec 02 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/691cb7f5bcdbf3560c9e90ac?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA, 19355 | On Site | Dec 02 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692f4db0fa28370be26a8c6d?utm_campaign=Consultant&utm_source=1103)** | Roselle, NJ, 07203 | On Site | Dec 02 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/691cb7f5bcdbf3560c9e90ac?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA, 19355 | On Site | Dec 02 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68cf7f6ffb49c96ca6ea8f84?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Dec 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant - North Shore, MA](https://jobright.ai/jobs/info/692f25934c474121999dc9dc?utm_campaign=Consultant&utm_source=1103)** | HAVERHILL, MA, 01830 | On Site | Dec 02 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/692f2459fa28370be26a7b04?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 02 |
@@ -102,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/692f4f52fa28370be26a8d68?utm_campaign=Consultant&utm_source=1103)** | Alexandria, VA, 22314 | On Site | Dec 02 |
 | ↳ | **[Leasing Consultant ($1,500 Sign On Bonus)](https://jobright.ai/jobs/info/692f494ffa28370be26a898f?utm_campaign=Consultant&utm_source=1103)** | Delray Beach, FL, 33445 | On Site | Dec 02 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692f2dccfa28370be26a7e7b?utm_campaign=Consultant&utm_source=1103)** | Silver Spring, MD, 20910 | On Site | Dec 02 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692f4ec9fa28370be26a8d20?utm_campaign=Consultant&utm_source=1103)** | Mc Lean, VA, 22102 | On Site | Dec 02 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692fe72eef4b48533d149850?utm_campaign=Consultant&utm_source=1103)** | Hackensack, NJ, 07601 | On Site | Dec 02 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692f4ec9fa28370be26a8d20?utm_campaign=Consultant&utm_source=1103)** | Mc Lean, VA, 22102 | On Site | Dec 02 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant -  Albuquerque & Santa Fe](https://jobright.ai/jobs/info/68ed813f70b66e2345d3e97a?utm_campaign=Consultant&utm_source=1103)** | Santa Fe, NM | On Site | Dec 02 |
 | **[Oakley](https://www.heartlandchc.org)** | **[Specialized Consultant (Key Holder)](https://jobright.ai/jobs/info/692f2fdffa28370be26a7ef6?utm_campaign=Consultant&utm_source=1103)** | Lone Tree, CO | On Site | Dec 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Multi-Site Leasing Consultant](https://jobright.ai/jobs/info/6925d8db27bf2f41a2c40e90?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA, 90404 | On Site | Dec 02 |
@@ -144,11 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Oregon State University](https://oregonstate.edu)** | **[Information Technology Consultant](https://jobright.ai/jobs/info/692e7236ef4b48533d13ff29?utm_campaign=Consultant&utm_source=1103)** | Bend, OR | Hybrid | Dec 01 |
 | **[WCG Services](https://www.wcgservices.com)** | **[Employment Resource Advisor / Jr Employment Consultant](https://jobright.ai/jobs/info/692e400b4c474121999d7ac6?utm_campaign=Consultant&utm_source=1103)** | Kelowna, British Columbia, Canada | On Site | Dec 01 |
 | **[LPL Financial](https://www.lpl.com)** | **[Configuration Consultant](https://jobright.ai/jobs/info/692e3e07ef4b48533d13de6b?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Dec 01 |
-| **[Guidehouse](https://guidehouse.com)** | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5a78fa28370be26a3d57?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 01 |
-| ↳ | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5ba5fa28370be26a3e25?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Dec 01 |
-| ↳ | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5443fa28370be26a38a8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 01 |
+| **[Guidehouse](https://guidehouse.com)** | **[Consultant - Life Sciences Advisory - Commercial](https://jobright.ai/jobs/info/692e5443fa28370be26a38a8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/691db57b748c4e1301ec7d19?utm_campaign=Consultant&utm_source=1103)** | Newburgh, NY | On Site | Dec 01 |
-| **[Guidehouse](https://guidehouse.com)** | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/692e5712ef4b48533d13ef3d?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Dec 01 |
 | **[LPL Financial](https://www.lpl.com)** | **[Configuration Consultant](https://jobright.ai/jobs/info/692e366dfa28370be26a2534?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
 | **[ERP Advisors Group](https://erpadvisorsgroup.com/)** | **[ERP Consultant Project Coordinator](https://jobright.ai/jobs/info/692e57d0fa28370be26a3b00?utm_campaign=Consultant&utm_source=1103)** | Lakewood,CO,US | On Site | Dec 01 |
 | **[LPL Financial](https://www.lpl.com)** | **[Configuration Consultant](https://jobright.ai/jobs/info/692e2777ef4b48533d13d1ca?utm_campaign=Consultant&utm_source=1103)** | Austin TX | On Site | Dec 01 |
@@ -231,8 +235,8 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a53794c474121999cbf07?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Nov 28 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a412bfa28370be2696b54?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Nov 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/692a3ab4fa28370be2696ab6?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Nov 28 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a8b7366796e3028f8f216?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 28 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/692a8b7366796e3028f8f216?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Nov 28 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/692a6a0b66796e3028f8efe9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Nov 28 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a08ae66796e3028f8e106?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Nov 28 |
 | ↳ | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/692a03744c474121999cb230?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6880c985f4f06100f3a2105f?utm_campaign=Consultant&utm_source=1103)** | Oxnard, CA | On Site | Nov 28 |
@@ -304,8 +308,6 @@ For a complete list, click the following sortable link below:
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/6927e16df0beb0723262eb14?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6927d02fd47de4798ece0b3e?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Nov 26 |
 | **[Exabeam](http://www.exabeam.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927be53f0beb0723262d9f6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927bb4ed47de4798ece0055?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | **[LogRhythm](https://www.logrhythm.com)** | **[Services Consultant](https://jobright.ai/jobs/info/6927a6eaf0beb0723262cd16?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69279eb1f0beb0723262c978?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Nov 26 |
-| **[SAP](https://www.sap.com)** | **[2026 Business Process Associate Consultant - Premium Hub CoE Academy Program](https://jobright.ai/jobs/info/6927b4ca91ceeb2e8a542707?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA | Hybrid | Nov 26 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b43fd47de4798ecdfbd4?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
