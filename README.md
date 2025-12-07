@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Associate Health Management Consultant - Employer Services](https://jobright.ai/jobs/info/691f84f4a49a885af9a31174?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Dec 07 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/68ccc1f0d99309000e5a2a00?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Dec 07 |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6919c7aabcdbf3560c9d7289?utm_campaign=Consultant&utm_source=1103)** | Fredericton, New Brunswick, Canada | Hybrid | Dec 07 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Functional Consultant, Technology & Transformation - Future of Service (CCaaS)](https://jobright.ai/jobs/info/6928af26f0beb07232631099?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 07 |
+| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/6918997845fb6f5ead8a616a?utm_campaign=Consultant&utm_source=1103)** | Victoria, British Columbia, Canada | Hybrid | Dec 07 |
+| **[Lennar](http://lennar.com)** | **[New Home Consultant](https://jobright.ai/jobs/info/69181cb745fb6f5ead8a1d98?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Dec 07 |
 | **[SS&C Eze](https://www.ezesoft.com)** | **[Associate Solutions Consultant, Eclipse Client Services](https://jobright.ai/jobs/info/68fc9961e0c73b3a1118d709?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 07 |
 | ↳ | **[Associate Solutions Consultant, Eclipse Client Services](https://jobright.ai/jobs/info/68fbf2fe4129dd33cd136bf6?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Dec 07 |
 | ↳ | **[Associate Solutions Consultant, Eclipse Client Services](https://jobright.ai/jobs/info/68fc99a6e0c73b3a1118d7b0?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Dec 07 |
@@ -165,9 +171,9 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Associate Outreach Consultant](https://jobright.ai/jobs/info/693256ff764507023d1ad5a9?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Dec 04 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69321c25d0010831497bfb2e?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Dec 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69320ec0d0010831497bedaf?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Dec 04 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932298d4c474121999f78fb?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Dec 04 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69323481948dde73ff9067ee?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Dec 04 |
+| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932298d4c474121999f78fb?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Dec 04 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69322502fa28370be26c2809?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 04 |
-| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69323481948dde73ff9067ee?utm_campaign=Consultant&utm_source=1103)** | Saint Paul, MN | On Site | Dec 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6932208cfa28370be26c24cb?utm_campaign=Consultant&utm_source=1103)** | Wise, VA | On Site | Dec 04 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69321a74d0010831497bf943?utm_campaign=Consultant&utm_source=1103)** | Lexington, KY | On Site | Dec 04 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/693224edfa28370be26c27ee?utm_campaign=Consultant&utm_source=1103)** | Cumberland, KY | On Site | Dec 04 |
@@ -216,8 +222,8 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Consultant I](https://jobright.ai/jobs/info/6933ac52764507023d1b8072?utm_campaign=Consultant&utm_source=1103)** | Tacoma, WA | Remote | Dec 03 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/693088bd4c474121999e5e17?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Asset Management Consultant](https://jobright.ai/jobs/info/69311229fa28370be26b6aa3?utm_campaign=Consultant&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Dec 03 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69308f75ef4b48533d14c6c1?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Dec 03 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6930a15cef4b48533d14d32a?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Dec 03 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6930a15cef4b48533d14d32a?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Dec 03 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69308f75ef4b48533d14c6c1?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Dec 03 |
 | **[Kx Advisors ](https://kxadvisors.com)** | **[Fall 2026 Associate Consultant, Life Sciences Consulting](https://jobright.ai/jobs/info/6930cfd7fa28370be26b41e0?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Project Consultant, Patient Cloud (Remote)](https://jobright.ai/jobs/info/6930cb034c474121999e8ee0?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Dec 03 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691bdeabbcdbf3560c9e3703?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, Florida, United States | Hybrid | Dec 03 |
@@ -255,7 +261,6 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69301b134c474121999e4076?utm_campaign=Consultant&utm_source=1103)** | Roslyn, NY | On Site | Dec 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technology Consultant Graduate](https://jobright.ai/jobs/info/692fcf01fa28370be26ada36?utm_campaign=Consultant&utm_source=1103)** | Spring, TX | On Site | Dec 02 |
 | **[Philips](https://www.usa.philips.com)** | **[Clinical Solutions Delivery Consultant - Cardiovascular - Development Program](https://jobright.ai/jobs/info/693510d4f131d96e4846cbbb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 02 |
-| ↳ | **[Clinical Solutions Delivery Consultant - Vascular - Development Program](https://jobright.ai/jobs/info/693510c2f131d96e4846cb5f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant ($2,500 Sign On Bonus)](https://jobright.ai/jobs/info/691ccbf722a2cb4b9bd1d453?utm_campaign=Consultant&utm_source=1103)** | Doral, FL, 33166 | On Site | Dec 02 |
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/692f9b56fa28370be26abfad?utm_campaign=Consultant&utm_source=1103)** | Lisle, IL | On Site | Dec 02 |
 | ↳ | **[Sales and Design Consultant](https://jobright.ai/jobs/info/69278c2f91ceeb2e8a541115?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | On Site | Dec 02 |
