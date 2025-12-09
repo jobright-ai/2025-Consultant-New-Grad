@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paradigm](http://myparadigm.com/)** | **[Systems Consultant - Catalog](https://jobright.ai/jobs/info/691babbb15b4156367191734?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 09 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/691d4eb4bcdbf3560c9efa52?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Dec 09 |
+| ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/691d73307481340785ed7cc5?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 09 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Associate Data Governance Consultant](https://jobright.ai/jobs/info/6921350500c9ee50eaeccd15?utm_campaign=Consultant&utm_source=1103)** | Erie-Meadville Area | On Site | Dec 09 |
+| **[Norstella](https://www.norstella.com)** | **[Analyst, Life Sciences Consulting](https://jobright.ai/jobs/info/691bc4f3bcdbf3560c9e2740?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 09 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691e567509cc522e877391b2?utm_campaign=Consultant&utm_source=1103)** | Seattle, Washington, United States | Hybrid | Dec 09 |
 | **[Daxko](https://www.daxko.com/)** | **[Product Consultant](https://jobright.ai/jobs/info/6937aa9d1c1c2161c13f7035?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | On Site | Dec 08 |
 | **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I](https://jobright.ai/jobs/info/693799151c1c2161c13f62b7?utm_campaign=Consultant&utm_source=1103)** | West Fargo, ND | On Site | Dec 08 |
 | **[PAR Technology](http://www.partech.com)** | **[Associate Technical Consultant](https://jobright.ai/jobs/info/693796b91c1c2161c13f6144?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Dec 08 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/6937c3caaabec14a727cce9c?utm_campaign=Consultant&utm_source=1103)** | Corpus Christi, TX | On Site | Dec 08 |
-| ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6937b723a0dde7020e3071ee?utm_campaign=Consultant&utm_source=1103)** | Lexington, KY | On Site | Dec 08 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6937b723a0dde7020e3071ee?utm_campaign=Consultant&utm_source=1103)** | Lexington, KY | On Site | Dec 08 |
+| ↳ | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/6937c3caaabec14a727cce9c?utm_campaign=Consultant&utm_source=1103)** | Corpus Christi, TX | On Site | Dec 08 |
 | **[Mercer](http://www.mercer.com)** | **[Mercer Career Consulting Analyst - 2025 New Grads - Immediate Start](https://jobright.ai/jobs/info/693790501c1c2161c13f5ca4?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 08 |
 | ↳ | **[Mercer Career Consulting Analyst - 2025 New Grads - Immediate Start](https://jobright.ai/jobs/info/69378e19aabec14a727c93b3?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Dec 08 |
 | ↳ | **[Talent & Rewards Consulting Analyst](https://jobright.ai/jobs/info/69378da4aabec14a727c935c?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 08 |
@@ -90,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Trizetto Technical Product Consultant](https://jobright.ai/jobs/info/69373f101c1c2161c13f1f0c?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | Hybrid | Dec 08 |
 | **[EY](http://www.ey.com)** | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/69373c26aabec14a727c5582?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Dec 08 |
 | ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/69373c0aaabec14a727c5556?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Dec 08 |
-| ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/69373b75aabec14a727c5457?utm_campaign=Consultant&utm_source=1103)** | Toledo, OH | On Site | Dec 08 |
 | ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/69373b75aabec14a727c5459?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 08 |
+| ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/69373b75aabec14a727c5457?utm_campaign=Consultant&utm_source=1103)** | Toledo, OH | On Site | Dec 08 |
 | ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/693738221c1c2161c13f1981?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Dec 08 |
 | ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/693737aa1c1c2161c13f183b?utm_campaign=Consultant&utm_source=1103)** | Greenville, SC | On Site | Dec 08 |
 | ↳ | **[Business Transformation Architecture and Delivery - Staff Consultant](https://jobright.ai/jobs/info/693755e2a0dde7020e3015e4?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Dec 08 |
@@ -121,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Financial Services-Consultant](https://jobright.ai/jobs/info/6936f490aabec14a727c3188?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 08 |
 | **[Strategic Information Group](http://www.strategic.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/6936db5e1c1c2161c13ef078?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Dec 08 |
 | **[Google](https://www.google.com)** | **[Project Coordinator, Mandiant Consulting, Google Cloud](https://jobright.ai/jobs/info/6936c6a2aabec14a727c23e4?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 08 |
-| **[The Stephens Agency](https://stephenscma2.gr8.com/ )** | **[Work from Home Coverage Consultant (Entry Level)](https://jobright.ai/jobs/info/6936e443a0dde7020e2fda9d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 08 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691bdeabbcdbf3560c9e3703?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, Florida, United States | Hybrid | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6936b35a44eb324fb785d0be?utm_campaign=Consultant&utm_source=1103)** | Barbourville, KY | On Site | Dec 08 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6936aa1b1c1c2161c13ee34d?utm_campaign=Consultant&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 08 |
@@ -303,5 +306,4 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.usa.philips.com)** | **[Clinical Solutions Delivery Consultant - General Imaging - Development Program](https://jobright.ai/jobs/info/6937b901aabec14a727cc656?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Brody Allen Exteriors](https://brodyallenexteriors.com)** | **[Roofing Exterior Consultant](https://jobright.ai/jobs/info/6937a2a4aabec14a727ca022?utm_campaign=Consultant&utm_source=1103)** | Springfield, MO | On Site | Dec 02 |
 | **[PCS Retirement](https://www.pcsretirement.com/)** | **[Plan Consultant II](https://jobright.ai/jobs/info/692fabf94c474121999e1b1f?utm_campaign=Consultant&utm_source=1103)** | Pennsylvania, United States | Remote | Dec 02 |
-| **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/692f9b56fa28370be26abfad?utm_campaign=Consultant&utm_source=1103)** | Lisle, IL | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
