@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6913af93e344172248f73396?utm_campaign=Consultant&utm_source=1103)** | Katy, TX | On Site | Dec 25 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68b9668d5f3832749185dac0?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 25 |
 | **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Consultant](https://jobright.ai/jobs/info/692043b200c9ee50eaec0adf?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69461e21d1953b5d11bf38f5?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Dec 25 |
+| ↳ | **[Design Consultant](https://jobright.ai/jobs/info/6930c7c3ef4b48533d14f0f2?utm_campaign=Consultant&utm_source=1103)** | Pompano Beach, FL | On Site | Dec 25 |
+| **[Peloton Consulting Group](https://www.pelotongroup.com)** | **[Technical Implementation Consultant - Analyst](https://jobright.ai/jobs/info/68c66d207d0db4114273a10e?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Dec 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6930f222ef4b48533d151010?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | On Site | Dec 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP Data Migration Consultant](https://jobright.ai/jobs/info/688bbfbc906ac06e1d1ce129?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 25 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Associate, Strategic Consulting](https://jobright.ai/jobs/info/6933b924a0dde7020e2f1129?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
@@ -158,8 +161,8 @@ For a complete list, click the following sortable link below:
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949ea6a7d506e3808f4fd48?utm_campaign=Consultant&utm_source=1103)** | Lincoln, NE | On Site | Dec 22 |
 | ↳ | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949e914d1953b5d11c2d815?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 22 |
 | **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
-| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
 | ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a129a63141d188459bc82?utm_campaign=Consultant&utm_source=1103)** | 27 E 28th St ste 15 036, New York, 10016, US | Hybrid | Dec 22 |
+| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6949decb7d506e3808f4fb9e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d9cf63141d1884596db0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Dec 22 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Utility Advisory Consultant (all levels)](https://jobright.ai/jobs/info/694a0b1b7d506e3808f534fa?utm_campaign=Consultant&utm_source=1103)** | Denver, NC | Hybrid | Dec 22 |
@@ -254,9 +257,4 @@ For a complete list, click the following sortable link below:
 | **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant](https://jobright.ai/jobs/info/6944cd96a7227b3ece6675c2?utm_campaign=Consultant&utm_source=1103)** | Pitt Meadows, British Columbia, Canada | Hybrid | Dec 18 |
 | **[First Hawaiian Bank](http://www.fhb.com)** | **[Private Banking Service Consultant (Downtown)](https://jobright.ai/jobs/info/6944cb1da7227b3ece6673e3?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | On Site | Dec 18 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internal Direct Business Consultant](https://jobright.ai/jobs/info/6944af7b94730b739877f39f?utm_campaign=Consultant&utm_source=1103)** | Fort Mill, SC | Hybrid | Dec 18 |
-| **[TF Partners](https://tfaccountants.com.au)** | **[Benefits Sales Consultant](https://jobright.ai/jobs/info/6944dc4d94730b73987814fa?utm_campaign=Consultant&utm_source=1103)** | Pueblo Dep Ac, CO | On Site | Dec 18 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69461df07d506e3808f16fce?utm_campaign=Consultant&utm_source=1103)** | West Hartford, CT | On Site | Dec 18 |
-| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/6944c1ab50bbaf765056d7d0?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Dec 18 |
-| **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/6944af9394730b739877f3bd?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 18 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68d7556d7a37c712687c878a?utm_campaign=Consultant&utm_source=1103)** | Estero, FL | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
