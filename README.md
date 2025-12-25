@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Risk Consulting - Internal Audit and SOX](https://jobright.ai/jobs/info/694b89f6d64ebf28d8215361?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | Hybrid | Dec 25 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68b9668d5f3832749185dac0?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 25 |
+| **[Ricondo & Associates, Inc.](http://ricondo.com)** | **[Consultant](https://jobright.ai/jobs/info/692043b200c9ee50eaec0adf?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6930f222ef4b48533d151010?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | On Site | Dec 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[SAP Data Migration Consultant](https://jobright.ai/jobs/info/688bbfbc906ac06e1d1ce129?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 25 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Associate, Strategic Consulting](https://jobright.ai/jobs/info/6933b924a0dde7020e2f1129?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
@@ -162,19 +165,19 @@ For a complete list, click the following sortable link below:
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949ff97c6f0e2546ceedde6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 22 |
 | ↳ | **[Profee Coding Consultant (Surgery Coding) - PRN](https://jobright.ai/jobs/info/6949fffec6f0e2546ceedefe?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d2fc63141d1884596bd7?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Dec 22 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694a00197d506e3808f518a7?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 22 |
-| ↳ | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/6949f8667d506e3808f5078b?utm_campaign=Consultant&utm_source=1103)** | Columbia, TN | On Site | Dec 22 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/6949f8667d506e3808f5078b?utm_campaign=Consultant&utm_source=1103)** | Columbia, TN | On Site | Dec 22 |
+| ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694a00197d506e3808f518a7?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 22 |
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6949c8ff7d506e3808f4f4e7?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Dec 22 |
 | **[Sun Life Québec](https://www.sunlife.ca/ca?vgnLocale=fr_CA)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a1ddd1953b5d11c2a714?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Dec 22 |
 | **[J & A Solutions USA](https://jasolutionsgroup.com/)** | **[Fiber Internet Consultant](https://jobright.ai/jobs/info/694a01ce63141d18845990e1?utm_campaign=Consultant&utm_source=1103)** | Triad Area | On Site | Dec 22 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69497983d1953b5d11c27f07?utm_campaign=Consultant&utm_source=1103)** | SUNNYVALE, CA, 94086 | On Site | Dec 22 |
 | **[84.51˚](http://8451.com/)** | **[Business Acceleration Consultant - Merchandising (P3390)](https://jobright.ai/jobs/info/6949909d63141d1884592ab0?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Dec 22 |
 | ↳ | **[Business Acceleration Consultant - Merchandising (P3390)](https://jobright.ai/jobs/info/69498e3863141d18845926b9?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Dec 22 |
-| **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Surgery Coding) - PRN](https://jobright.ai/jobs/info/6949975c63141d18845935a9?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
-| ↳ | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949973e63141d1884593598?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
+| **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949973e63141d1884593598?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
+| ↳ | **[Profee Coding Consultant (Surgery Coding) - PRN](https://jobright.ai/jobs/info/6949975c63141d18845935a9?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69496b407d506e3808f48d3e?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 22 |
 | ↳ | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/694969c27d506e3808f48d1e?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Dec 22 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a5efd1953b5d11c2ac5f?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a03d63141d1884593e66?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/693513acf131d96e4846ccb0?utm_campaign=Consultant&utm_source=1103)** | Hamilton, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/69171b93bcdbf3560c9c52e5?utm_campaign=Consultant&utm_source=1103)** | Kitchener, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/6916f0536f36db06ef05b1d4?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -259,8 +262,4 @@ For a complete list, click the following sortable link below:
 | **[SC&H](http://www.schgroup.com)** | **[Consultant](https://jobright.ai/jobs/info/6944a04c50bbaf765056a4ac?utm_campaign=Consultant&utm_source=1103)** | Hunt Valley, MD | On Site | Dec 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/694567eb63141d188454e544?utm_campaign=Consultant&utm_source=1103)** | Oak Ridge North, TX | On Site | Dec 18 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Entry Level IT Advisory Consultant - Summer 2026](https://jobright.ai/jobs/info/68cd5ca91ad6b16f028989bd?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Dec 18 |
-| **[Infosys](http://www.infosys.com)** | **[Consultant-Campus hiring](https://jobright.ai/jobs/info/694487c494730b739877c1d5?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Dec 18 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internal Direct Business Consultant](https://jobright.ai/jobs/info/6944822e94730b739877bec3?utm_campaign=Consultant&utm_source=1103)** | Fort Mill/Charlotte | On Site | Dec 18 |
-| ↳ | **[Internal Direct Business Consultant](https://jobright.ai/jobs/info/69447fd2dd382f5f566aaca8?utm_campaign=Consultant&utm_source=1103)** | San Diego | On Site | Dec 18 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Oracle HCM Consultant](https://jobright.ai/jobs/info/69447be694730b739877b862?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
