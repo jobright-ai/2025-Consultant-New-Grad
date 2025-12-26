@@ -182,7 +182,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949973e63141d1884593598?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69496b407d506e3808f48d3e?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 22 |
 | ↳ | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/694969c27d506e3808f48d1e?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Dec 22 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a5efd1953b5d11c2ac5f?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a03d63141d1884593e66?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/693513acf131d96e4846ccb0?utm_campaign=Consultant&utm_source=1103)** | Hamilton, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/69171b93bcdbf3560c9c52e5?utm_campaign=Consultant&utm_source=1103)** | Kitchener, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/6916f0536f36db06ef05b1d4?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -251,6 +251,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Inverto / Consultant, Procurement](https://jobright.ai/jobs/info/6931992bd0010831497ba943?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 19 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Solutions Consultant - Cisco](https://jobright.ai/jobs/info/68d310c6f0d9af73038dec2d?utm_campaign=Consultant&utm_source=1103)** | Texas, United States | Remote | Dec 19 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68f0b88033489f7bb1c18a15?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Dec 19 |
-| ↳ | **[Branch Banking Client Consultant I - North Brunswick, NJ](https://jobright.ai/jobs/info/69451283d1953b5d11be066a?utm_campaign=Consultant&utm_source=1103)** | North Brunswick, NJ | On Site | Dec 19 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Consultant - IT Audit & Assurance - New Grad Fall 2026 - Kitchener & Toronto](https://jobright.ai/jobs/info/694528e7d1953b5d11be27f1?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
