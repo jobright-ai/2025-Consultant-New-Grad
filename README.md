@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[CA-WA Community Mortgage Bank Sales Consultant (SAFE) -Bilingual Spanish](https://jobright.ai/jobs/info/6932b239764507023d1b005c?utm_campaign=Consultant&utm_source=1103)** | Santa Ana, CA | On Site | Dec 26 |
+| **[Envestnet](http://www.envestnet.com)** | **[Investment Product Consultant](https://jobright.ai/jobs/info/6932166ffa28370be26c1aad?utm_campaign=Consultant&utm_source=1103)** | All, MO | On Site | Dec 26 |
+| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Russian Bilingual Case Consultant](https://jobright.ai/jobs/info/6931e9fafa28370be26bf478?utm_campaign=Consultant&utm_source=1103)** | Longwood, FL | On Site | Dec 26 |
+| **[Raymond James](http://www.raymondjames.com)** | **[Financial Planning Consultant](https://jobright.ai/jobs/info/69321c91d0010831497bfbaf?utm_campaign=Consultant&utm_source=1103)** | Sycamore, IL | On Site | Dec 26 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Personal Lines Consultant](https://jobright.ai/jobs/info/6934f17a764507023d1be678?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Dec 26 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68bfb64f5c5d5f14f46d94c8?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Dec 26 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday HCM Consultant](https://jobright.ai/jobs/info/6943c6c094730b739876e6e3?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Dec 26 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology 2026](https://jobright.ai/jobs/info/68cd7c68b2a74e1837ed7cb2?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/6915cad4286ccf0a15130bd0?utm_campaign=Consultant&utm_source=1103)** | Willowick, OH | On Site | Dec 26 |
@@ -136,8 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/694acd683019f50a4fe5e532?utm_campaign=Consultant&utm_source=1103)** | ORLANDO, FL, 32825 | On Site | Dec 23 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694acd2067a69734cac5eef2?utm_campaign=Consultant&utm_source=1103)** | Reston, VA, 20190 | On Site | Dec 23 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/694ac5cf67a69734cac5dbf5?utm_campaign=Consultant&utm_source=1103)** | McKinney, TX | On Site | Dec 23 |
-| **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/691cd40522a2cb4b9bd1daec?utm_campaign=Consultant&utm_source=1103)** | San Diego, California, United States | On Site | Dec 23 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/694ab5283019f50a4fe5ca50?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Dec 23 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694ab5283019f50a4fe5ca50?utm_campaign=Consultant&utm_source=1103)** | Grapevine, TX | On Site | Dec 23 |
 | **[LPL Financial](https://www.lpl.com)** | **[Configuration Consultant](https://jobright.ai/jobs/info/693417f9a0dde7020e2f4252?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Dec 23 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[Loan Consultant Trainee - (Pulte Mortgage)](https://jobright.ai/jobs/info/692e1267fa28370be26a0dbe?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Dec 23 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/692dfb5c4c474121999d4e98?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Dec 23 |
@@ -156,7 +161,8 @@ For a complete list, click the following sortable link below:
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 12232025-73768](https://jobright.ai/jobs/info/694a98ca3019f50a4fe5b700?utm_campaign=Consultant&utm_source=1103)** | Rutherford County, TN | Hybrid | Dec 23 |
 | **[Brex](https://brex.com)** | **[Associate Technical Consultant](https://jobright.ai/jobs/info/692eb86cfa28370be26a5b80?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/692eb41b4c474121999da91d?utm_campaign=Consultant&utm_source=1103)** | Scarborough, ME | On Site | Dec 23 |
-| ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/692ec30cfa28370be26a5e1d?utm_campaign=Consultant&utm_source=1103)** | Presque Isle, ME | On Site | Dec 23 |
+| **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6937281ea0dde7020e2ff67a?utm_campaign=Consultant&utm_source=1103)** | San Diego, California, United States | On Site | Dec 23 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/692ec30cfa28370be26a5e1d?utm_campaign=Consultant&utm_source=1103)** | Presque Isle, ME | On Site | Dec 23 |
 | ↳ | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/692e6766ef4b48533d13f9a6?utm_campaign=Consultant&utm_source=1103)** | Glendale, WI | On Site | Dec 23 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Afterhours Travel Consultant](https://jobright.ai/jobs/info/693e2220aa598a08c3ee83c9?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Remote | Dec 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/692ecbf2ef4b48533d14144b?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Dec 23 |
@@ -170,9 +176,9 @@ For a complete list, click the following sortable link below:
 | **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a0a8d63141d188459a636?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | Hybrid | Dec 22 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949ea6a7d506e3808f4fd48?utm_campaign=Consultant&utm_source=1103)** | Lincoln, NE | On Site | Dec 22 |
 | ↳ | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949e914d1953b5d11c2d815?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 22 |
-| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a129a63141d188459bc82?utm_campaign=Consultant&utm_source=1103)** | 27 E 28th St ste 15 036, New York, 10016, US | Hybrid | Dec 22 |
-| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
+| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
 | ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
+| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a129a63141d188459bc82?utm_campaign=Consultant&utm_source=1103)** | 27 E 28th St ste 15 036, New York, 10016, US | Hybrid | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6949decb7d506e3808f4fb9e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d9cf63141d1884596db0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Dec 22 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Utility Advisory Consultant (all levels)](https://jobright.ai/jobs/info/694a0b1b7d506e3808f534fa?utm_campaign=Consultant&utm_source=1103)** | Denver, NC | Hybrid | Dec 22 |
@@ -242,6 +248,4 @@ For a complete list, click the following sortable link below:
 | **[Granicus](http://www.granicus.com)** | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/6945f648d1953b5d11befe56?utm_campaign=Consultant&utm_source=1103)** | US-Remote | Remote | Dec 19 |
 | ↳ | **[Associate Solutions Consultant](https://jobright.ai/jobs/info/694606d67d506e3808f15af7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 19 |
 | **[Sia](https://www.sia-partners.com)** | **[Strategy Consultant- Healthcare and Life Sciences](https://jobright.ai/jobs/info/6945e6f863141d18845583ba?utm_campaign=Consultant&utm_source=1103)** | Elkridge, MD | Hybrid | Dec 19 |
-| **[Brightlands](http://www.brightlands.com/limburg-vernieuwt)** | **[Junior Business Innovation Consultant MKB (0,8-1 fte)](https://jobright.ai/jobs/info/6945db2d9516540735380b9e?utm_campaign=Consultant&utm_source=1103)** | Smart, AR | Hybrid | Dec 19 |
-| **[MNP](http://www.mnp.ca)** | **[Consultant, ERP](https://jobright.ai/jobs/info/6945c42f63141d18845551a9?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
