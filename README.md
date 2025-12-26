@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/693b92995f2c001987ed8557?utm_campaign=Consultant&utm_source=1103)** | Washington, DC, 20001 | On Site | Dec 25 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant l (Entry Level) onsite CAMP DENALI* Alaska](https://jobright.ai/jobs/info/6905cf7963502c0aded7e37f?utm_campaign=Consultant&utm_source=1103)** | Joint Base Elmendorf Richardson, AK | On Site | Dec 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6913af93e344172248f73396?utm_campaign=Consultant&utm_source=1103)** | Katy, TX | On Site | Dec 25 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68b9668d5f3832749185dac0?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Dec 25 |
@@ -160,8 +161,8 @@ For a complete list, click the following sortable link below:
 | **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a0a8d63141d188459a636?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | Hybrid | Dec 22 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949ea6a7d506e3808f4fd48?utm_campaign=Consultant&utm_source=1103)** | Lincoln, NE | On Site | Dec 22 |
 | ↳ | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949e914d1953b5d11c2d815?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 22 |
-| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
-| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
+| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
+| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
 | ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a129a63141d188459bc82?utm_campaign=Consultant&utm_source=1103)** | 27 E 28th St ste 15 036, New York, 10016, US | Hybrid | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6949decb7d506e3808f4fb9e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d9cf63141d1884596db0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Dec 22 |
@@ -170,8 +171,8 @@ For a complete list, click the following sortable link below:
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949ff97c6f0e2546ceedde6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 22 |
 | ↳ | **[Profee Coding Consultant (Surgery Coding) - PRN](https://jobright.ai/jobs/info/6949fffec6f0e2546ceedefe?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d2fc63141d1884596bd7?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Dec 22 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/6949f8667d506e3808f5078b?utm_campaign=Consultant&utm_source=1103)** | Columbia, TN | On Site | Dec 22 |
-| ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694a00197d506e3808f518a7?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 22 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694a00197d506e3808f518a7?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 22 |
+| ↳ | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/6949f8667d506e3808f5078b?utm_campaign=Consultant&utm_source=1103)** | Columbia, TN | On Site | Dec 22 |
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/6949c8ff7d506e3808f4f4e7?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Dec 22 |
 | **[Sun Life Québec](https://www.sunlife.ca/ca?vgnLocale=fr_CA)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a1ddd1953b5d11c2a714?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Dec 22 |
 | **[J & A Solutions USA](https://jasolutionsgroup.com/)** | **[Fiber Internet Consultant](https://jobright.ai/jobs/info/694a01ce63141d18845990e1?utm_campaign=Consultant&utm_source=1103)** | Triad Area | On Site | Dec 22 |
@@ -191,7 +192,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69491355d1953b5d11c226de?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Dec 22 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/693b1aaa5f2c001987ed1bdd?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | Hybrid | Dec 21 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Consultant](https://jobright.ai/jobs/info/6948b47063141d1884585738?utm_campaign=Consultant&utm_source=1103)** | New York County, NY | On Site | Dec 21 |
-| **[Columbia Threadneedle Investments](http://www.columbiathreadneedle.com)** | **[Internal Advisor Consultant](https://jobright.ai/jobs/info/69445b7694730b7398778438?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 21 |
 | **[MetLife](http://www.metlife.com)** | **[Client Services Consultant II](https://jobright.ai/jobs/info/693b4f1b5f2c001987ed5254?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 21 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f946e5a628d10664e8b633?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Dec 21 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/694868917d506e3808f3b02d?utm_campaign=Consultant&utm_source=1103)** | Corpus Christi, TX | On Site | Dec 21 |
@@ -242,10 +242,8 @@ For a complete list, click the following sortable link below:
 | **[MNP](http://www.mnp.ca)** | **[Consultant, ERP](https://jobright.ai/jobs/info/6945d19f951654073537ff51?utm_campaign=Consultant&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Dec 19 |
 | **[Venture Solar](https://venturesolar.com/)** | **[Business Development Consultant](https://jobright.ai/jobs/info/6945a5acd1953b5d11bea1b2?utm_campaign=Consultant&utm_source=1103)** | Brighton, MA | On Site | Dec 19 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/694207e2bdcf884a5addc0e9?utm_campaign=Consultant&utm_source=1103)** | Lenexa, KS | On Site | Dec 19 |
-| **[Venture Solar](https://venturesolar.com/)** | **[Business Development Consultant](https://jobright.ai/jobs/info/6945af3dd1953b5d11beab33?utm_campaign=Consultant&utm_source=1103)** | Queens, NY | On Site | Dec 19 |
-| ↳ | **[Business Development Consultant](https://jobright.ai/jobs/info/6945b56863141d188455444e?utm_campaign=Consultant&utm_source=1103)** | Bangor, ME | On Site | Dec 19 |
+| **[Venture Solar](https://venturesolar.com/)** | **[Business Development Consultant](https://jobright.ai/jobs/info/6945b56863141d188455444e?utm_campaign=Consultant&utm_source=1103)** | Bangor, ME | On Site | Dec 19 |
+| ↳ | **[Business Development Consultant](https://jobright.ai/jobs/info/6945af3dd1953b5d11beab33?utm_campaign=Consultant&utm_source=1103)** | Queens, NY | On Site | Dec 19 |
 | ↳ | **[Business Development Consultant](https://jobright.ai/jobs/info/6945b870951654073537d5e9?utm_campaign=Consultant&utm_source=1103)** | Fairfield, CT | On Site | Dec 19 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Home Energy Consultant](https://jobright.ai/jobs/info/69458e6363141d1884551b76?utm_campaign=Consultant&utm_source=1103)** | Naperville, IL | Remote | Dec 19 |
-| **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/691ed7163f782d2f1afb7369?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | On Site | Dec 19 |
-| **[Specsavers](https://www.specsavers.co.uk)** | **[Full-Time Eyecare Consultant](https://jobright.ai/jobs/info/691daf7e61dc50590a64909c?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
