@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f947b06de2db04dc3e7b47?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 27 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Woodbridge, NJ](https://jobright.ai/jobs/info/6917273e3ea85638ae1c86ec?utm_campaign=Consultant&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 27 |
+| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68f9f37b089c7e2b4457f635?utm_campaign=Consultant&utm_source=1103)** | Staten Island, NY | On Site | Dec 27 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68df1ecc5ab4977c2e950776?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Dec 27 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/6933f9e6764507023d1bb340?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Dec 27 |
+| **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69472a1863141d188456d946?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
@@ -210,7 +216,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Profee Coding Consultant (Surgery Coding) - PRN](https://jobright.ai/jobs/info/6949975c63141d18845935a9?utm_campaign=Consultant&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69496b407d506e3808f48d3e?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Dec 22 |
 | ↳ | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/694969c27d506e3808f48d1e?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Dec 22 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a03d63141d1884593e66?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/6949a5efd1953b5d11c2ac5f?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Dec 22 |
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/693513acf131d96e4846ccb0?utm_campaign=Consultant&utm_source=1103)** | Hamilton, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/69171b93bcdbf3560c9c52e5?utm_campaign=Consultant&utm_source=1103)** | Kitchener, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/6916f0536f36db06ef05b1d4?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 22 |
@@ -233,5 +239,4 @@ For a complete list, click the following sortable link below:
 | **[Dillon Consulting Limited](http://www.dillon.ca/)** | **[Dillon Consulting: Engineering Graduate Scholarship](https://jobright.ai/jobs/info/6916ee6d6f36db06ef05aedc?utm_campaign=Consultant&utm_source=1103)** | Guelph, Ontario, Canada | On Site | Dec 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Energy & Utilities](https://jobright.ai/jobs/info/690e64e544146d3b6ec53aa4?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 21 |
 | **[Arup](http://www.arup.com)** | **[Graduate Technical Advisory Consultant (Available 2026)](https://jobright.ai/jobs/info/690774f1122e8474c78e50b4?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Dec 21 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69471618d1953b5d11c040cb?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
